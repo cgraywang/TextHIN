@@ -1,0 +1,12 @@
+doc -> baseball -> doc	0.25
+doc -> automotive -> doc	0.25
+doc -> spaceflight -> religion -> spaceflight -> doc	0.25
+doc -> spaceflight -> doc	0.25
+doc -> medicine -> doc	0.25
+
+doc -> baseball -> sports -> baseball -> doc
+doc -> baseball -> business -> baseball -> doc
+
+
+
+doc -> word -> doc	2

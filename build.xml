@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="compile" name="KnowSim" basedir = '.'>
+
+  <!-- Set useful variables -->
+  <property name="target" value="1.8"/>
+  <property name="source" value="1.8"/>
+  <property name="src" location="src/"/>
+  <property name="classes" location="classes"/>
+  <property name="lib" location="lib"/>
+  <property name="libfig" location="fig"/>
+  <property name="libknowsim" location="libknowsim"/>
+  <path id="lib.path">
+    <fileset dir="${libfig}" includes="*.jar"/>
+    <fileset dir="${lib}" includes="*.jar"/>
+  </path>
+
+  <!-- Create directories -->
+  <target name="init">
+    <mkdir dir="${classes}"/>
+    <mkdir dir="${libknowsim}"/>
+  </target>
+
+  <mkdir dir = "${libknowsim}"/>
+  <manifestclasspath property="jar.classpath"
+                       jarfile="libknowsim/knowsim.jar">
+      <classpath refid="lib.path" />
+  </manifestclasspath>
+
+
+  <target name="compile" depends="init">
+    <echo message="Compiling ${ant.project.name}"/>
+    <javac srcdir="${src}" destdir="${classes}" classpathref="lib.path" debug="true" includeantruntime="false" source="${source}" target="${target}">
+      <include name="edu/stanford/nlp/sempre/*.java"/>
+      <include name="edu/stanford/nlp/sempre/freebase/*.java"/>
+      <include name="models/clustering/handleSemanticParsing.java"/>
+      <include name="MetaPathSim/MetaPathSim.java"/>
+    </javac>
+    <jar destfile="${libknowsim}/knowsim.jar" basedir="${classes}" includes="**">
+      <manifest>
+        <attribute name="Class-Path" value="${jar.classpath}"/>
+      </manifest>
+    </jar>
+  </target>
+
+  <target name="clean">
+    <delete includeemptydirs="true" quiet="true">
+      <fileset dir="${classes}" followsymlinks="false"/>
+      <fileset dir="${libknowsim}" followsymlinks="false"/>
+    </delete>
+  </target>
+</project>

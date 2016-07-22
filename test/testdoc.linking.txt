@@ -1,0 +1,889 @@
+68272 ||| comp.windows.x
+67973 ||| comp.windows.x
+	SGI	20866021	Silicon Graphics	http://en.wikipedia.org/wiki/Silicon%20Graphics
+	Gildas PERROT	 NO MATCHING ENTITY
+68214 ||| comp.windows.x
+	John Allen Smith	 NO MATCHING ENTITY
+66981 ||| comp.windows.x
+	Huub	20399351	Huub Broers	http://en.wikipedia.org/wiki/Huub%20Broers
+67486 ||| comp.windows.x
+	Xacces	 NO MATCHING ENTITY
+	X-server	21214743	X Window System	http://en.wikipedia.org/wiki/X%20Window%20System
+61177 ||| comp.sys.ibm.pc.hardware
+	Western Digital WD-93044A	 NO MATCHING ENTITY
+	IBM	21515693	IBM	http://en.wikipedia.org/wiki/IBM
+	Western Digitals ISPFMT	 NO MATCHING ENTITY
+	Norton Speedisk	 NO MATCHING ENTITY
+	NNNN	 NO MATCHING ENTITY
+	NNNN	 NO MATCHING ENTITY
+60210 ||| comp.sys.ibm.pc.hardware
+	Stephen Mark Sanderson	 NO MATCHING ENTITY
+	DOS	20407771	DOS	http://en.wikipedia.org/wiki/DOS
+	DOS	20407771	DOS	http://en.wikipedia.org/wiki/DOS
+	DOS	20407771	DOS	http://en.wikipedia.org/wiki/DOS
+60218 ||| comp.sys.ibm.pc.hardware
+	Viewsonic	18828344	ViewSonic	http://en.wikipedia.org/wiki/ViewSonic
+	Eizo Flexscan	 NO MATCHING ENTITY
+60491 ||| comp.sys.ibm.pc.hardware
+60746 ||| comp.sys.ibm.pc.hardware
+	Australia	21668828	Australia	http://en.wikipedia.org/wiki/Australia
+	Brisbane	20785025	Brisbane	http://en.wikipedia.org/wiki/Brisbane
+51623 ||| comp.sys.mac.hardware
+	PDS	18847736	Public Distribution System	http://en.wikipedia.org/wiki/Public%20Distribution%20System
+	David Mirsky	 NO MATCHING ENTITY
+	PDS	18847736	Public Distribution System	http://en.wikipedia.org/wiki/Public%20Distribution%20System
+	PDS	18847736	Public Distribution System	http://en.wikipedia.org/wiki/Public%20Distribution%20System
+52138 ||| comp.sys.mac.hardware
+	Centris	 NO MATCHING ENTITY
+	C610	 NO MATCHING ENTITY
+	CPU	19814551	Central Philippine University	http://en.wikipedia.org/wiki/Central%20Philippine%20University
+	CPU	19814551	Central Philippine University	http://en.wikipedia.org/wiki/Central%20Philippine%20University
+52290 ||| comp.sys.mac.hardware
+52319 ||| comp.sys.mac.hardware
+52403 ||| comp.sys.mac.hardware
+	PowerPC-based Macs	 NO MATCHING ENTITY
+	Mike Norman	 NO MATCHING ENTITY
+	Bell-Northern Research	15668187	Bell-Northern Research	http://en.wikipedia.org/wiki/Bell-Northern%20Research
+	Ottawa Ontario Canada	 NO MATCHING ENTITY
+21701 ||| soc.religion.christian
+	anti-Catholic	21681392	Catholic Church	http://en.wikipedia.org/wiki/Catholic%20Church
+	Hislop	21430942	Ian Hislop	http://en.wikipedia.org/wiki/Ian%20Hislop
+	Hislop	21430942	Ian Hislop	http://en.wikipedia.org/wiki/Ian%20Hislop
+	Greek	21681372	Eastern Orthodox Church	http://en.wikipedia.org/wiki/Eastern%20Orthodox%20Church
+	Hislop	21430942	Ian Hislop	http://en.wikipedia.org/wiki/Ian%20Hislop
+	British Israelites	20986054	British Israelism	http://en.wikipedia.org/wiki/British%20Israelism
+	English	21484783	British English	http://en.wikipedia.org/wiki/British%20English
+	Bede	21258418	Bede	http://en.wikipedia.org/wiki/Bede
+	English	21484783	British English	http://en.wikipedia.org/wiki/British%20English
+	Germans	21597331	Germany	http://en.wikipedia.org/wiki/Germany
+	Germany	21597331	Germany	http://en.wikipedia.org/wiki/Germany
+	English	21484783	British English	http://en.wikipedia.org/wiki/British%20English
+	Hislop	21430942	Ian Hislop	http://en.wikipedia.org/wiki/Ian%20Hislop
+21403 ||| soc.religion.christian
+	Pope Leo	20547114	Pope Leo I	http://en.wikipedia.org/wiki/Pope%20Leo%20I
+	Church of Rome	21681392	Catholic Church	http://en.wikipedia.org/wiki/Catholic%20Church
+	Church	21681553	Church (building)	http://en.wikipedia.org/wiki/Church%20%28building%29
+	Catholics	21681392	Catholic Church	http://en.wikipedia.org/wiki/Catholic%20Church
+	Church Holy Mother Church	 NO MATCHING ENTITY
+	Cyprian	21673429	Cyprus	http://en.wikipedia.org/wiki/Cyprus
+	Carthage	21158067	Carthage	http://en.wikipedia.org/wiki/Carthage
+	God	21648541	God the Father	http://en.wikipedia.org/wiki/God%20the%20Father
+	Cross	21424620	Christian cross	http://en.wikipedia.org/wiki/Christian%20cross
+	Cup	21389232	FA Cup	http://en.wikipedia.org/wiki/FA%20Cup
+	Crucifxition of Our Lord	 NO MATCHING ENTITY
+	Cup of the New Covenant	 NO MATCHING ENTITY
+	Luke	21487831	Gospel of Luke	http://en.wikipedia.org/wiki/Gospel%20of%20Luke
+	Cup	21389232	FA Cup	http://en.wikipedia.org/wiki/FA%20Cup
+	Catholic Church	21681392	Catholic Church	http://en.wikipedia.org/wiki/Catholic%20Church
+	Church	21681553	Church (building)	http://en.wikipedia.org/wiki/Church%20%28building%29
+	Malachi	13424921	Malachi	http://en.wikipedia.org/wiki/Malachi
+	Malachi	13424921	Malachi	http://en.wikipedia.org/wiki/Malachi
+	Name	21610055	Ukraine	http://en.wikipedia.org/wiki/Ukraine
+	Name	21610055	Ukraine	http://en.wikipedia.org/wiki/Ukraine
+	St. Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Corinthians	21559876	First Epistle to the Corinthians	http://en.wikipedia.org/wiki/First%20Epistle%20to%20the%20Corinthians
+	Babylon	18411735	Whore of Babylon	http://en.wikipedia.org/wiki/Whore%20of%20Babylon
+	Rome	21681392	Catholic Church	http://en.wikipedia.org/wiki/Catholic%20Church
+	Rome	21681392	Catholic Church	http://en.wikipedia.org/wiki/Catholic%20Church
+	John	21588295	John the Evangelist	http://en.wikipedia.org/wiki/John%20the%20Evangelist
+20698 ||| soc.religion.christian
+	Christian	21131284	Christian theology	http://en.wikipedia.org/wiki/Christian%20theology
+	Romans	21100185	Epistle to the Romans	http://en.wikipedia.org/wiki/Epistle%20to%20the%20Romans
+	Christian	21131284	Christian theology	http://en.wikipedia.org/wiki/Christian%20theology
+	Romans	21100185	Epistle to the Romans	http://en.wikipedia.org/wiki/Epistle%20to%20the%20Romans
+	James	21209982	James (band)	http://en.wikipedia.org/wiki/James%20%28band%29
+	Christian	21131284	Christian theology	http://en.wikipedia.org/wiki/Christian%20theology
+20952 ||| soc.religion.christian
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Greek	20056646	Koine Greek	http://en.wikipedia.org/wiki/Koine%20Greek
+	Christian	21681558	Christianity	http://en.wikipedia.org/wiki/Christianity
+	Commandments	21442116	Ten Commandments	http://en.wikipedia.org/wiki/Ten%20Commandments
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Gentile	21359497	Pauline Christianity	http://en.wikipedia.org/wiki/Pauline%20Christianity
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Jews	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	Jews	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	Noachic	 NO MATCHING ENTITY
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Leviticus	17491676	Book of Leviticus	http://en.wikipedia.org/wiki/Book%20of%20Leviticus
+	Deuteronomy	19361533	Book of Deuteronomy	http://en.wikipedia.org/wiki/Book%20of%20Deuteronomy
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Jews	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	Gentiles	18195870	Laeti	http://en.wikipedia.org/wiki/Laeti
+	Church	21681553	Church (building)	http://en.wikipedia.org/wiki/Church%20%28building%29
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Gentiles	18195870	Laeti	http://en.wikipedia.org/wiki/Laeti
+	Christ	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Gentiles	18195870	Laeti	http://en.wikipedia.org/wiki/Laeti
+	Bible	21674389	Bible	http://en.wikipedia.org/wiki/Bible
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Church	21681553	Church (building)	http://en.wikipedia.org/wiki/Church%20%28building%29
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Jews	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Jewish Christians	21581271	Jewish Christian	http://en.wikipedia.org/wiki/Jewish%20Christian
+	Jewish	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	Jewish	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Saul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Gentile Christians	 NO MATCHING ENTITY
+	Gentile Christians	 NO MATCHING ENTITY
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Jews	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	Jewish	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Jews	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Hebrew Scriptures	21674377	Old Testament	http://en.wikipedia.org/wiki/Old%20Testament
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Jews	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	English	21571801	American English	http://en.wikipedia.org/wiki/American%20English
+	Luke	21487831	Gospel of Luke	http://en.wikipedia.org/wiki/Gospel%20of%20Luke
+	Jewish Law	21383799	Halakha	http://en.wikipedia.org/wiki/Halakha
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Jewish	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Gentiles	18195870	Laeti	http://en.wikipedia.org/wiki/Laeti
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Jews	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Christian	21681558	Christianity	http://en.wikipedia.org/wiki/Christianity
+	Pauline	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Christ	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Christian	21681558	Christianity	http://en.wikipedia.org/wiki/Christianity
+	Pauline	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Christian	21681558	Christianity	http://en.wikipedia.org/wiki/Christianity
+	Pauline	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Christians	21681558	Christianity	http://en.wikipedia.org/wiki/Christianity
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Christian	21681558	Christianity	http://en.wikipedia.org/wiki/Christianity
+	Pauline	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Commandments	21442116	Ten Commandments	http://en.wikipedia.org/wiki/Ten%20Commandments
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Christians	21681558	Christianity	http://en.wikipedia.org/wiki/Christianity
+	Christian	21681558	Christianity	http://en.wikipedia.org/wiki/Christianity
+	Pauline	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Jewish	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	H.J. Schoeps	 NO MATCHING ENTITY
+	Jews	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	Christian	21681558	Christianity	http://en.wikipedia.org/wiki/Christianity
+	non-Christian Jews	 NO MATCHING ENTITY
+	Law	21042757	Juris Doctor	http://en.wikipedia.org/wiki/Juris%20Doctor
+	Commandments	21442116	Ten Commandments	http://en.wikipedia.org/wiki/Ten%20Commandments
+	Gentiles	18195870	Laeti	http://en.wikipedia.org/wiki/Laeti
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Jewish	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Gentile	21359497	Pauline Christianity	http://en.wikipedia.org/wiki/Pauline%20Christianity
+	Jesus	21647010	Jesus	http://en.wikipedia.org/wiki/Jesus
+	Paul	21585640	Paul the Apostle	http://en.wikipedia.org/wiki/Paul%20the%20Apostle
+20587 ||| soc.religion.christian
+	Scripture	21674389	Bible	http://en.wikipedia.org/wiki/Bible
+	Christians	21681558	Christianity	http://en.wikipedia.org/wiki/Christianity
+	Christians	21681558	Christianity	http://en.wikipedia.org/wiki/Christianity
+178846 ||| talk.politics.misc
+	FBI	21480105	Federal Bureau of Investigation	http://en.wikipedia.org/wiki/Federal%20Bureau%20of%20Investigation
+	Clinton	21690365	Bill Clinton	http://en.wikipedia.org/wiki/Bill%20Clinton
+	Robert Dole	21059229	Bob Dole	http://en.wikipedia.org/wiki/Bob%20Dole
+	Senate	21432957	United States Senate	http://en.wikipedia.org/wiki/United%20States%20Senate
+	Republicans	21631127	Republican Party (United States)	http://en.wikipedia.org/wiki/Republican%20Party%20%28United%20States%29
+179062 ||| talk.politics.misc
+	Wonder Bunny Sex	 NO MATCHING ENTITY
+177020 ||| talk.politics.misc
+	KKK	18946863	Ku Klux Klan	http://en.wikipedia.org/wiki/Ku%20Klux%20Klan
+	KKK	18946863	Ku Klux Klan	http://en.wikipedia.org/wiki/Ku%20Klux%20Klan
+	US	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+178493 ||| talk.politics.misc
+	English	21644810	English language	http://en.wikipedia.org/wiki/English%20language
+	Teel	7816898	Mike Teel	http://en.wikipedia.org/wiki/Mike%20Teel
+	University	20739582	University of Sheffield	http://en.wikipedia.org/wiki/University%20of%20Sheffield
+	HERA	21228222	Hera	http://en.wikipedia.org/wiki/Hera
+	Mark Holohan	 NO MATCHING ENTITY
+	Sidiqui	 NO MATCHING ENTITY
+	Ayatolah Khomenhi	 NO MATCHING ENTITY
+	Salman Rushdie	20392643	Salman Rushdie	http://en.wikipedia.org/wiki/Salman%20Rushdie
+	Microsoft	21410819	Microsoft	http://en.wikipedia.org/wiki/Microsoft
+	Windows NT	19842281	Windows NT	http://en.wikipedia.org/wiki/Windows%20NT
+	Microsoft	21410819	Microsoft	http://en.wikipedia.org/wiki/Microsoft
+	Microsoft	21410819	Microsoft	http://en.wikipedia.org/wiki/Microsoft
+	Rupert Murdoch	21330894	Rupert Murdoch	http://en.wikipedia.org/wiki/Rupert%20Murdoch
+	James	21129910	James, son of Zebedee	http://en.wikipedia.org/wiki/James%2C%20son%20of%20Zebedee
+	Muslim	21646494	Islam in the United States	http://en.wikipedia.org/wiki/Islam%20in%20the%20United%20States
+	UK	21456453	United Kingdom	http://en.wikipedia.org/wiki/United%20Kingdom
+	non-Americans	 NO MATCHING ENTITY
+	US	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	Spycatcher	14792288	Spycatcher	http://en.wikipedia.org/wiki/Spycatcher
+	British	21367596	British nationality law	http://en.wikipedia.org/wiki/British%20nationality%20law
+	Iran	21675809	Iran	http://en.wikipedia.org/wiki/Iran
+	Israel	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+178658 ||| talk.politics.misc
+	african american	21564277	African American	http://en.wikipedia.org/wiki/African%20American
+54196 ||| rec.sport.hockey
+	Roger Maynard	 NO MATCHING ENTITY
+	Roger	19844627	Roger	http://en.wikipedia.org/wiki/Roger
+	Roger	19844627	Roger	http://en.wikipedia.org/wiki/Roger
+	Gregmeister You	 NO MATCHING ENTITY
+	Roger	19844627	Roger	http://en.wikipedia.org/wiki/Roger
+	Roger	19844627	Roger	http://en.wikipedia.org/wiki/Roger
+	Roger	19844627	Roger	http://en.wikipedia.org/wiki/Roger
+	Roger	19844627	Roger	http://en.wikipedia.org/wiki/Roger
+	Steve Lee University of Western Ontario London	 NO MATCHING ENTITY
+53769 ||| rec.sport.hockey
+54765 ||| rec.sport.hockey
+	Paul Stewart	14313791	Stewart Grand Prix	http://en.wikipedia.org/wiki/Stewart%20Grand%20Prix
+	Federov	 NO MATCHING ENTITY
+	Chaisson	20763215	Eric Chaisson	http://en.wikipedia.org/wiki/Eric%20Chaisson
+	Stewart	21361309	House of Stuart	http://en.wikipedia.org/wiki/House%20of%20Stuart
+	KERRY FRASER	12214758	Kerry Fraser	http://en.wikipedia.org/wiki/Kerry%20Fraser
+	Koharski	9988215	Don Koharski	http://en.wikipedia.org/wiki/Don%20Koharski
+	Paul Stewart	14313791	Stewart Grand Prix	http://en.wikipedia.org/wiki/Stewart%20Grand%20Prix
+54253 ||| rec.sport.hockey
+	ESPN	21499466	Monday Night Football	http://en.wikipedia.org/wiki/Monday%20Night%20Football
+	Islanders	21631930	New York Islanders	http://en.wikipedia.org/wiki/New%20York%20Islanders
+	Devils	19191325	New Jersey Devils	http://en.wikipedia.org/wiki/New%20Jersey%20Devils
+	Penguins	21179850	Pittsburgh Penguins	http://en.wikipedia.org/wiki/Pittsburgh%20Penguins
+	Islanders	21631930	New York Islanders	http://en.wikipedia.org/wiki/New%20York%20Islanders
+	Devils	19191325	New Jersey Devils	http://en.wikipedia.org/wiki/New%20Jersey%20Devils
+52593 ||| rec.sport.hockey
+	TSN Sportsdesk	18852200	SportsCentre	http://en.wikipedia.org/wiki/SportsCentre
+	OTTAWA SUN	16351105	Ottawa Sun	http://en.wikipedia.org/wiki/Ottawa%20Sun
+	Montreal	21429248	Montreal	http://en.wikipedia.org/wiki/Montreal
+	Vin Damphousse	 NO MATCHING ENTITY
+	Brian Bellows	21559968	Brian Bellows	http://en.wikipedia.org/wiki/Brian%20Bellows
+	Phillidelphia	 NO MATCHING ENTITY
+	Phillie	 NO MATCHING ENTITY
+	Eric Lindros	18280561	Eric Lindros	http://en.wikipedia.org/wiki/Eric%20Lindros
+	Ottawa	21582966	Ottawa	http://en.wikipedia.org/wiki/Ottawa
+	Ottawa	21582966	Ottawa	http://en.wikipedia.org/wiki/Ottawa
+	Montreal	21429248	Montreal	http://en.wikipedia.org/wiki/Montreal
+	Ottawa Sun	16351105	Ottawa Sun	http://en.wikipedia.org/wiki/Ottawa%20Sun
+	Nordiques	21163901	Quebec Nordiques	http://en.wikipedia.org/wiki/Quebec%20Nordiques
+	Bruins	20461534	Boston Bruins	http://en.wikipedia.org/wiki/Boston%20Bruins
+	Nordiques	21163901	Quebec Nordiques	http://en.wikipedia.org/wiki/Quebec%20Nordiques
+	Lindros	18280561	Eric Lindros	http://en.wikipedia.org/wiki/Eric%20Lindros
+	Quebec	21211597	Quebec	http://en.wikipedia.org/wiki/Quebec
+	Ottawa	21582966	Ottawa	http://en.wikipedia.org/wiki/Ottawa
+	Ottawa	21582966	Ottawa	http://en.wikipedia.org/wiki/Ottawa
+	Lindros	18280561	Eric Lindros	http://en.wikipedia.org/wiki/Eric%20Lindros
+	Philli	 NO MATCHING ENTITY
+	Lindros	18280561	Eric Lindros	http://en.wikipedia.org/wiki/Eric%20Lindros
+	Quebec	21211597	Quebec	http://en.wikipedia.org/wiki/Quebec
+	Lindros	18280561	Eric Lindros	http://en.wikipedia.org/wiki/Eric%20Lindros
+	Ottawa	21582966	Ottawa	http://en.wikipedia.org/wiki/Ottawa
+	Montreal	21429248	Montreal	http://en.wikipedia.org/wiki/Montreal
+54196 ||| talk.politics.guns
+	Canada	21187667	Canada	http://en.wikipedia.org/wiki/Canada
+	Canada	21187667	Canada	http://en.wikipedia.org/wiki/Canada
+	US	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	U.S.	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	Canada	21187667	Canada	http://en.wikipedia.org/wiki/Canada
+	U.S.	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	Canada	21187667	Canada	http://en.wikipedia.org/wiki/Canada
+	U.S.	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	U.S	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	US	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	Canada	21187667	Canada	http://en.wikipedia.org/wiki/Canada
+	USSR	20464901	Soviet Union national ice hockey team	http://en.wikipedia.org/wiki/Soviet%20Union%20national%20ice%20hockey%20team
+54315 ||| talk.politics.guns
+	Lloyd Bensen	 NO MATCHING ENTITY
+	Treasury	17404325	United States Secretary of the Treasury	http://en.wikipedia.org/wiki/United%20States%20Secretary%20of%20the%20Treasury
+53321 ||| talk.politics.guns
+	New York	20461957	New York Knicks	http://en.wikipedia.org/wiki/New%20York%20Knicks
+	L.A.	21334055	Los Angeles Kings	http://en.wikipedia.org/wiki/Los%20Angeles%20Kings
+	Chicago	17000916	Chicago Blackhawks	http://en.wikipedia.org/wiki/Chicago%20Blackhawks
+55279 ||| talk.politics.guns
+	Denver Post	12672701	The Denver Post	http://en.wikipedia.org/wiki/The%20Denver%20Post
+	Denver Post	12672701	The Denver Post	http://en.wikipedia.org/wiki/The%20Denver%20Post
+	Denver Post	12672701	The Denver Post	http://en.wikipedia.org/wiki/The%20Denver%20Post
+	Post	21504865	The Washington Post	http://en.wikipedia.org/wiki/The%20Washington%20Post
+	Post	21504865	The Washington Post	http://en.wikipedia.org/wiki/The%20Washington%20Post
+	Post	21504865	The Washington Post	http://en.wikipedia.org/wiki/The%20Washington%20Post
+	Denver Post	12672701	The Denver Post	http://en.wikipedia.org/wiki/The%20Denver%20Post
+	Eric E. Snyder Department	 NO MATCHING ENTITY
+	University of Colorado	20173956	University of Colorado Boulder	http://en.wikipedia.org/wiki/University%20of%20Colorado%20Boulder
+	Boulder Boulder	 NO MATCHING ENTITY
+	Colorado	20607223	Colorado	http://en.wikipedia.org/wiki/Colorado
+	Post	21504865	The Washington Post	http://en.wikipedia.org/wiki/The%20Washington%20Post
+	America	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+54269 ||| talk.politics.guns
+	U.S.C.	21547797	United States Code	http://en.wikipedia.org/wiki/United%20States%20Code
+	U.S.C.	21547797	United States Code	http://en.wikipedia.org/wiki/United%20States%20Code
+	Norton	16567554	Norton County, Kansas	http://en.wikipedia.org/wiki/Norton%20County%2C%20Kansas
+	Shelby County	19418096	Shelby County, Tennessee	http://en.wikipedia.org/wiki/Shelby%20County%2C%20Tennessee
+	US	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	Supreme Court	21204947	Supreme Court of the United States	http://en.wikipedia.org/wiki/Supreme%20Court%20of%20the%20United%20States
+	Supreme Court	21204947	Supreme Court of the United States	http://en.wikipedia.org/wiki/Supreme%20Court%20of%20the%20United%20States
+104496 ||| rec.sport.baseball
+	Dodgers	21354411	Los Angeles Dodgers	http://en.wikipedia.org/wiki/Los%20Angeles%20Dodgers
+	Harris	20893669	Harris County, Texas	http://en.wikipedia.org/wiki/Harris%20County%2C%20Texas
+	Harris	20893669	Harris County, Texas	http://en.wikipedia.org/wiki/Harris%20County%2C%20Texas
+	Sharperson	13998141	Mike Sharperson	http://en.wikipedia.org/wiki/Mike%20Sharperson
+	Sharpy	 NO MATCHING ENTITY
+	Wallach	14741243	Eli Wallach	http://en.wikipedia.org/wiki/Eli%20Wallach
+	Astacio	18375818	Pedro Astacio	http://en.wikipedia.org/wiki/Pedro%20Astacio
+	Martinez	16690601	Martinez, California	http://en.wikipedia.org/wiki/Martinez%2C%20California
+	Martinez	16690601	Martinez, California	http://en.wikipedia.org/wiki/Martinez%2C%20California
+	Astacio	18375818	Pedro Astacio	http://en.wikipedia.org/wiki/Pedro%20Astacio
+	Dodgers	21354411	Los Angeles Dodgers	http://en.wikipedia.org/wiki/Los%20Angeles%20Dodgers
+	Piazza	10938435	Mike Piazza	http://en.wikipedia.org/wiki/Mike%20Piazza
+	Wallach	14741243	Eli Wallach	http://en.wikipedia.org/wiki/Eli%20Wallach
+	Dodgers	21354411	Los Angeles Dodgers	http://en.wikipedia.org/wiki/Los%20Angeles%20Dodgers
+	Davis	20346473	Davis, California	http://en.wikipedia.org/wiki/Davis%2C%20California
+	Straw	21315532	Jack Straw	http://en.wikipedia.org/wiki/Jack%20Straw
+105022 ||| rec.sport.baseball
+	Gary Built Henderson	 NO MATCHING ENTITY
+	DiMaggio	20482292	Joe DiMaggio	http://en.wikipedia.org/wiki/Joe%20DiMaggio
+	Winfield	13630230	Dave Winfield	http://en.wikipedia.org/wiki/Dave%20Winfield
+	Rickey	21308746	Branch Rickey	http://en.wikipedia.org/wiki/Branch%20Rickey
+	Dave	19070942	Dave (film)	http://en.wikipedia.org/wiki/Dave%20%28film%29
+	Henderson	20692356	Henderson, Kentucky	http://en.wikipedia.org/wiki/Henderson%2C%20Kentucky
+	Rickey	21308746	Branch Rickey	http://en.wikipedia.org/wiki/Branch%20Rickey
+	Henderson	20692356	Henderson, Kentucky	http://en.wikipedia.org/wiki/Henderson%2C%20Kentucky
+104928 ||| rec.sport.baseball
+	Rusty Staub	21210989	Rusty Staub	http://en.wikipedia.org/wiki/Rusty%20Staub
+	Mordaci Brown	 NO MATCHING ENTITY
+	Brown	21162292	Brown University	http://en.wikipedia.org/wiki/Brown%20University
+104847 ||| rec.sport.baseball
+	Braves	21420400	Atlanta Braves	http://en.wikipedia.org/wiki/Atlanta%20Braves
+	Braves	21420400	Atlanta Braves	http://en.wikipedia.org/wiki/Atlanta%20Braves
+	Braves	21420400	Atlanta Braves	http://en.wikipedia.org/wiki/Atlanta%20Braves
+	Georgia	21211468	Georgia (U.S. state)	http://en.wikipedia.org/wiki/Georgia%20%28U.S.%20state%29
+	Cubs	21599899	Chicago Cubs	http://en.wikipedia.org/wiki/Chicago%20Cubs
+	United States	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	Braves	21420400	Atlanta Braves	http://en.wikipedia.org/wiki/Atlanta%20Braves
+	Braves	21420400	Atlanta Braves	http://en.wikipedia.org/wiki/Atlanta%20Braves
+	America	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	America	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	Ted Turner	21117455	Ted Turner	http://en.wikipedia.org/wiki/Ted%20Turner
+	America	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	Braves	21420400	Atlanta Braves	http://en.wikipedia.org/wiki/Atlanta%20Braves
+	Cubs	21599899	Chicago Cubs	http://en.wikipedia.org/wiki/Chicago%20Cubs
+	Braves	21420400	Atlanta Braves	http://en.wikipedia.org/wiki/Atlanta%20Braves
+	Harry	21338362	Harry Potter	http://en.wikipedia.org/wiki/Harry%20Potter
+	Pete	19004309	Pete Maravich	http://en.wikipedia.org/wiki/Pete%20Maravich
+	TBS	19676543	Major League Baseball on TBS	http://en.wikipedia.org/wiki/Major%20League%20Baseball%20on%20TBS
+	Braves	21420400	Atlanta Braves	http://en.wikipedia.org/wiki/Atlanta%20Braves
+	Georgia	21211468	Georgia (U.S. state)	http://en.wikipedia.org/wiki/Georgia%20%28U.S.%20state%29
+	Kentucky	21441802	Kentucky	http://en.wikipedia.org/wiki/Kentucky
+	Cincinnati	21686559	Cincinnati Reds	http://en.wikipedia.org/wiki/Cincinnati%20Reds
+	Braves	21420400	Atlanta Braves	http://en.wikipedia.org/wiki/Atlanta%20Braves
+	Braves	21420400	Atlanta Braves	http://en.wikipedia.org/wiki/Atlanta%20Braves
+	Cincinnati	21686559	Cincinnati Reds	http://en.wikipedia.org/wiki/Cincinnati%20Reds
+	Reds	21686559	Cincinnati Reds	http://en.wikipedia.org/wiki/Cincinnati%20Reds
+	America	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	Braves	21420400	Atlanta Braves	http://en.wikipedia.org/wiki/Atlanta%20Braves
+	Toronto AMerica	 NO MATCHING ENTITY
+	Braves	21420400	Atlanta Braves	http://en.wikipedia.org/wiki/Atlanta%20Braves
+	Braves	21420400	Atlanta Braves	http://en.wikipedia.org/wiki/Atlanta%20Braves
+	Toronto	21303559	Toronto	http://en.wikipedia.org/wiki/Toronto
+104324 ||| rec.sport.baseball
+	Cubs	21599899	Chicago Cubs	http://en.wikipedia.org/wiki/Chicago%20Cubs
+	Mike Harkey	19984350	Mike Harkey	http://en.wikipedia.org/wiki/Mike%20Harkey
+	Harkey	19984350	Mike Harkey	http://en.wikipedia.org/wiki/Mike%20Harkey
+	Delino Deshields John Wetteland	 NO MATCHING ENTITY
+	Ken Cal Poly	 NO MATCHING ENTITY
+59411 ||| sci.med
+59531 ||| sci.med
+	Kenneth Gilbert University of Pittsburgh Well	 NO MATCHING ENTITY
+	Doc	21500993	Clifford Carlson	http://en.wikipedia.org/wiki/Clifford%20Carlson
+	Len Howard MD	 NO MATCHING ENTITY
+59380 ||| sci.med
+	Allergy	20072022	Food allergy	http://en.wikipedia.org/wiki/Food%20allergy
+	NHS	21483631	National Health Service	http://en.wikipedia.org/wiki/National%20Health%20Service
+	Chinese	21439436	Chinese cuisine	http://en.wikipedia.org/wiki/Chinese%20cuisine
+58890 ||| sci.med
+	Pomeranian	17543959	Pomeranian (dog)	http://en.wikipedia.org/wiki/Pomeranian%20%28dog%29
+	Lyme	21273657	Lyme disease	http://en.wikipedia.org/wiki/Lyme%20disease
+58936 ||| sci.med
+	Dogs Produces Arthritis	 NO MATCHING ENTITY
+104496 ||| rec.motorcycles
+105022 ||| rec.motorcycles
+104847 ||| rec.motorcycles
+	Blaine	15297675	Blaine, Washington	http://en.wikipedia.org/wiki/Blaine%2C%20Washington
+	Blaine	15297675	Blaine, Washington	http://en.wikipedia.org/wiki/Blaine%2C%20Washington
+	Blaine	15297675	Blaine, Washington	http://en.wikipedia.org/wiki/Blaine%2C%20Washington
+	Waco	20822107	Waco Aircraft Company	http://en.wikipedia.org/wiki/Waco%20Aircraft%20Company
+105558 ||| rec.motorcycles
+	Dave Cost	 NO MATCHING ENTITY
+	Ontario	20745050	Ontario	http://en.wikipedia.org/wiki/Ontario
+	Kaz Yoshima	 NO MATCHING ENTITY
+	Ontario	20745050	Ontario	http://en.wikipedia.org/wiki/Ontario
+	Ontario	20745050	Ontario	http://en.wikipedia.org/wiki/Ontario
+	Dyno	20631189	Don Nicholson	http://en.wikipedia.org/wiki/Don%20Nicholson
+105257 ||| rec.motorcycles
+54196 ||| alt.atheism
+	Andy	15736437	Andy Murray	http://en.wikipedia.org/wiki/Andy%20Murray
+	Newton	21600174	Isaac Newton	http://en.wikipedia.org/wiki/Isaac%20Newton
+	Einstein	21486023	Albert Einstein	http://en.wikipedia.org/wiki/Albert%20Einstein
+	Greeks	20840765	ancient Greece	http://en.wikipedia.org/wiki/ancient%20Greece
+	Newton	21600174	Isaac Newton	http://en.wikipedia.org/wiki/Isaac%20Newton
+	Newton	21600174	Isaac Newton	http://en.wikipedia.org/wiki/Isaac%20Newton
+	Einstein	21486023	Albert Einstein	http://en.wikipedia.org/wiki/Albert%20Einstein
+53321 ||| alt.atheism
+53224 ||| alt.atheism
+	Polly	17480204	Polly Dunbar	http://en.wikipedia.org/wiki/Polly%20Dunbar
+53485 ||| alt.atheism
+	Andy	21107292	Andy Benes	http://en.wikipedia.org/wiki/Andy%20Benes
+	Newton	21600174	Isaac Newton	http://en.wikipedia.org/wiki/Isaac%20Newton
+	Einstein	21407692	General relativity	http://en.wikipedia.org/wiki/General%20relativity
+53405 ||| alt.atheism
+	Kevin Marshall	16420935	Kevin Marshall	http://en.wikipedia.org/wiki/Kevin%20Marshall
+	Christian	21681558	Christianity	http://en.wikipedia.org/wiki/Christianity
+	Christian	21681558	Christianity	http://en.wikipedia.org/wiki/Christianity
+	Kevin Marshall	16420935	Kevin Marshall	http://en.wikipedia.org/wiki/Kevin%20Marshall
+	LaVey	19943403	Anton LaVey	http://en.wikipedia.org/wiki/Anton%20LaVey
+	Anton LaVey	19943403	Anton LaVey	http://en.wikipedia.org/wiki/Anton%20LaVey
+	Satanism	19076929	LaVeyan Satanism	http://en.wikipedia.org/wiki/LaVeyan%20Satanism
+	Arthur Lyons	 NO MATCHING ENTITY
+	Cult of Devil Worship	 NO MATCHING ENTITY
+	America	21192125	Americas	http://en.wikipedia.org/wiki/Americas
+	Black Pope	18716743	Superior General of the Society of Jesus	http://en.wikipedia.org/wiki/Superior%20General%20of%20the%20Society%20of%20Jesus
+	Satan	21610252	Satan	http://en.wikipedia.org/wiki/Satan
+	Satanic ritualism	 NO MATCHING ENTITY
+	LaVey	19943403	Anton LaVey	http://en.wikipedia.org/wiki/Anton%20LaVey
+	LaVey	19943403	Anton LaVey	http://en.wikipedia.org/wiki/Anton%20LaVey
+	Nietzsche	21466572	Friedrich Nietzsche	http://en.wikipedia.org/wiki/Friedrich%20Nietzsche
+	Crowley	19959060	Aleister Crowley	http://en.wikipedia.org/wiki/Aleister%20Crowley
+	Reich	20902025	Wilhelm Reich	http://en.wikipedia.org/wiki/Wilhelm%20Reich
+	P.T. Barnum	20533348	P. T. Barnum	http://en.wikipedia.org/wiki/P.%20T.%20Barnum
+	Church of Free Sex	 NO MATCHING ENTITY
+	Church	21681558	Christianity	http://en.wikipedia.org/wiki/Christianity
+	Hollywood	21287090	Hollywood	http://en.wikipedia.org/wiki/Hollywood
+	Sammy Davis	20506141	Sammy Davis, Jr.	http://en.wikipedia.org/wiki/Sammy%20Davis%2C%20Jr.
+	Jr	 NO MATCHING ENTITY
+	Jayne Mansfield	13116865	Jayne Mansfield	http://en.wikipedia.org/wiki/Jayne%20Mansfield
+	LaVey	19943403	Anton LaVey	http://en.wikipedia.org/wiki/Anton%20LaVey
+	Sammy	21565795	C. H. "Sammy" Downs	http://en.wikipedia.org/wiki/C.%20H.%20%22Sammy%22%20Downs
+	Satanist	19076929	LaVeyan Satanism	http://en.wikipedia.org/wiki/LaVeyan%20Satanism
+	Christian	21681558	Christianity	http://en.wikipedia.org/wiki/Christianity
+	Church of Satan	17207360	Church of Satan	http://en.wikipedia.org/wiki/Church%20of%20Satan
+	American	21192125	Americas	http://en.wikipedia.org/wiki/Americas
+83665 ||| talk.religion.misc
+	Jeff	16264465	Jeff (album)	http://en.wikipedia.org/wiki/Jeff%20%28album%29
+83816 ||| talk.religion.misc
+	Paul Harvey	21148792	Paul Harvey (actor)	http://en.wikipedia.org/wiki/Paul%20Harvey%20%28actor%29
+	Kent	20883457	Kent, Ohio	http://en.wikipedia.org/wiki/Kent%2C%20Ohio
+82781 ||| talk.religion.misc
+	Xtian	 NO MATCHING ENTITY
+	Hudson	20497825	Hudson River	http://en.wikipedia.org/wiki/Hudson%20River
+	Jews	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	Hudson	20497825	Hudson River	http://en.wikipedia.org/wiki/Hudson%20River
+	Hudson	20497825	Hudson River	http://en.wikipedia.org/wiki/Hudson%20River
+	Word of God	21674389	Bible	http://en.wikipedia.org/wiki/Bible
+	Pied Piper	20115451	Pied Piper of Hamelin	http://en.wikipedia.org/wiki/Pied%20Piper%20of%20Hamelin
+83638 ||| talk.religion.misc
+	U.S.	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+83792 ||| talk.religion.misc
+	Bruce Salem	 NO MATCHING ENTITY
+101603 ||| rec.autos
+	Susan Faludi	21267001	Susan Faludi	http://en.wikipedia.org/wiki/Susan%20Faludi
+103094 ||| rec.autos
+	Arlen Martin AT Microelectronics	 NO MATCHING ENTITY
+101614 ||| rec.autos
+	Dodge Intrepid	20822278	Dodge Intrepid	http://en.wikipedia.org/wiki/Dodge%20Intrepid
+103280 ||| rec.autos
+	Mobile Air Conditioning Society MACS	 NO MATCHING ENTITY
+	R-12	21005009	Dichlorodifluoromethane	http://en.wikipedia.org/wiki/Dichlorodifluoromethane
+102829 ||| rec.autos
+	Alfa Spiders	 NO MATCHING ENTITY
+	Alfa	21207880	Alfa Romeo	http://en.wikipedia.org/wiki/Alfa%20Romeo
+	Toyota	20681180	Toyota	http://en.wikipedia.org/wiki/Toyota
+15224 ||| sci.crypt
+	Intergraph	20141851	Intergraph	http://en.wikipedia.org/wiki/Intergraph
+	Fairchild Semiconductor	20581835	Fairchild Semiconductor	http://en.wikipedia.org/wiki/Fairchild%20Semiconductor
+	Intergraph	20141851	Intergraph	http://en.wikipedia.org/wiki/Intergraph
+	Intergraph	20141851	Intergraph	http://en.wikipedia.org/wiki/Intergraph
+	National Semiconductor	18963803	National Semiconductor	http://en.wikipedia.org/wiki/National%20Semiconductor
+	Clipper Chip	16044261	Clipper chip	http://en.wikipedia.org/wiki/Clipper%20chip
+	Clipper	8331479	Clipper architecture	http://en.wikipedia.org/wiki/Clipper%20architecture
+	Intergraph	20141851	Intergraph	http://en.wikipedia.org/wiki/Intergraph
+15796 ||| sci.crypt
+	Secret Service	21684674	Secret Intelligence Service	http://en.wikipedia.org/wiki/Secret%20Intelligence%20Service
+15512 ||| sci.crypt
+	NSA	19575828	National Security Agency	http://en.wikipedia.org/wiki/National%20Security%20Agency
+	NSA	19575828	National Security Agency	http://en.wikipedia.org/wiki/National%20Security%20Agency
+15887 ||| sci.crypt
+	Department of Agriculture	21413572	United States Department of Agriculture	http://en.wikipedia.org/wiki/United%20States%20Department%20of%20Agriculture
+	Smithsonian	20863182	Smithsonian Institution	http://en.wikipedia.org/wiki/Smithsonian%20Institution
+	C-SPAN	20444237	C-SPAN	http://en.wikipedia.org/wiki/C-SPAN
+	Smithsonian	20863182	Smithsonian Institution	http://en.wikipedia.org/wiki/Smithsonian%20Institution
+15509 ||| sci.crypt
+	ATT	19689599	AT&T	http://en.wikipedia.org/wiki/AT%26T
+	PGP	16704751	Pretty Good Privacy	http://en.wikipedia.org/wiki/Pretty%20Good%20Privacy
+9499 ||| comp.os.ms-windows.misc
+	Windows	21391227	Microsoft Windows	http://en.wikipedia.org/wiki/Microsoft%20Windows
+	ATI Graphics Ultra	 NO MATCHING ENTITY
+	ATI Ultra Plus EISA	 NO MATCHING ENTITY
+	ATI	21342713	ATI Technologies	http://en.wikipedia.org/wiki/ATI%20Technologies
+	Local Bus	20933245	Transit bus	http://en.wikipedia.org/wiki/Transit%20bus
+	Harvard Graphics	17753982	Harvard Graphics	http://en.wikipedia.org/wiki/Harvard%20Graphics
+	ATI	21342713	ATI Technologies	http://en.wikipedia.org/wiki/ATI%20Technologies
+10147 ||| comp.os.ms-windows.misc
+9564 ||| comp.os.ms-windows.misc
+9771 ||| comp.os.ms-windows.misc
+	HP4 Postcript	 NO MATCHING ENTITY
+9689 ||| comp.os.ms-windows.misc
+61315 ||| sci.space
+	HST	19959968	Hubble Space Telescope	http://en.wikipedia.org/wiki/Hubble%20Space%20Telescope
+	Earth	21386809	Earth	http://en.wikipedia.org/wiki/Earth
+61366 ||| sci.space
+	Isaac Kuo Twinkle	 NO MATCHING ENTITY
+61177 ||| sci.space
+	Gamma Ray	16148715	Gamma Ray (band)	http://en.wikipedia.org/wiki/Gamma%20Ray%20%28band%29
+60210 ||| sci.space
+	US	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	Soviet Program	 NO MATCHING ENTITY
+	Kennedy	18291208	Kennedy Space Center	http://en.wikipedia.org/wiki/Kennedy%20Space%20Center
+	Nasa	20986269	NASA	http://en.wikipedia.org/wiki/NASA
+	US	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	Mars	21385230	Mars	http://en.wikipedia.org/wiki/Mars
+	Mars	21385230	Mars	http://en.wikipedia.org/wiki/Mars
+	Nixon	20686500	Richard Nixon	http://en.wikipedia.org/wiki/Richard%20Nixon
+	Shuttle	16419936	Saturn V	http://en.wikipedia.org/wiki/Saturn%20V
+	US	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	US	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	James T. Green	 NO MATCHING ENTITY
+	Earth	21386809	Earth	http://en.wikipedia.org/wiki/Earth
+	John F. Kennedy	21073698	John F. Kennedy	http://en.wikipedia.org/wiki/John%20F.%20Kennedy
+61365 ||| sci.space
+	Cook	19242285	James Cook	http://en.wikipedia.org/wiki/James%20Cook
+	Joseph Banks	21299744	Joseph Banks	http://en.wikipedia.org/wiki/Joseph%20Banks
+	Endeavour	21069730	HMS Endeavour	http://en.wikipedia.org/wiki/HMS%20Endeavour
+	Colnett	13027370	James Colnett	http://en.wikipedia.org/wiki/James%20Colnett
+	Galapagos	20371659	Galápagos Islands	http://en.wikipedia.org/wiki/Gal%C3%A1pagos%20Islands
+	British	21503304	England	http://en.wikipedia.org/wiki/England
+	Willoughby	18378782	Willoughby, New South Wales	http://en.wikipedia.org/wiki/Willoughby%2C%20New%20South%20Wales
+	London	20991737	London	http://en.wikipedia.org/wiki/London
+	Newman Aeronautical Engineering University of Sydney Sydney NSW	 NO MATCHING ENTITY
+	AUSTRALIA	21668828	Australia	http://en.wikipedia.org/wiki/Australia
+	Daniel M. Newman	 NO MATCHING ENTITY
+	Daniel M. Newman	 NO MATCHING ENTITY
+	Aeronautical Engineering	21604078	Aerospace engineering	http://en.wikipedia.org/wiki/Aerospace%20engineering
+	Sydney	21522013	Sydney	http://en.wikipedia.org/wiki/Sydney
+39640 ||| comp.graphics
+38908 ||| comp.graphics
+	MAC	11796540	Mandatory access control	http://en.wikipedia.org/wiki/Mandatory%20access%20control
+	Bin	19347431	Jeon Hye-bin	http://en.wikipedia.org/wiki/Jeon%20Hye-bin
+	BinHex	9560092	BinHex	http://en.wikipedia.org/wiki/BinHex
+	Niko Schuessler	 NO MATCHING ENTITY
+	Iowa State University Computation Center	 NO MATCHING ENTITY
+39056 ||| comp.graphics
+38566 ||| comp.graphics
+39641 ||| comp.graphics
+52762 ||| sci.electronics
+54196 ||| sci.electronics
+	US	21643921	United States	http://en.wikipedia.org/wiki/United%20States
+	MacroVision	20731722	Rovi Corporation	http://en.wikipedia.org/wiki/Rovi%20Corporation
+54315 ||| sci.electronics
+53769 ||| sci.electronics
+54269 ||| sci.electronics
+	Sony TV	19718136	Sony Entertainment Television (India)	http://en.wikipedia.org/wiki/Sony%20Entertainment%20Television%20%28India%29
+	Scott	20676400	Montgomery Scott	http://en.wikipedia.org/wiki/Montgomery%20Scott
+76199 ||| misc.forsale
+	Klipsch Forte	 NO MATCHING ENTITY
+76855 ||| misc.forsale
+76186 ||| misc.forsale
+76918 ||| misc.forsale
+	Jim Lee	6591022	Jim Lee	http://en.wikipedia.org/wiki/Jim%20Lee
+	Green Goblin	21389773	Green Goblin	http://en.wikipedia.org/wiki/Green%20Goblin
+	Archer	7841037	Archer (TV series)	http://en.wikipedia.org/wiki/Archer%20%28TV%20series%29
+	Armstrong	18090573	Neil Armstrong	http://en.wikipedia.org/wiki/Neil%20Armstrong
+	Frank Miller Smith Layton	 NO MATCHING ENTITY
+	Frank Miller	20522800	Frank Miller (comics)	http://en.wikipedia.org/wiki/Frank%20Miller%20%28comics%29
+	Azrael	20368718	Azrael (comics)	http://en.wikipedia.org/wiki/Azrael%20%28comics%29
+	Azrael	20368718	Azrael (comics)	http://en.wikipedia.org/wiki/Azrael%20%28comics%29
+	H.A.R.D. Corps H.A.R.D. Corps	 NO MATCHING ENTITY
+	McFarlane	21574794	Todd McFarlane	http://en.wikipedia.org/wiki/Todd%20McFarlane
+	Keown	12473768	Martin Keown	http://en.wikipedia.org/wiki/Martin%20Keown
+	Marvel Comics Presents	16116655	Marvel Comics Presents	http://en.wikipedia.org/wiki/Marvel%20Comics%20Presents
+	Charleston Chew	1907986	Charleston Chew	http://en.wikipedia.org/wiki/Charleston%20Chew
+	Sam Keith	5513699	Sam Keith	http://en.wikipedia.org/wiki/Sam%20Keith
+	Maxx	15893832	The Maxx	http://en.wikipedia.org/wiki/The%20Maxx
+	1st Liefeld	 NO MATCHING ENTITY
+	Lobo	16409546	Lobo (DC Comics)	http://en.wikipedia.org/wiki/Lobo%20%28DC%20Comics%29
+	Lobo	16409546	Lobo (DC Comics)	http://en.wikipedia.org/wiki/Lobo%20%28DC%20Comics%29
+	Power Man Iron Fist	 NO MATCHING ENTITY
+	Spectacular Spider-Man	21432147	Spider-Man	http://en.wikipedia.org/wiki/Spider-Man
+	UNICEF	20842093	UNICEF	http://en.wikipedia.org/wiki/UNICEF
+	Trianglehead	 NO MATCHING ENTITY
+	Sabretooth	15290522	Sabretooth (comics)	http://en.wikipedia.org/wiki/Sabretooth%20%28comics%29
+	Wolverine	21657588	Wolverine (comics)	http://en.wikipedia.org/wiki/Wolverine%20%28comics%29
+	Sabretooth	15290522	Sabretooth (comics)	http://en.wikipedia.org/wiki/Sabretooth%20%28comics%29
+	Wolverine	21657588	Wolverine (comics)	http://en.wikipedia.org/wiki/Wolverine%20%28comics%29
+	Miller	20521391	Kenny Miller	http://en.wikipedia.org/wiki/Kenny%20Miller
+	Liefeld	21677125	Rob Liefeld	http://en.wikipedia.org/wiki/Rob%20Liefeld
+	Liefeld	21677125	Rob Liefeld	http://en.wikipedia.org/wiki/Rob%20Liefeld
+	Liefeld	21677125	Rob Liefeld	http://en.wikipedia.org/wiki/Rob%20Liefeld
+	Deadpool	21316948	Deadpool	http://en.wikipedia.org/wiki/Deadpool
+	Liefeld	21677125	Rob Liefeld	http://en.wikipedia.org/wiki/Rob%20Liefeld
+	Sunspot Gideon	 NO MATCHING ENTITY
+76474 ||| misc.forsale
+76199 ||| talk.politics.mideast
+	Demirel	13974474	Süleyman Demirel	http://en.wikipedia.org/wiki/S%C3%BCleyman%20Demirel
+	X-Soviet Armenian	 NO MATCHING ENTITY
+	Muslims	20694610	Bosniaks	http://en.wikipedia.org/wiki/Bosniaks
+	Turks	21628743	Turkish people	http://en.wikipedia.org/wiki/Turkish%20people
+	Kurds	21116874	Kurdish people	http://en.wikipedia.org/wiki/Kurdish%20people
+	Muslim	20694610	Bosniaks	http://en.wikipedia.org/wiki/Bosniaks
+	Hovig Heghinian To	 NO MATCHING ENTITY
+	Armenian	21606586	Armenian Genocide	http://en.wikipedia.org/wiki/Armenian%20Genocide
+	Mutlu	15250138	Halil Mutlu	http://en.wikipedia.org/wiki/Halil%20Mutlu
+	Cosar	 NO MATCHING ENTITY
+	Akgun	 NO MATCHING ENTITY
+	Uludamar	 NO MATCHING ENTITY
+	Akman	12212610	Ayhan Akman	http://en.wikipedia.org/wiki/Ayhan%20Akman
+	Oflazer	 NO MATCHING ENTITY
+	Turkish	21628743	Turkish people	http://en.wikipedia.org/wiki/Turkish%20people
+	Turkiye	21510648	Turkey	http://en.wikipedia.org/wiki/Turkey
+	TRNC	21673427	Northern Cyprus	http://en.wikipedia.org/wiki/Northern%20Cyprus
+	SDPA	 NO MATCHING ENTITY
+	Turkish	21628743	Turkish people	http://en.wikipedia.org/wiki/Turkish%20people
+	x-Soviet Armenian	 NO MATCHING ENTITY
+	Parlakbilek Ahmet	 NO MATCHING ENTITY
+	Davidian	17303378	Levon Davidian	http://en.wikipedia.org/wiki/Levon%20Davidian
+	Hasan Mutlu	 NO MATCHING ENTITY
+	David Davidian Message-ID	 NO MATCHING ENTITY
+	Ahmet Parlakbilek	 NO MATCHING ENTITY
+	AP Turk	 NO MATCHING ENTITY
+	AP Davidian	 NO MATCHING ENTITY
+	Anna	20816802	Saint Anne	http://en.wikipedia.org/wiki/Saint%20Anne
+	Armenians	21606586	Armenian Genocide	http://en.wikipedia.org/wiki/Armenian%20Genocide
+	Moslems	 NO MATCHING ENTITY
+	Turkish Historical Society	19358187	Turkish Historical Society	http://en.wikipedia.org/wiki/Turkish%20Historical%20Society
+	Armenian	21606586	Armenian Genocide	http://en.wikipedia.org/wiki/Armenian%20Genocide
+	Turkish	21628743	Turkish people	http://en.wikipedia.org/wiki/Turkish%20people
+	Leo	21005058	Leo (constellation)	http://en.wikipedia.org/wiki/Leo%20%28constellation%29
+	Yalanci Yalanci	 NO MATCHING ENTITY
+	Turks Yalanci	 NO MATCHING ENTITY
+	Armenians	21606586	Armenian Genocide	http://en.wikipedia.org/wiki/Armenian%20Genocide
+	Yalanci	 NO MATCHING ENTITY
+	Yalanci	 NO MATCHING ENTITY
+	Committee of Yalanci Dashnaktsutiun	 NO MATCHING ENTITY
+	Society of Ittihad	 NO MATCHING ENTITY
+	Terakki	 NO MATCHING ENTITY
+	Yalanci	 NO MATCHING ENTITY
+	Yalanci	 NO MATCHING ENTITY
+	Russian	21561650	Russian Empire	http://en.wikipedia.org/wiki/Russian%20Empire
+	Yalanci Yalanci	 NO MATCHING ENTITY
+	L. Kuper	 NO MATCHING ENTITY
+	Twentieth Century	21590343	20th century	http://en.wikipedia.org/wiki/20th%20century
+	Yalanci New York	 NO MATCHING ENTITY
+	Sub Commission on Prevention of Discrimination of Minorities of the Commission on Human Rights of the United Nations	 NO MATCHING ENTITY
+	Cambodia	18178901	Cambodia	http://en.wikipedia.org/wiki/Cambodia
+	Turks	21628743	Turkish people	http://en.wikipedia.org/wiki/Turkish%20people
+	Armenians	21606586	Armenian Genocide	http://en.wikipedia.org/wiki/Armenian%20Genocide
+	Mutlu	15250138	Halil Mutlu	http://en.wikipedia.org/wiki/Halil%20Mutlu
+	Turkish Historical Society	19358187	Turkish Historical Society	http://en.wikipedia.org/wiki/Turkish%20Historical%20Society
+	Turkish	21628743	Turkish people	http://en.wikipedia.org/wiki/Turkish%20people
+	Armenians	21606586	Armenian Genocide	http://en.wikipedia.org/wiki/Armenian%20Genocide
+	David Davidian	 NO MATCHING ENTITY
+	Davidian	17303378	Levon Davidian	http://en.wikipedia.org/wiki/Levon%20Davidian
+	Armenian	21606586	Armenian Genocide	http://en.wikipedia.org/wiki/Armenian%20Genocide
+	Leo	21005058	Leo (constellation)	http://en.wikipedia.org/wiki/Leo%20%28constellation%29
+	Turks	21628743	Turkish people	http://en.wikipedia.org/wiki/Turkish%20people
+	Armenians	21606586	Armenian Genocide	http://en.wikipedia.org/wiki/Armenian%20Genocide
+	Committee of Dashnaktsutiun	 NO MATCHING ENTITY
+	Society of Ittihad	 NO MATCHING ENTITY
+	Terakki	 NO MATCHING ENTITY
+	Dashnaks	21288763	Armenian Revolutionary Federation	http://en.wikipedia.org/wiki/Armenian%20Revolutionary%20Federation
+	Russian	21561650	Russian Empire	http://en.wikipedia.org/wiki/Russian%20Empire
+	A. Leo	 NO MATCHING ENTITY
+	Armenian Revolution	 NO MATCHING ENTITY
+	Turkey	21510648	Turkey	http://en.wikipedia.org/wiki/Turkey
+	MUTLU	15250138	Halil Mutlu	http://en.wikipedia.org/wiki/Halil%20Mutlu
+	Davidian	17303378	Levon Davidian	http://en.wikipedia.org/wiki/Levon%20Davidian
+	Mutlu	15250138	Halil Mutlu	http://en.wikipedia.org/wiki/Halil%20Mutlu
+	Mutlu	15250138	Halil Mutlu	http://en.wikipedia.org/wiki/Halil%20Mutlu
+	Ahmet PARLAKBILEK	 NO MATCHING ENTITY
+	Vedat Dogan	 NO MATCHING ENTITY
+	Vedat Dogan	 NO MATCHING ENTITY
+	Near East	19694040	Mesopotamia	http://en.wikipedia.org/wiki/Mesopotamia
+	A. Rawlinson	18143593	A. R. Rawlinson	http://en.wikipedia.org/wiki/A.%20R.%20Rawlinson
+	Jonathan Cape	17491526	Jonathan Cape	http://en.wikipedia.org/wiki/Jonathan%20Cape
+	Bedford Square	18263097	Bedford Square	http://en.wikipedia.org/wiki/Bedford%20Square
+	London	20991737	London	http://en.wikipedia.org/wiki/London
+	Serdar Argic	19191860	Serdar Argic	http://en.wikipedia.org/wiki/Serdar%20Argic
+	Serdar Argic	19191860	Serdar Argic	http://en.wikipedia.org/wiki/Serdar%20Argic
+	Turkish	21628743	Turkish people	http://en.wikipedia.org/wiki/Turkish%20people
+	Serdar Argic	19191860	Serdar Argic	http://en.wikipedia.org/wiki/Serdar%20Argic
+	Serdar Argic	19191860	Serdar Argic	http://en.wikipedia.org/wiki/Serdar%20Argic
+	Armenians	21606586	Armenian Genocide	http://en.wikipedia.org/wiki/Armenian%20Genocide
+	Serdar Argic	19191860	Serdar Argic	http://en.wikipedia.org/wiki/Serdar%20Argic
+	Armenians	21606586	Armenian Genocide	http://en.wikipedia.org/wiki/Armenian%20Genocide
+	Turks	21628743	Turkish people	http://en.wikipedia.org/wiki/Turkish%20people
+	Butcher	17076588	Terry Butcher	http://en.wikipedia.org/wiki/Terry%20Butcher
+	Armenian	21606586	Armenian Genocide	http://en.wikipedia.org/wiki/Armenian%20Genocide
+	Armenian	21606586	Armenian Genocide	http://en.wikipedia.org/wiki/Armenian%20Genocide
+	Turks	21628743	Turkish people	http://en.wikipedia.org/wiki/Turkish%20people
+	Kurds	21116874	Kurdish people	http://en.wikipedia.org/wiki/Kurdish%20people
+	Hitler	21444596	Adolf Hitler	http://en.wikipedia.org/wiki/Adolf%20Hitler
+	Armenian	21606586	Armenian Genocide	http://en.wikipedia.org/wiki/Armenian%20Genocide
+	Armenian	21606586	Armenian Genocide	http://en.wikipedia.org/wiki/Armenian%20Genocide
+	Armenian	21606586	Armenian Genocide	http://en.wikipedia.org/wiki/Armenian%20Genocide
+	Turkish	21628743	Turkish people	http://en.wikipedia.org/wiki/Turkish%20people
+	Turks	21628743	Turkish people	http://en.wikipedia.org/wiki/Turkish%20people
+	Ohanus Appressian	 NO MATCHING ENTITY
+	Armenia	21550066	Armenia	http://en.wikipedia.org/wiki/Armenia
+	Turkish	21628743	Turkish people	http://en.wikipedia.org/wiki/Turkish%20people
+76186 ||| talk.politics.mideast
+	Leonard Ramsden Hartill	 NO MATCHING ENTITY
+	Bobbs-Merrill Company	21454063	Bobbs-Merrill Company	http://en.wikipedia.org/wiki/Bobbs-Merrill%20Company
+	Indianapolis	21641346	Indianapolis	http://en.wikipedia.org/wiki/Indianapolis
+	Armenian	21550066	Armenia	http://en.wikipedia.org/wiki/Armenia
+	Muslim	21418928	Muslim conquests	http://en.wikipedia.org/wiki/Muslim%20conquests
+	Turkish	21628743	Turkish people	http://en.wikipedia.org/wiki/Turkish%20people
+	Russians	21621275	Soviet Union	http://en.wikipedia.org/wiki/Soviet%20Union
+	Russians	21621275	Soviet Union	http://en.wikipedia.org/wiki/Soviet%20Union
+	Karaklis	18361069	Vanadzor	http://en.wikipedia.org/wiki/Vanadzor
+	Turks	21628743	Turkish people	http://en.wikipedia.org/wiki/Turkish%20people
+	Turks	21628743	Turkish people	http://en.wikipedia.org/wiki/Turkish%20people
+	Ohanus Appressian	 NO MATCHING ENTITY
+	Armenia	21550066	Armenia	http://en.wikipedia.org/wiki/Armenia
+	Turkish	21628743	Turkish people	http://en.wikipedia.org/wiki/Turkish%20people
+76474 ||| talk.politics.mideast
+	UN	21537544	United Nations	http://en.wikipedia.org/wiki/United%20Nations
+	Israel	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+	UN	21537544	United Nations	http://en.wikipedia.org/wiki/United%20Nations
+	middle east	21578122	Middle East	http://en.wikipedia.org/wiki/Middle%20East
+	UN	21537544	United Nations	http://en.wikipedia.org/wiki/United%20Nations
+	UN	21537544	United Nations	http://en.wikipedia.org/wiki/United%20Nations
+	Hindu-Moslem	 NO MATCHING ENTITY
+	INdia	21599698	Indian subcontinent	http://en.wikipedia.org/wiki/Indian%20subcontinent
+	Kurds	21116874	Kurdish people	http://en.wikipedia.org/wiki/Kurdish%20people
+	NONE Iraqi Air Force	 NO MATCHING ENTITY
+	Saudi	20954346	Saudi Arabia	http://en.wikipedia.org/wiki/Saudi%20Arabia
+	Mecca	21301274	Mecca	http://en.wikipedia.org/wiki/Mecca
+	Algerian	20852065	Algeria	http://en.wikipedia.org/wiki/Algeria
+	Intrafada Arabs	 NO MATCHING ENTITY
+	Arabs	20616749	Arab League	http://en.wikipedia.org/wiki/Arab%20League
+	Hama	19049870	Hama	http://en.wikipedia.org/wiki/Hama
+	Syria	21569753	Syria	http://en.wikipedia.org/wiki/Syria
+	Palestinians	21223243	Palestinian people	http://en.wikipedia.org/wiki/Palestinian%20people
+	Jordanian	21533876	Jordan	http://en.wikipedia.org/wiki/Jordan
+	Moslems	 NO MATCHING ENTITY
+	Egypt	20811753	Egypt	http://en.wikipedia.org/wiki/Egypt
+	Egyption	 NO MATCHING ENTITY
+	Israel	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+	PLO	18896648	Palestine Liberation Organization	http://en.wikipedia.org/wiki/Palestine%20Liberation%20Organization
+	Munich	21370080	Munich Agreement	http://en.wikipedia.org/wiki/Munich%20Agreement
+	Israeli	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+	Ma'alot	21335238	Ma'alot-Tarshiha	http://en.wikipedia.org/wiki/Ma%27alot-Tarshiha
+	PLO	18896648	Palestine Liberation Organization	http://en.wikipedia.org/wiki/Palestine%20Liberation%20Organization
+	Israel Coastal	 NO MATCHING ENTITY
+	Syria	21569753	Syria	http://en.wikipedia.org/wiki/Syria
+	Palestinians	21223243	Palestinian people	http://en.wikipedia.org/wiki/Palestinian%20people
+	Lebanon	21565636	Lebanon	http://en.wikipedia.org/wiki/Lebanon
+	Yemen	19017435	Yemen	http://en.wikipedia.org/wiki/Yemen
+	Sudan	21336435	Sudan	http://en.wikipedia.org/wiki/Sudan
+	NONE Civil War	 NO MATCHING ENTITY
+	Tienenman Square	 NO MATCHING ENTITY
+	Rumania	19642403	Romania during World War I	http://en.wikipedia.org/wiki/Romania%20during%20World%20War%20I
+	Northern Ireland	21489017	Northern Ireland	http://en.wikipedia.org/wiki/Northern%20Ireland
+	Cambodia	18178901	Cambodia	http://en.wikipedia.org/wiki/Cambodia
+	Afghanistan	21412118	Afghanistan	http://en.wikipedia.org/wiki/Afghanistan
+	American	21192125	Americas	http://en.wikipedia.org/wiki/Americas
+	Attica	19463346	Attica (region)	http://en.wikipedia.org/wiki/Attica%20%28region%29
+	Watts	20323713	Watts Riots	http://en.wikipedia.org/wiki/Watts%20Riots
+	Newark	20318886	Newark, New Jersey	http://en.wikipedia.org/wiki/Newark%2C%20New%20Jersey
+	Kent State	20264569	Kent State University	http://en.wikipedia.org/wiki/Kent%20State%20University
+	Israel	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+	Iraqi	21318094	Iraq	http://en.wikipedia.org/wiki/Iraq
+	Israel	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+	Israeli	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+	Israeli	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+	Arab	20616749	Arab League	http://en.wikipedia.org/wiki/Arab%20League
+	Syrian	21569753	Syria	http://en.wikipedia.org/wiki/Syria
+	Christian	21379280	Arab Christians	http://en.wikipedia.org/wiki/Arab%20Christians
+	Israel	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+	UN	21537544	United Nations	http://en.wikipedia.org/wiki/United%20Nations
+	Israel	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+	Israeli	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+	Arab	20616749	Arab League	http://en.wikipedia.org/wiki/Arab%20League
+	Israeli	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+	European	21335112	European Union	http://en.wikipedia.org/wiki/European%20Union
+	Economist	20841897	The Economist	http://en.wikipedia.org/wiki/The%20Economist
+	London	20991737	London	http://en.wikipedia.org/wiki/London
+	Arab	20616749	Arab League	http://en.wikipedia.org/wiki/Arab%20League
+	English	21111641	English law	http://en.wikipedia.org/wiki/English%20law
+	Arab	20616749	Arab League	http://en.wikipedia.org/wiki/Arab%20League
+	Israel	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+	Israeli	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+77396 ||| talk.politics.mideast
+	Major	20762029	John Major	http://en.wikipedia.org/wiki/John%20Major
+	Muslims	20694610	Bosniaks	http://en.wikipedia.org/wiki/Bosniaks
+	Bosnia	21632399	Bosnian War	http://en.wikipedia.org/wiki/Bosnian%20War
+	Muslims	20694610	Bosniaks	http://en.wikipedia.org/wiki/Bosniaks
+	Muslims	20694610	Bosniaks	http://en.wikipedia.org/wiki/Bosniaks
+	Bosnia	21632399	Bosnian War	http://en.wikipedia.org/wiki/Bosnian%20War
+	Muslims	20694610	Bosniaks	http://en.wikipedia.org/wiki/Bosniaks
+	CNN	21379266	CNN	http://en.wikipedia.org/wiki/CNN
+75404 ||| talk.politics.mideast
+	Palestine	21223243	Palestinian people	http://en.wikipedia.org/wiki/Palestinian%20people
+	Palestine	21223243	Palestinian people	http://en.wikipedia.org/wiki/Palestinian%20people
+	Jews	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	United Nations	21537544	United Nations	http://en.wikipedia.org/wiki/United%20Nations
+	Arab	21223243	Palestinian people	http://en.wikipedia.org/wiki/Palestinian%20people
+	United Nations	21537544	United Nations	http://en.wikipedia.org/wiki/United%20Nations
+	Palestine	21223243	Palestinian people	http://en.wikipedia.org/wiki/Palestinian%20people
+	Egyptians	20811753	Egypt	http://en.wikipedia.org/wiki/Egypt
+	Syrians	21569753	Syria	http://en.wikipedia.org/wiki/Syria
+	Jordanians	 NO MATCHING ENTITY
+	Jews	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	Israel	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+	Jews	20886222	Jews	http://en.wikipedia.org/wiki/Jews
+	West Bank	20824840	West Bank	http://en.wikipedia.org/wiki/West%20Bank
+	West Bank	20824840	West Bank	http://en.wikipedia.org/wiki/West%20Bank
+	Hussein	21509076	Saddam Hussein	http://en.wikipedia.org/wiki/Saddam%20Hussein
+	Arab Legion This	 NO MATCHING ENTITY
+	israel	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+	Syria	21569753	Syria	http://en.wikipedia.org/wiki/Syria
+	Syria	21569753	Syria	http://en.wikipedia.org/wiki/Syria
+	israel	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+	Syria	21569753	Syria	http://en.wikipedia.org/wiki/Syria
+	Israeli	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+	Golan	19996537	Golan Heights	http://en.wikipedia.org/wiki/Golan%20Heights
+	Israel	21569804	Israel	http://en.wikipedia.org/wiki/Israel
+	Hasan	21679821	Hasan ibn Ali	http://en.wikipedia.org/wiki/Hasan%20ibn%20Ali
+	Brendan McKay	9927990	Brendan McKay	http://en.wikipedia.org/wiki/Brendan%20McKay

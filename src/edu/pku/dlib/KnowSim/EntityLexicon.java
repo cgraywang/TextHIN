@@ -1,9 +1,11 @@
-package edu.stanford.nlp.sempre.freebase;
+package edu.pku.dlib.KnowSim;
 
 import edu.stanford.nlp.io.IOUtils;
 import edu.stanford.nlp.sempre.*;
 import edu.stanford.nlp.sempre.cache.StringCache;
 import edu.stanford.nlp.sempre.cache.StringCacheUtils;
+import edu.stanford.nlp.sempre.freebase.FreebaseSearch;
+import edu.stanford.nlp.sempre.freebase.FreebaseTypeLookup;
 import edu.stanford.nlp.sempre.freebase.index.FbEntitySearcher;
 import edu.stanford.nlp.sempre.freebase.index.FbIndexField;
 import edu.stanford.nlp.sempre.freebase.lexicons.EntrySource;
@@ -20,6 +22,11 @@ import fig.basic.Option;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.queryparser.classic.ParseException;
 
+/**
+ * created based on sempre's EntityLexicon
+ * add entity name expansion, freebase domain limit, etc..
+ * @author Haoran Li
+ */
 
 
 import java.io.IOException;

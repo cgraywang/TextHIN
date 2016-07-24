@@ -1,4 +1,4 @@
-package edu.stanford.nlp.sempre.cache;
+package edu.pku.dlib.KnowSim;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -8,21 +8,16 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import com.google.common.base.Joiner;
-
 import edu.stanford.nlp.sempre.Executor;
 import edu.stanford.nlp.sempre.Formula;
 import edu.stanford.nlp.sempre.Formulas;
 import edu.stanford.nlp.sempre.JoinFormula;
 import edu.stanford.nlp.sempre.LambdaFormula;
-import edu.stanford.nlp.sempre.Relation;
-import edu.stanford.nlp.sempre.RelationInfo;
-import edu.stanford.nlp.sempre.RelationSearcher;
 import edu.stanford.nlp.sempre.ValueFormula;
-import edu.stanford.nlp.sempre.freebase.SparqlExecutor;
 import fig.basic.Pair;
 
 /**
+ * class for searching and store relation information of entity paris.
  * @author Haoran Li
  */
 
@@ -173,26 +168,5 @@ public class RelationCache {
 		} else
 			return null;
 	}
-
-	
-	
-	public static void main(String[] argv) {
-		RelationCache cache = new RelationCache(new SparqlExecutor());
-		Formula formula = Formula.fromString("(lambda x (!fb:government.political_party_tenure.party (!fb:government.politician.party (var x))))");
-		Formula formula2 = Formula.fromString("(lambda x (fb:government.politician.party (fb:government.political_party_tenure.party (var x))))");
-//		int cnt = cache.searchStrongRelation("fb:en.democrat_party","fb:en.barack_obama",  formula);
-//		System.out.println(cnt);
-//		cnt = cache.searchStrongRelation("fb:en.barack_obama", "fb:en.democrat_party",  formula2);
-//		System.out.println(cnt);
-		List<Pair<String, String>> res = cache.searchWeakRelation("fb:en.democrat_party" ,"fb:en.barack_obama");
-		for (Pair<String, String> p:res) {
-			System.out.println(p.getFirst() + " " + p.getSecond());
-		}
-		cache.search("fb:en.christianity", "fb:en.bible");
-		for (RelationInfo info:cache.cache.get(cache.entityPairID("fb:en.christianity", "fb:en.bible"))) {
-			System.out.println(info);
-		}
-	}
-	
 	
 }

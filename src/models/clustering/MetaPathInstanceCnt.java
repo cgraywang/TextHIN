@@ -15,6 +15,8 @@ import cern.colt.list.DoubleArrayList;
 import cern.colt.list.IntArrayList;
 import cern.colt.matrix.DoubleMatrix1D;
 /**
+ * pruning the graph based on one metapath,
+ * then compute the number of paths connecting each doc pair.  
  * @author Haoran Li
  */
 

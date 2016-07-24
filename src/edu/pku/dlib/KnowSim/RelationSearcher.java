@@ -1,7 +1,5 @@
-package edu.stanford.nlp.sempre;
+package edu.pku.dlib.KnowSim;
 
-import java.io.IOException;
-import java.io.StringReader;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
@@ -10,24 +8,24 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
 
-import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
-import org.xml.sax.InputSource;
-import org.xml.sax.SAXException;
 
-import edu.stanford.nlp.sempre.cache.PopularityCache;
-import edu.stanford.nlp.sempre.cache.RelationCache;
+import edu.stanford.nlp.sempre.Executor;
+import edu.stanford.nlp.sempre.Formula;
+import edu.stanford.nlp.sempre.Formulas;
+import edu.stanford.nlp.sempre.JoinFormula;
+import edu.stanford.nlp.sempre.LambdaFormula;
+import edu.stanford.nlp.sempre.ValueFormula;
 import edu.stanford.nlp.sempre.freebase.FreebaseInfo;
 import edu.stanford.nlp.sempre.freebase.SparqlExecutor;
 import edu.stanford.nlp.sempre.freebase.SparqlExecutor.ServerResponse;
 import fig.basic.Pair;
 
 /**
+ * a searcher for searching relation of entity pairs.
+ * 
  * @author Haoran Li
  */
 

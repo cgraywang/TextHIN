@@ -1,8 +1,9 @@
-package edu.stanford.nlp.sempre;
+package edu.pku.dlib.KnowSim;
 
 import com.google.common.base.Joiner;
 
 /**
+ * class for a kind of relationships.
  * @author Haoran Li
  */
 

@@ -1,6 +1,4 @@
-package edu.stanford.nlp.sempre;
-
-
+package edu.pku.dlib.KnowSim;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -10,12 +8,12 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import edu.stanford.nlp.sempre.EntityParsingResult.Options;
 import fig.basic.IOUtils;
 import fig.basic.LogInfo;
 import fig.basic.Option;
 
 /**
+ * the class for keeping alias attributes of freebase from local file
  * @author Haoran Li
  */
 

@@ -15,6 +15,7 @@ import cern.colt.list.IntArrayList;
 import cern.colt.matrix.DoubleMatrix1D;
 
 /**
+ * pruning the graph to get a compact local graph
  * @author Haoran Li
  */
 

@@ -328,13 +328,5 @@ class BeamParserState extends ChartParserState {
     return coarseState.chart[start][end].containsKey(cat);
   }
   
-  public List<Derivation> getSpecifiedCatDerivation(String cat) {
-	  List<Derivation> res = new ArrayList<>();
-	  for (int i = 0; i < this.numTokens; i++)
-		  for (int j = i+1; j <= this.numTokens; j++) {
-			  if (this.chart[i][j].containsKey(cat))
-				  res.addAll(this.chart[i][j].get(cat));
-		  }
-	  return res;
-  }
+
 }

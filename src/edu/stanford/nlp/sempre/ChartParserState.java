@@ -2,8 +2,10 @@ package edu.stanford.nlp.sempre;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;
+
 import fig.basic.LogInfo;
 import fig.basic.MapUtils;
+
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -18,7 +20,7 @@ import java.util.Map;
  */
 public abstract class ChartParserState extends ParserState {
   // cell (start, end, category) -> list of derivations (sorted by decreasing score) [beam]
-  protected final Map<String, List<Derivation>>[][] chart;
+  public final Map<String, List<Derivation>>[][] chart;
 
   // For visualizing how chart is filled
   List<CatSpan> chartFillingList = new ArrayList<>();
@@ -119,5 +121,15 @@ public abstract class ChartParserState extends ParserState {
       this.numOfTokens = numOfTokens;
       this.catSpans = catSpans;
     }
+  }
+  
+  public List<Derivation> getSpecifiedCatDerivation(String cat) {
+	  List<Derivation> res = new ArrayList<>();
+	  for (int i = 0; i < this.numTokens; i++)
+		  for (int j = i+1; j <= this.numTokens; j++) {
+			  if (this.chart[i][j].containsKey(cat))
+				  res.addAll(this.chart[i][j].get(cat));
+		  }
+	  return res;
   }
 }

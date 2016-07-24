@@ -7,7 +7,8 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import com.google.common.base.Joiner;
 import com.google.common.collect.Sets;
 
-import edu.stanford.nlp.sempre.Master.IntPair;
+import edu.pku.dlib.KnowSim.EntityLinkingResult;
+import edu.pku.dlib.KnowSim.IntPair;
 import edu.stanford.nlp.sempre.freebase.lexicons.TokenLevelMatchFeatures;
 import fig.basic.Evaluation;
 import fig.basic.LispTree;

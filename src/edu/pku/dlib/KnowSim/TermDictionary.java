@@ -1,4 +1,4 @@
-package edu.stanford.nlp.sempre;
+package edu.pku.dlib.KnowSim;
 
 import java.util.HashMap;
 import java.util.HashSet;
@@ -11,6 +11,13 @@ import com.google.common.collect.Lists;
 import edu.stanford.nlp.sempre.Master.Options;
 import fig.basic.IOUtils;
 import fig.basic.Option;
+
+
+/**
+ * class for keeping Dictionaries.
+ * 
+ * @author Haoran Li
+ */
 
 public class TermDictionary {
 	public static class Options {

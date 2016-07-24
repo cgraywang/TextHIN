@@ -1,10 +1,13 @@
 package edu.stanford.nlp.sempre.freebase;
 
 import com.google.common.base.Joiner;
+
+import edu.pku.dlib.KnowSim.EntityLexicon;
 import edu.stanford.nlp.sempre.*;
 import edu.stanford.nlp.sempre.freebase.lexicons.LexicalEntry;
 import edu.stanford.nlp.sempre.freebase.lexicons.LexicalEntry.BinaryLexicalEntry;
 import fig.basic.*;
+
 import org.apache.lucene.queryparser.classic.ParseException;
 
 import java.io.IOException;

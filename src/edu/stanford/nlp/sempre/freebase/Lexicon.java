@@ -1,5 +1,6 @@
 package edu.stanford.nlp.sempre.freebase;
 
+import edu.pku.dlib.KnowSim.EntityLexicon;
 import edu.stanford.nlp.sempre.Example;
 import edu.stanford.nlp.sempre.cache.StringCache;
 import edu.stanford.nlp.sempre.cache.StringCacheUtils;

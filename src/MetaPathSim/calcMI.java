@@ -23,6 +23,7 @@ import cern.colt.matrix.impl.SparseDoubleMatrix2D;
 
 
 /**
+ * calc the weight of metapath by cosine MISMT or laplacian
  * @author Haoran Li
  */
 

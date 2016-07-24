@@ -11,6 +11,7 @@ import cern.colt.list.IntArrayList;
 import cern.colt.matrix.DoubleMatrix1D;
 
 /**
+ * utils for compute various similarity of two vector
  * @author Haoran Li
  */
 

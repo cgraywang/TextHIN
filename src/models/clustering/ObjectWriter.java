@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 /**
+ * interface of read and write java objects.
  * @author Haoran Li
  */
 

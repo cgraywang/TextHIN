@@ -1,8 +1,9 @@
-package edu.stanford.nlp.sempre;
+package edu.pku.dlib.KnowSim;
 
 import java.util.Comparator;
 
 /**
+ * class for a concrete relation
  * @author Haoran Li
  */
 

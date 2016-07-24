@@ -1,0 +1,1803 @@
+doc:68272 ||| comp.windows.x
+doc:67973 ||| comp.windows.x
+----sentence result:Did anyone install xdbx on SGI workstation ? 
+	fb:en.silicon_graphics business.employer sgi
+----sentence result:Gildas PERROT . 
+	fb:en.perrot location.location gildas perrot
+doc:68214 ||| comp.windows.x
+----sentence result:I am urgently looking for the following article , but I ca n't seem to find it anywhere here : The Multi-Threaded Server John Allen Smith The Resource Issue 1 , pp . 
+	fb:en.web_server computer.software_genre server
+	fb:en.john_smith_1938 government.politician allen
+	fb:en.issue_tracking_system computer.software_genre issue
+----sentence result:Winter 1992 If anyone can tell me where to find it , it WILL be much appreciated . 
+	fb:en.winter_united_states location.location winter
+----sentence result:H.F. Sadie Departement of Computer Science University of Stellenbosch South Africa 
+	fb:en.south_africa government.governmental_jurisdiction stellenbosch south africa
+	fb:en.computer_science organization.organization_sector computer science
+doc:66981 ||| comp.windows.x
+----sentence result:Greetings , Huub . 
+	fb:m.0cm9gvb government.politician huub
+doc:67486 ||| comp.windows.x
+----sentence result:We want to configure our X11R5 sytem i486 33Mhz running BSD-like UNIX comming up with a chooser menu with different machines on it works an then connect to them . 
+	fb:en.unix computer.operating_system unix
+----sentence result:The configuration : starting the xdm at boot time with no servers specified in Xservers starting the X-server at boot time with indirect localhost the chooser menu appears with the machines named in Xacces bye CHOOSER . 
+	fb:en.x_window_system computer.software x-server
+----sentence result:BROADCAST the number of users on this machines and the load is displayed correct selecting an other machine than my own host the X-server starts and nothing happens , after a time out the CHOOSER menu appears again . 
+	fb:en.x_window_system computer.software x-server
+	fb:en.users_group organization.organization_type users
+----sentence result:I know the xdm bug in X11R4 , but all machines running X11R5 Please help Lars 
+	fb:en.lars_ulrich sports.pro_athlete lars
+doc:61177 ||| comp.sys.ibm.pc.hardware
+----sentence result:I have a 286 with a Western Digital WD-93044A hard drive . 
+	fb:en.digital_equipment_corporation computer.processor_manufacturer digital
+----sentence result:In the CMOS setting I am instructed to set it to type 17 IBM 977 cyl . 
+	fb:en.ibm business.employer ibm
+	fb:en.oxide chemistry.chemical_compound cmos
+----sentence result:5 heads , THE PROBLEM : I was sent Western Digitals ISPFMT low level program from the manufacturer , and was instructed to run it on the hard drive with the CMOS setting set to type 17 . 
+	fb:en.oxide chemistry.chemical_compound cmos
+	fb:en.western business.product_category western digitals ispfmt
+----sentence result:This worked o.k . 
+	fb:en.o_k_house organization.organization o.k
+----sentence result:I then reloaded DOS which did a high level format , again no errors , no bad sectors , etc . 
+	fb:en.ms_dos computer.software dos
+----sentence result:when I run Norton Speedisk 6.01 or any other disk optimizer with the verify option set ON , I get ERROR verifying sector NNNN , where NNNN can be any number not the same all the time . 
+	fb:en.norton_virginia location.statistical_region norton speedisk
+doc:60210 ||| comp.sys.ibm.pc.hardware
+----sentence result:From : Stephen Mark Sanderson Subject : DOS6 no boot disk required if you do n't want EMM386 to load Everybody , DOS 6 users in particular , take note : if you want to play games that their own upper memory manager , DOS 6 is not a problem . 
+	fb:en.ms_dos computer.operating_system dos
+	fb:en.monkeystone_games business.employer games
+	fb:en.users_group organization.organization_type users
+----sentence result:You get a plain , generic session of DOS , with nothing loaded . 
+	fb:en.ms_dos computer.software dos
+	fb:en.plain_text computer.file_format plain
+----sentence result:No , you need not bypass the config.sys , in Dos 6.0 , there is a function of multi-config , have you tried BOOT.SYS ? 
+	fb:en.ms_dos computer.operating_system dos
+----sentence result:It has no conflict to QEMM . 
+	fb:m.02l0mt1 computer.software qemm
+doc:60218 ||| comp.sys.ibm.pc.hardware
+----sentence result:my home Viewsonic 6 . 
+	fb:en.viewsonic organization.organization viewsonic
+----sentence result:I just got my new Eizo Flexscan yesterday to replace my old , and I tried it with 1360x1024 . 
+	fb:en.eizo organization.organization eizo flexscan
+----sentence result:Regards , Martin Erzberger 
+	fb:en.martin_kentucky location.statistical_region martin erzberger
+doc:60491 ||| comp.sys.ibm.pc.hardware
+----sentence result:I 'll be going home for the summer , and wont have direct access to my VAX account . 
+	fb:en.vax computer.computer_processor vax
+	fb:en.summer location.capital_category summer
+----sentence result:My problem is , i need a service that does n't charge body parts , vital organs , or my first born son , that allows me access to the internet ! 
+	fb:en.internet_explorer computer.software internet
+doc:60746 ||| comp.sys.ibm.pc.hardware
+----sentence result:It also controls two floppy drives , and two IDE hard drives . 
+	fb:en.integrated_development_environment computer.software_genre ide
+----sentence result:Ideally , I 'd like to get a new multi card , that had 2 serial ports with 16550 's and could also control another 2 IDE HD 's . 
+	fb:en.integrated_development_environment computer.software_genre ide
+	fb:en.network_marketing business.industry multi
+----sentence result:It would have to have configurable addresses for both the serial ports , and the IDE controller , so it could co-exist with my existing card . 
+	fb:en.integrated_development_environment computer.software_genre ide
+----sentence result:Now the hard part where can I get one in Australia , preferably Brisbane ? 
+	fb:en.australia government.governmental_jurisdiction australia
+	fb:en.brisbane sports.sports_team_location brisbane
+doc:51623 ||| comp.sys.mac.hardware
+----sentence result:I heard that the slot is not the same as the PDS slot . 
+	fb:m.05t9p government.political_party pds
+----sentence result:Thanks David Mirsky Well , I also have an LC III . 
+	fb:en.macintosh_lc computer.computer lc
+	fb:en.david_kentucky location.location david mirsky
+----sentence result:Popping the top revealed : One socket for an additional VRAM SIMM One socket for a 72-pin RAM SIMM One socket for a flat-pack FPU A processor-direct slot PDS identical to the II , but with an additional set of connetions to one side for the full 32-bit data path that the II lacked That 's it . 
+	fb:m.05t9p government.political_party pds
+	fb:en.royal_academy_of_music organization.organization ram
+----sentence result:I guess a board with a PowerPC chip could be made that would fit in the PDS , but that 's the only place . 
+	fb:m.05t9p government.political_party pds
+doc:52138 ||| comp.sys.mac.hardware
+----sentence result:I just put a 33MHz 040 CPU into my Centris 610 . 
+	fb:en.centris biology.organism_classification centris
+----sentence result:Now I have a math coprocessor , but is it possible to speed up the Centris to run at either 25MHz or 33MHz ? 
+	fb:en.centris biology.organism_classification centris
+----sentence result:The C610 is n't like the IIsi was , meaning that the motherboard of the C610 is actually designeds to run at the speed of the CPU , and not designed to run at a higher speed like 25MHz but be forced to run at the speed of a slower CPU 20MHz . 
+	fb:en.international_iron_and_steel_institute organization.organization iisi
+----sentence result:I did n't see any oscillators on the motherboard like the ones on the IIsi 's motherboard ! 
+	fb:en.international_iron_and_steel_institute organization.organization iisi
+----sentence result:Where is the oscillator for the Centris ? 
+	fb:en.centris biology.organism_classification centris
+doc:52290 ||| comp.sys.mac.hardware
+----sentence result:Re : The 25MHz IIsi 
+	fb:en.swiss_re business.business_operation re
+doc:52319 ||| comp.sys.mac.hardware
+doc:52403 ||| comp.sys.mac.hardware
+----sentence result:I have a few questions that I would like answers to or opinions on since I 'm thinking about buying a LC-III : Q1 When the PowerPC-based Macs are announced , what will happen to the 680X0-based Macs ? 
+	fb:en.powerpc computer.computer_processor powerpc-based macs
+----sentence result:Will we ever get REAL multi-tasking for the Mac ? 
+	fb:en.mac_os computer.software mac
+----sentence result:Thanks in advance , Mike Norman , c Bell-Northern Research P.O. Box 3511 Station C Ottawa Ontario Canada K1Y 4H7 115 Internet : Hasta la vista , Baby ! 
+	fb:en.canada organization.organization_scope ottawa ontario canada
+	fb:m.03rlt computer.computing_platform internet
+	fb:en.windows_vista computer.operating_system vista
+	fb:en.research organization.organization_type bell-northern research
+	fb:en.norman location.statistical_region mike norman
+----sentence result:A. Schwarzenegger 
+	fb:en.arnold_schwarzenegger sports.pro_athlete schwarzenegger
+doc:21701 ||| soc.religion.christian
+----sentence result:It is nothing more that an anti-Catholic tract of the sort published ever since the there were protestants . 
+	fb:en.roman_catholic_church religion.religious_organization anti-catholic
+----sentence result:I do n't want to malign this Hislop fellow , whoever he may be , as I have only heard the arguments at second hand , but both of the arguments seemed to turn on false etymology that SEEMED to be derived from Hislop . 
+	fb:en.ian_hislop business.board_member hislop
+----sentence result:The first one claimed that the word church was derived from the Greek cyclos , and that it was therefore related to the worship of Circe . 
+	fb:en.eastern_orthodox_church religion.religion greek
+----sentence result:I do n't know if Hislop is the source of this assertion , but it does seem to be based on false etymology . 
+	fb:en.ian_hislop business.board_member hislop
+----sentence result:The second claimed an etymological relationship between Ishtar and Easter , which seemed to be even more fanciful and far-fetched than some of the wilder notions of the British Israelites . 
+	fb:en.ishtar religion.deity ishtar
+	fb:en.notions organization.organization notions
+----sentence result:The Venerable Bede mentioned that this was associated with a goddess called Eostre , but apart from that reference I have not been able to find out anything more about her . 
+	fb:en.3691_bede astronomy.orbital_relationship bede
+----sentence result:The Germans , for example , also use the term Ostern , but Germany was evangelized by English missionaries . 
+	fb:en.germany government.governmental_jurisdiction germans
+----sentence result:So I would be interested in any evidence of Easter being used for Pascha by people who do not have any kind of connection with the ancient Anglo Saxons and their offshoots . 
+	fb:en.anglo-saxons military.military_combatant anglo
+----sentence result:Such evidence might support the claims of those who appear to derive the theory from Hislop . 
+	fb:en.ian_hislop business.board_member hislop
+doc:21403 ||| soc.religion.christian
+----sentence result:It is also of interest to note that in 1825 , on the occasion of a jubilee , Pope Leo the 12th had a medallion cast with his own image on one side and on the other side , the Church of Rome symbolized as a Woman , holding in her left hand a cross , and in her right a cup with legend around her , Sedet super universum , The whole world is her seat . 
+	fb:en.roman_catholic_church religion.religious_organization church of rome
+	fb:en.pope religion.religious_leadership_title pope leo
+	fb:en.fa_cup sports.sports_championship cup
+	fb:en.christian religion.adherents cross
+	fb:en.seat organization.organization seat
+----sentence result:The Woman is the Church . 
+	fb:m.01wb7 religion.type_of_place_of_worship church
+----sentence result:Catholics have always called our Church Holy Mother Church and our Mother . 
+	fb:en.roman_catholic_church religion.religious_organization catholics
+	fb:m.01wb7 religion.type_of_place_of_worship church holy mother church
+----sentence result:An example would be from St. Cyprian of Carthage , who wrote in 251 AD , Can anyone have God for his Father , who does not have the Church for his mother ? 
+	fb:m.01wb7 religion.type_of_place_of_worship church
+	fb:en.cyprus organization.organization_scope cyprian
+	fb:en.atopic_dermatitis medicine.disease ad
+	fb:en.carthage protected_sites.listed_site carthage
+	fb:en.god_the_father religion.deity god
+----sentence result:Hence the image of the Church as a woman , holding a Cross and a Cup , which tell of the Crucifxition of Our Lord , and of the power of His Blood the grail legend , but also , more significantly , it shows that This is the Cup of the New Covenant in my blood , which shall be shed for you and for many . 
+	fb:m.01wb7 religion.type_of_place_of_worship church
+	fb:en.fa_cup sports.sports_championship cup
+	fb:en.christian religion.adherents cross
+	fb:en.lord government.government_office_category crucifxition of our lord
+----sentence result:Luke 22.20 , the Cup represents the New Covenant and holds the blood of redemption . 
+	fb:en.fa_cup sports.sports_championship cup
+	fb:en.gospel_of_luke religion.religious_text luke
+----sentence result:The fact that the woman is holding both and is said to have the whole world for her seat , is that the Catholic Church is catholic , that is universal , and is found throughout the world , and the Church shows the Crucifixtion and applies the blood of redemption to all mankind by this spread of hers , thorugh which the Holy Sacrafice of the Mass , can be said and celebrated in all the nations as Malachi predicted in Malachi 1.11 , From the rising of the sun to its setting , my name is great among the gentiles , and everywhere there is sacrafice , and there is offered to my Name a clean oblation , for my Name is great among the gentiles , says the Lord of hosts . 
+	fb:en.roman_catholic_church religion.religious_organization catholic church
+	fb:m.01wb7 religion.type_of_place_of_worship church
+	fb:en.seat organization.organization seat
+	fb:en.malachi religion.religious_leader malachi
+	fb:en.sun_louisiana location.statistical_region sun
+----sentence result:And so we acknowledge what St. Paul wrote For as often as you eat this bread and drink this cup , you show the Lord 's death until he comes . 
+	fb:en.panera_bread organization.organization bread
+	fb:en.fa_cup sports.sports_championship cup
+	fb:en.lord government.government_office_category lord
+	fb:en.paul_of_tarsus religion.founding_figure st. paul
+----sentence result:1 Corinthians 11.26 You are quite right about the identification of Babylon the Great , Mother of all Harlots with Rome . 
+	fb:en.roman_catholic_church religion.religious_organization rome
+	fb:m.01wb7 religion.type_of_place_of_worship mother
+	fb:en.constantine_i organization.organization_founder great
+	fb:en.babylon government.governmental_jurisdiction babylon
+	fb:en.first_epistle_to_the_corinthians religion.religious_text corinthians
+----sentence result:I think we simply disagree as to what time period of Rome the Apostle John is talking about . 
+	fb:en.roman_catholic_church religion.religious_organization rome
+doc:20698 ||| soc.religion.christian
+----sentence result:Hi everyone , I 'm a commited Christian that is battling with a problem . 
+	fb:en.christian religion.adherents christian
+----sentence result:I know that romans talks about how we are saved by our faith not our deeds , yet hebrews and james say that faith without deeds is useless , saying You fools , do you still think that just believing is enough ? 
+	fb:en.sharpe_james government.politician james
+	fb:en.epistle_to_the_romans religion.religious_text romans
+----sentence result:Now if someone is fully believing but there life is totally lead by themselves and not by God , according to Romans that person is still saved by there faith . 
+	fb:en.god religion.deity god
+	fb:en.epistle_to_the_romans religion.religious_text romans
+----sentence result:But then there is the bit which says that God preferes someone who is cold to him i.e. does n't know him condemned so a lukewarm Christian someone who knows and believes in God but does n't make any attempt to live by the bible . 
+	fb:en.bible religion.religious_text bible
+	fb:en.christian religion.adherents christian
+	fb:en.god religion.deity god
+	fb:en.bit_international_college organization.organization bit
+----sentence result:Now I am of the opinion that you a saved through faith alone not what you do as taught in Romans , but how can I square up in my mind the teachings of James in conjunction with the lukewarm Christian being spat-out Can anyone help me , this really bothers me . 
+	fb:en.public_opinion business.industry opinion
+	fb:en.christian religion.adherents christian
+	fb:en.sharpe_james government.politician james
+	fb:en.epistle_to_the_romans religion.religious_text romans
+----sentence result:In Christ , Will 
+	fb:en.jesus religion.deity christ
+doc:20952 ||| soc.religion.christian
+----sentence result:In article priority than the direct word of Jesus in Matt5 : Paul begins Romans 14 with If someone is weak in the faith . 
+	fb:en.king_of_the_romans government.government_office_or_title romans
+----sentence result:you read Jesus word in Matt5 : Is there any doubt in your mind about what is right and what is sin Greek hamartia missing the mark ? 
+	fb:en.no_doubt business.employer doubt
+----sentence result:Is there any doubt in your mind about what is right and what is missing the mark ? 
+	fb:en.no_doubt business.employer doubt
+----sentence result:However I 'd like to be clear that I do not think there 's unambiguous proof that regular Christian worship was on the first day . 
+	fb:en.christianity religion.religion christian
+----sentence result:No , I do n't believe that Paul can overrule God . 
+	fb:en.god religion.deity god
+----sentence result:However Paul was writing for a largely Gentile audience . 
+	fb:en.christianity religion.religion gentile
+----sentence result:Yes , and he was writing and speaking for an audience that was at best , very weak in the faith ; most could not read , most were unfamiliar with the Hebrew Scriptures in even the Septuagint form . 
+	fb:en.old_testament religion.religious_text hebrew scriptures
+----sentence result:Paul adapted the message of the Bible to a largely uneducated market . 
+	fb:en.bible religion.religious_text bible
+----sentence result:To be weak in the faith is not missing the mark hamartia if you do the best that your education allows . 
+	fb:m.02jfc business.industry education
+----sentence result:The Law was regarded by Jews at the time and now as binding on Jews , but not on Gentiles . 
+	fb:en.ashkenazi_jews medicine.risk_factor jews
+	fb:en.halakha religion.religious_text law
+----sentence result:Let me make clear that the Law is none other than the Pentateuch of Genesis , Exodus , Leviticus , Numbers , Deuteronomy . 
+	fb:en.genesis_plus computer.software genesis
+	fb:en.halakha religion.religious_text law
+	fb:en.book_book location.location leviticus
+----sentence result:What did Jesus say about the Law in Matt5 : Where did Jesus say that the Law only applies to Jews and that Gentiles are above the Law ? 
+	fb:en.ashkenazi_jews medicine.risk_factor jews
+	fb:en.halakha religion.religious_text law
+----sentence result:The issue that the Church had to face after Jesus death was what to do about Gentiles who wanted to follow Christ . 
+	fb:m.01wb7 religion.type_of_place_of_worship church
+----sentence result:The decision not to impose the Law on them did n't say that the Law was abolished . 
+	fb:en.halakha religion.religious_text law
+----sentence result:Why not also acknowledge that the Bhagavad-Gita is the only relevant text for Gentiles , after all we see in the Bible that it was Magus from the east who observed the star-signs of Jesus ? 
+	fb:en.bible religion.religious_text bible
+	fb:en.east_kilbride location.location east
+----sentence result:Why not just follow whatever the Church has to say ? 
+	fb:m.01wb7 religion.type_of_place_of_worship church
+----sentence result:Are you saying that the words of Jesus only apply to Jews ? 
+	fb:en.ashkenazi_jews medicine.risk_factor jews
+----sentence result:As far as I can tell , both Paul and other Jewish Christians did continue to participate in Jewish worship on the Sabbath . 
+	fb:en.christian religion.adherents jewish christians
+	fb:en.ashkenazi_jews medicine.risk_factor jewish
+----sentence result:Thus they continued to obey the Law . 
+	fb:en.halakha religion.religious_text law
+----sentence result:How Jewish was Paul after he changed his name from Saul ? 
+	fb:en.ashkenazi_jews medicine.risk_factor jewish
+	fb:en.paul_of_tarsus organization.organization_founder saul
+----sentence result:The issue was and is with Gentile Christians , who are not covered by the Law or at least not by the ceremonial aspects of it . 
+	fb:en.halakha religion.religious_text law
+----sentence result:Jesus dealt mostly with Jews . 
+	fb:en.ashkenazi_jews medicine.risk_factor jews
+----sentence result:I think we can reasonably assume that Mat 5 was directed to a Jewish audience . 
+	fb:en.ashkenazi_jews medicine.risk_factor jewish
+----sentence result:You 're implying that Jesus words are valid only for Jews . 
+	fb:en.ashkenazi_jews medicine.risk_factor jews
+----sentence result:You do realize that you are gutting rather large portions of the Bible ? 
+	fb:en.bible religion.religious_text bible
+----sentence result:If the Hebrew Scriptures and the Gospel accounts of Jesus are only directed to Jews , why were they translated into English ? 
+	fb:en.old_testament religion.religious_text hebrew scriptures
+	fb:en.ashkenazi_jews medicine.risk_factor jews
+----sentence result:He did interact with Gentiles a few times e.g . 
+	fb:en.eg_records organization.organization e.g
+----sentence result:the centurion whose slave was healed and a couple of others . 
+	fb:en.centurion_air_cargo organization.organization centurion
+----sentence result:The terms used to describe the centurion see Luke suggest that he was a God-fearer , i.e. a Gentile who followed God , but had not adopted the whole Jewish Law . 
+	fb:en.christianity religion.religion gentile
+	fb:en.gospel_of_luke religion.religious_text luke
+	fb:en.god religion.deity god
+	fb:en.halakha religion.religious_text jewish law
+	fb:en.centurion_air_cargo organization.organization centurion
+----sentence result:He was commended by Jewish elders as a worthy person , and Jesus accepted him as such . 
+	fb:en.ashkenazi_jews medicine.risk_factor jewish
+----sentence result:This seems to me to indicate that Jesus accepted the prevailing view that Gentiles need not accept the Law . 
+	fb:en.halakha religion.religious_text law
+----sentence result:Which is more important : The recorded word of Jesus or Indications that you can deduce from the Bible ? 
+	fb:en.bible religion.religious_text bible
+----sentence result:Was Jesus God only of the Jews , or God of all humankind of all race and sex ? 
+	fb:en.ashkenazi_jews medicine.risk_factor jews
+	fb:en.god religion.deity god
+----sentence result:However there 's more involved if you want to compare Jesus and Paul on the Law . 
+	fb:en.halakha religion.religious_text law
+----sentence result:In order to get a full picture of the role of the Law , we have to come to grips with Paul 's apparent rejection of the Law , and how that relates to Jesus commendation of the Law . 
+	fb:en.halakha religion.religious_text law
+	fb:en.national_graduate_institute_for_policy_studies organization.organization grips
+----sentence result:At least as I read Paul , he says that the Law serves a purpose that has been in a certain sense superceded . 
+	fb:en.halakha religion.religious_text law
+----sentence result:Are you Christian or Pauline ? 
+	fb:en.christianity religion.religion christian
+	fb:en.paul_of_tarsus religion.founding_figure pauline
+		fb:en.christianity	fb:religion.religion.founding_figures	fb:en.paul_of_tarsus	level=2
+----sentence result:Again , this issue is n't one of the abolition of the Law . 
+	fb:en.halakha religion.religious_text law
+	fb:en.slavery_abolition business.employer abolition
+----sentence result:Rather , he sees the Law as primarily being present to convict people of their sinfulness . 
+	fb:en.halakha religion.religious_text law
+----sentence result:Did Jesus say that the Law was an impossible standard ? 
+	fb:en.halakha religion.religious_text law
+----sentence result:Did Jesus say that He superceded the Law ? 
+	fb:en.halakha religion.religious_text law
+----sentence result:Are you Christian or Pauline ? 
+	fb:en.christianity religion.religion christian
+	fb:en.paul_of_tarsus religion.founding_figure pauline
+		fb:en.christianity	fb:religion.religion.founding_figures	fb:en.paul_of_tarsus	level=2
+----sentence result:Are you Christian or Pauline ? 
+	fb:en.christianity religion.religion christian
+	fb:en.paul_of_tarsus religion.founding_figure pauline
+		fb:en.christianity	fb:religion.religion.founding_figures	fb:en.paul_of_tarsus	level=2
+----sentence result:But the interesting thing to notice is that even this radical position does not entail an abolition of the Law . 
+	fb:en.halakha religion.religious_text law
+	fb:en.slavery_abolition business.employer abolition
+----sentence result:When did Jesus say that the purpose of the Law was conviction of sin ? 
+	fb:en.halakha religion.religious_text law
+----sentence result:However for Christians , it 's not the end ultimately we live in faith , not Law . 
+	fb:en.christian religion.adherents christians
+	fb:en.halakha religion.religious_text law
+----sentence result:Please reread Matt5 : Are you Christian or Pauline ? 
+	fb:en.christianity religion.religion christian
+	fb:en.paul_of_tarsus religion.founding_figure pauline
+		fb:en.christianity	fb:religion.religion.founding_figures	fb:en.paul_of_tarsus	level=2
+----sentence result:Jesus interpretations emphasize the intent of the Law , and stay away from the ceremonial details . 
+	fb:en.halakha religion.religious_text law
+----sentence result:While he talks about the Law being superceded , all of the specific examples he gives involve the ceremonial law , such as circumcision and the Sabbath . 
+	fb:en.halakha religion.religious_text law
+----sentence result:You call observance of the Sabbath , the day on which the Lord rested , ceremonial ? 
+	fb:en.lord government.government_office_category lord
+----sentence result:Has circumcision been superceded for Christians ? 
+	fb:en.christian religion.adherents christians
+----sentence result:Are you Christian or Pauline ? 
+	fb:en.christianity religion.religion christian
+	fb:en.paul_of_tarsus religion.founding_figure pauline
+		fb:en.christianity	fb:religion.religion.founding_figures	fb:en.paul_of_tarsus	level=2
+----sentence result:There is no doubt in my mind about what is sin and what is not , at least not in this case . 
+	fb:en.no_doubt business.employer doubt
+----sentence result:Jesus did not deal explicitly with the question of whether the Law was binding on Gentiles . 
+	fb:en.halakha religion.religious_text law
+----sentence result:That 's why I have to cite evidence such as the way Jesus dealt with the Centurion . 
+	fb:en.centurion_air_cargo organization.organization centurion
+----sentence result:As to general Jewish views on this , I am dependent largely on studies of Pauline theology , one by H.J. Schoeps , and one whose author I ca n't come up with at the moment . 
+	fb:en.ashkenazi_jews medicine.risk_factor jewish
+	fb:en.paul_of_tarsus religion.founding_figure pauline
+----sentence result:Both authors are Jews . 
+	fb:en.ashkenazi_jews medicine.risk_factor jews
+----sentence result:Also , various Christian and non-Christian Jews have discussed the issue here and in other newsgroups . 
+	fb:en.christianity religion.religion christian
+----sentence result:Mat 5:19 is clear that the Law is still valid . 
+	fb:en.halakha religion.religious_text law
+----sentence result:Jewish approach was , how Jesus dealt with at least one Gentile , and how Jesus disciples dealt with the issue when it became more acute I 'm referring to Acts 15 more than Paul . 
+	fb:en.christianity religion.religion gentile
+	fb:en.ashkenazi_jews medicine.risk_factor jewish
+doc:20587 ||| soc.religion.christian
+----sentence result:In article , In article , We affirm the absolutes of Scripture , not because we are arrogant moralists , but because we believe in God who is truth , who has revealed His truth in His Word , and therefore we hold as precious the strategic importance of those absolutes . 
+	fb:en.bible religion.religious_text scripture
+	fb:en.god religion.deity god
+----sentence result:If you would bother to check in any good dictioanry or thesaurus , I think you will find that arrogance has to do with an offensive exhibition of presumed or real superiority a paraphrase from my own Webster 's . 
+	fb:en.daniel_webster government.politician webster
+----sentence result:If your overwhelming experience of Christians has been that they are arrogant , I apologozing both for myself and on the behalf of those who have offfended you . 
+	fb:en.christianity religion.religion christians
+----sentence result:But my own experience , at least in forums like Usenet where you see a good mix of people , is that arrogant Christians and athiests seems to occur in about equal numbers . 
+	fb:en.christianity religion.religion christians
+----sentence result:Phil 
+	fb:en.phil_goff government.politician phil
+doc:178846 ||| talk.politics.misc
+----sentence result:part of the FBI cover-up . 
+	fb:en.federal_bureau_of_investigation organization.organization fbi
+----sentence result:Come on , now , think who is really out to embarrass the Clinton administration ? 
+	fb:en.bill_clinton government.political_appointer clinton
+----sentence result:That 's right it was Robert Dole and the Senate Republicans , 
+	fb:en.republican_party government.political_party republicans
+	fb:en.bob_dole government.politician robert dole
+	fb:en.united_states_senate government.governmental_body senate
+		fb:en.bob_dole	fb:government.politician.party^fb:government.political_party_tenure.party	fb:en.republican_party	level=2
+doc:179062 ||| talk.politics.misc
+----sentence result:I 'm doing my Masters in Psychopathology and it would interest me greatly in seeing these articles that you know exist yet I know nothing about . 
+	fb:en.the_masters_tournament sports.sports_championship masters
+doc:177020 ||| talk.politics.misc
+----sentence result:Go read your constitutional law . 
+	fb:en.constitutional_monarchy government.form_of_government constitutional
+----sentence result:We broke the back of the KKK 's harrassment campaign with the same strategy in the early 1900 's . 
+	fb:en.ku_klux_klan organization.organization kkk
+	fb:en.human_rights_campaign organization.organization campaign
+----sentence result:So many went to jail and for so long that it cut the heart out of the KKK . 
+	fb:en.ku_klux_klan organization.organization kkk
+----sentence result:I think what you meant to say here was , With the current mutation of the US Constitution under the current police state , someone may be charged multiple times for one act if the victim in question is of the right shade . 
+	fb:en.united_states_of_america government.governmental_jurisdiction us
+----sentence result:The first use of such laws was well over a hundred years ago , and constitutional scholars of all conviction recognize that this right reserved to the federal government is well established and not just some short-lived peculiarity , too ! 
+	fb:en.constitutional_monarchy government.form_of_government constitutional
+----sentence result:Go read some constitutional law for awhile . 
+	fb:en.constitutional_monarchy government.form_of_government constitutional
+----sentence result:RSW Douglas C. Meier 
+	fb:m.01t6b computer.programming_language c.
+doc:178493 ||| talk.politics.misc
+----sentence result:I use the English language and not the legal dialect . 
+	fb:en.english computer.programming_language english
+----sentence result:Especially if your site is a university ? 
+	fb:en.university_of_sheffield organization.organization university
+----sentence result:Do you know any person who believes that a university endorses every comment made from a university site ? 
+	fb:en.university_of_sheffield organization.organization university
+----sentence result:That is why I refered specifically to a company . 
+	fb:en.the_hershey_company organization.organization company
+----sentence result:Now , do you know any person who believes that a company endorses every comment made from a university site ? 
+	fb:en.university organization.organization_sector university
+	fb:en.the_hershey_company organization.organization company
+----sentence result:You are extrapolating from the statement I made concerning a circumstance in which such an act of censorship would be permissable to the Teel case . 
+	fb:en.mike_teel sports.pro_athlete teel
+----sentence result:Obviously a company posting from a University adress would be squashed , it would be contrary to the internet comercial use . 
+	fb:en.internet_explorer computer.software internet
+	fb:en.sheffield sports.sports_team_location university
+	fb:en.the_hershey_company organization.organization company
+----sentence result:Organization : DESYDeutsches Elektronen Synchrotron , Experiment ZEUS bei HERA I suggest strongly that if you mean for this to be taken as letterhead you get a better stationery designer . 
+	fb:en.charitable_organization organization.organization_sector organization
+	fb:en.hera religion.deity hera
+----sentence result:In the context of the discussion it was the fact of association between the company and the post that was important . 
+	fb:en.the_hershey_company organization.organization company
+----sentence result:If you are implying that I am lying I suggest you read Mark Holohan and Ulick Staffords posts into . 
+	fb:en.mark_illinois location.statistical_region mark holohan
+----sentence result:Incitement to murder is not part of what I consider legitimate freedom of speech . 
+	fb:en.speech_synthesis computer.software_genre speech
+----sentence result:Internet is not free . 
+	fb:m.03rlt computer.computing_platform internet
+----sentence result:Could you give me a cost breakdown for the expense to your company attributable to an employee 's posting a political view in disagreement with yours ? 
+	fb:en.the_hershey_company organization.organization company
+----sentence result:If I decide that a company I am associated with should subscribe to USEnet that usenet connection is the property of the company . 
+	fb:en.the_hershey_company organization.organization company
+----sentence result:It is quite legitimate for a company to have a political or other agenda and regulate the use of its property in accordance with its policy . 
+	fb:en.the_hershey_company organization.organization company
+----sentence result:For example if a Microsoft employee were to post Windows NT is crap do n't buy it from a Microsoft machine I would consider it reasonable for Microsoft to sack that employee . 
+	fb:en.microsoft_corporation computer.software_developer microsoft
+	fb:en.windows_nt computer.software windows nt
+		fb:en.windows_nt	fb:computer.software.developer	fb:en.microsoft_corporation	level=1
+----sentence result:In the same way if a company decides that it has political objectives it might wish to regulate postings in a political manner . 
+	fb:en.the_hershey_company organization.organization company
+----sentence result:This is no worse than Rupert Murdoch using his papers as a political platform for his views . 
+	fb:en.rupert_murdoch organization.organization_founder rupert murdoch
+----sentence result:Your constitution is not considered sacrosanct in other parts of the globe . 
+	fb:en.globe business.consumer_product globe
+----sentence result:I do n't consider the First Amendment to have talismanic value . 
+	fb:en.first_amendment_center organization.organization first amendment
+----sentence result:For an example of a UK publication that understands this , try INDEX ON CENSORSHIP . 
+	fb:en.united_kingdom_of_great_britain_and_ireland military.military_combatant uk
+----sentence result:INDEX regularly publishes opinions by non-Americans who believe the First Amendment represents appropriate free-speech principles for all open societies . 
+	fb:en.first_amendment_center organization.organization first amendment
+----sentence result:See , e.g . 
+	fb:en.eg_records organization.organization e.g
+----sentence result:the opinions of the dissenting law lords in the SPYCATCHER case . 
+	fb:en.spycatcher_express computer.software spycatcher
+----sentence result:The first ammendment certainly does not apply in this case as the numerous prosecutions of spies in the US proves . 
+	fb:en.united_states_of_america government.governmental_jurisdiction us
+----sentence result:The crux of the Spycatcher affair was extrateritoriality of British law . 
+	fb:m.04gb7 organization.organization_sector british
+	fb:en.spycatcher_express computer.software spycatcher
+----sentence result:So far I have not seen you demonstrate a command of the contrary opinion to your own . 
+	fb:en.public_opinion organization.organization_sector opinion
+----sentence result:It 's just that this argument has no currency in the parts of the world where there is state censorship such as Iran , Kewait and Israel . 
+	fb:en.israel military.military_combatant israel
+	fb:en.iran organization.organization_founder iran
+	fb:en.currency business.product_category currency
+doc:178658 ||| talk.politics.misc
+----sentence result:Basically , I think this tendency for non african americans to believe that something is wrong with us exists because non african americans do n't want to deal with the possiblility that the society is deeply biased against african americans , and that this is about 80 of the problem . 
+	fb:en.society organization.organization_sector society
+	fb:en.rochester_americans sports.sports_team americans
+----sentence result:There is something terribly wrong , however , with a culture which condemns , attacks , and all too often kills any of its members who attempt to get an education . 
+	fb:m.02jfc business.industry education
+----sentence result:My mother is an elementary school teacher , and she tells me that she and her african american collegues are frustrated to tears by the fact that any african american child who attempts to do well in school and get an education is accused by peers of trying to be white , and is beaten , bullied , and tormented by them . 
+	fb:m.02jfc business.industry education
+	fb:en.african_american medicine.risk_factor african american
+----sentence result:In my mother 's school , one of the most promising young students , who happened to be african american , had her throat cut by one of these young thugs . 
+	fb:en.african_american medicine.risk_factor african american
+----sentence result:If that culture ca n't be changed , then those african-american kids who are willing to separate from it must be separated from it and the murderous thugs of whatever color . 
+	fb:en.african_american medicine.risk_factor african-american
+----sentence result:Otherwise , future bright young african american girls who wanted to be doctors will end up dead on the school bus . 
+	fb:en.bus business.product_category bus
+	fb:en.african_american medicine.risk_factor african american
+doc:54196 ||| rec.sport.hockey
+----sentence result:Does anyone recieve annoying email from Roger Maynard whenever they post an article telling them to leave him alon and stop posting to the group ? 
+	fb:en.roger_maynard business.board_member roger maynard
+----sentence result:These emails are filled with insults more than are usual in Roger 's posts and have little if any hockey info . 
+	fb:en.roger_clemens baseball.baseball_player roger
+----sentence result:I am just wondering if I am special or Roger trys to bully everyone who disagrees with him . 
+	fb:en.roger_clemens baseball.baseball_player roger
+----sentence result:I and many of my colleagues have not received any bad e-mails from Roger , in fact , Roger happens to have answered most if not all of my hockey questions and curiosities , so before you start flaming at me or Roger , better re-consider your nasty attitude towards Roger and the like ! 
+	fb:en.roger_clemens baseball.baseball_player roger
+	fb:en.nasty_united_kingdom location.statistical_region nasty
+----sentence result:Steve Lee University of Western Ontario London , Canada 
+	fb:en.canada government.governmental_jurisdiction canada
+	fb:en.university_of_western_ontario organization.organization steve lee university of western ontario london
+doc:53769 ||| rec.sport.hockey
+----sentence result:on all replays , joe murphy 's goal should n't have counted ! 
+	fb:en.joe_murphy_1981 sports.pro_athlete joe murphy
+----sentence result:in my opinion . 
+	fb:en.public_opinion business.industry opinion
+doc:54765 ||| rec.sport.hockey
+----sentence result:I do n't notice refs and linesmen until the playoffs come around , and yes I have to agree that Stewart called the two worst games I 've seen so far Mtl-Quebec game 1 , and last nights Toronto-Detroit game . 
+	fb:en.monkeystone_games business.employer games
+----sentence result:Is he the latest incarnation of KERRY FRASER ? 
+	fb:en.fraser location.statistical_region kerry fraser
+----sentence result:My votes for : Best Ref : Van Hellemond Most Improved : Koharski Worst : Paul Stewart Oops , I do n't really want to start a ref thread so do n't follow up ; 
+	fb:en.van automotive.automotive_class van hellemond
+	fb:en.don_koharski sports.sports_official koharski
+doc:54253 ||| rec.sport.hockey
+----sentence result:According to the hockey gurus over at ESPN , should the Islanders win tonite the two teams will have the same record , but the Devils will be playing the Penguins . 
+	fb:en.football sports.sport espn
+	fb:en.new_jersey government.governmental_jurisdiction devils
+	fb:en.pittsburgh_penguins ice_hockey.hockey_team penguins
+	fb:en.new_york_islanders ice_hockey.hockey_team islanders
+	fb:en.medical_teams_international organization.organization teams
+----sentence result:This is because the Islanders have won the season series against the Devils . 
+	fb:en.new_jersey government.governmental_jurisdiction devils
+	fb:en.new_york_islanders sports.sports_team islanders
+----sentence result:I think that they go to divisional records before goals , but I could be wrong , too . 
+	fb:en.divisional_general military.rank divisional
+doc:52593 ||| rec.sport.hockey
+----sentence result:TSN Sportsdesk just reported that the OTTAWA SUN has reported that Montreal will send 4 players $ 15 million including Vin Damphousse and Brian Bellows to Phillidelphia , Phillie will send Eric Lindros to Ottawa , and Ottawa will give it 's first round pick to Montreal . 
+	fb:en.montreal_canadiens ice_hockey.hockey_team montreal
+	fb:en.ottawa sports.sports_team_location ottawa sun
+	fb:en.eric_lindros ice_hockey.hockey_player eric lindros
+	fb:en.brian_bellows ice_hockey.hockey_player brian bellows
+	fb:en.phillie_phanatic sports.mascot phillie
+	fb:en.vin location.location vin damphousse
+----sentence result:Obviously some reporter for the Ottawa Sun got taken by an April Fools joke . 
+	fb:en.ottawa sports.sports_team_location ottawa sun
+----sentence result:probably started by someone with the Nordiques or the Bruins . 
+	fb:en.boston_bruins sports.sports_team bruins
+	fb:en.quebec_nordiques sports.sports_team nordiques
+----sentence result:who is going to reimburse the Flyers for the $ 15 million they paid to the Nordiques . 
+	fb:en.quebec_nordiques sports.sports_team nordiques
+----sentence result:like the Senators are going to get Lindros and $ 15 million . 
+	fb:en.eric_lindros sports.pro_athlete lindros
+----sentence result:The Flyers sent the equivalent of 6 or 7 players when you include the draft choices to Quebec , and they are going to get only four back . 
+	fb:en.quebec_city government.governmental_jurisdiction quebec
+----sentence result:Some reporter was had real badly and someone must be having a real good laugh seeing as how the so much of the sports media has chosen to publicize this utter nonsense . 
+	fb:en.sport business.industry sports
+	fb:en.behaving_badly biology.organism badly
+----sentence result:If this is true , it will most likely depend on whether or not Ottawa gets to choose 1st overall . 
+	fb:en.ottawa government.governmental_jurisdiction ottawa
+----sentence result:Can Ottawa afford Lindros salary ? 
+	fb:en.ottawa sports.sports_team_location ottawa
+	fb:en.eric_lindros ice_hockey.hockey_player lindros
+----sentence result:Personally , I ca n't see Philli giving up Lindros for anything . 
+	fb:en.eric_lindros sports.pro_athlete lindros
+----sentence result:They did n't give away that much to Quebec just to trade him away again . 
+	fb:en.quebec_city government.governmental_jurisdiction quebec
+----sentence result:Not to mention that Lindros seems to be a huge draw in Phillie and that he represents a successful future for the franchise . 
+	fb:en.eric_lindros sports.pro_athlete lindros
+	fb:en.big_huge_games organization.organization huge
+	fb:en.phillie_phanatic sports.mascot phillie
+----sentence result:Ottawa may be better off taking the 4 players + $ 15 from Montreal for the pick . 
+	fb:en.montreal_canadiens ice_hockey.hockey_team montreal
+	fb:en.ottawa sports.sports_team_location ottawa
+doc:54196 ||| talk.politics.guns
+----sentence result:No , what you said was that we had spent money on guns rather than people , as Canada does . 
+	fb:en.canada organization.organization_founder canada
+----sentence result:Canada PER CAPITA spend more money on people where the US spend more money PER CAPITA on guns . 
+	fb:en.united_states_of_america government.governmental_jurisdiction us
+	fb:en.canada organization.organization_scope canada
+----sentence result:What exactly do you mean when you say the U.S. spends more per capita on guns than Canada does ? 
+	fb:en.united_states_of_america government.governmental_jurisdiction u.s.
+	fb:en.canada government.governmental_jurisdiction canada
+----sentence result:Are you talking about the U.S. government or are you talking about the purchase of guns by private citizens or both ? 
+	fb:en.united_states_of_america government.governmental_jurisdiction u.s.
+----sentence result:If , on the other hand , you meant that the U.S government spends more per capita on guns than Canada does then your point is relevant . 
+	fb:en.canada organization.organization_scope canada
+	fb:en.president_of_the_united_states government.government_office_or_title u.s
+----sentence result:So , if this is true then the U.S. needs to get its priorities straight . 
+	fb:en.united_states_of_america government.governmental_jurisdiction u.s.
+----sentence result:I 'm just saying that if the U.S government does spend more per capita on guns than they do on people then something is awry . 
+	fb:en.president_of_the_united_states government.government_office_or_title u.s
+----sentence result:He meant the US spends more per capita on guns than Canada which is n't really surprising because we were so busy protecting the western world from the USSR that all other countries could slack off on their defense spending . 
+	fb:en.united_states_of_america government.governmental_jurisdiction us
+	fb:en.canada organization.organization_scope canada
+	fb:en.soviet_union military.military_combatant ussr
+	fb:en.busy_bee organization.organization busy
+	fb:en.western_nebraska location.statistical_region western world
+doc:54315 ||| talk.politics.guns
+----sentence result:the dismissal or resignation of Lloyd Bensen , Secretary of the Treasury , 
+	fb:en.united_states_secretary_of_the_treasury government.government_office_or_title treasury
+	fb:en.secretary_of_state government.government_office_category secretary
+	fb:en.lloyd_florida location.location lloyd bensen
+doc:53321 ||| talk.politics.guns
+----sentence result:It strikes me that this argument could be logically extended as follows : A nuclear weapon is an arm , hence anyone has a right to have nuclear weapons . 
+	fb:en.weapon business.product_line weapon
+----sentence result:And if someone uses his nuclear weapons to blow up New York , L.A. , and Chicago , that 's okay as long as we have a good police force capable of finding him and putting him in jail , which will serve as a deterrent to others . 
+	fb:en.los_angeles government.governmental_jurisdiction l.a.
+	fb:en.new_york_knicks sports.sports_team new york
+	fb:en.chicago_blackhawks sports.sports_team chicago
+----sentence result:Radioactive decay of plutonium and uranium , as well as the tritium in the weapon , tends to be somewhat dangerous to living things . 
+	fb:en.weapon business.product_line weapon
+----sentence result:It 's kinda hard to justify their use as a militia weapon when at best they are meant for battlefield use low-yield weapons or at worst for industrial target obliteration translation : cities and population centers . 
+	fb:en.weapon business.product_line weapon
+	fb:en.industrial_design organization.organization_sector industrial
+	fb:en.battlefield_2 military.military_conflict battlefield
+	fb:en.geza_kinda business.sponsored_recipient kinda
+----sentence result:Not to mention that for it to be used as a militia weapon and expect the user to live requires some sort of launch vehicle . 
+	fb:en.weapon business.product_line weapon
+doc:55279 ||| talk.politics.guns
+----sentence result:I came across the following notice in the Denver Post classified secctio this morning April 26 , begin quote NOTICE : The Denver Post will no longer knowingly accept any advertisement to buy or sell assault weapons . 
+	fb:en.denver government.governmental_jurisdiction denver post
+----sentence result:The Denver Post finds that the use of assault weapons poses a threat to the health , safety , and security of its reader end quote Now I suppose the Post is within its rights to refuse such ads . 
+	fb:en.denver government.governmental_jurisdiction denver post
+----sentence result:I called the Post classified number and expressed my displeas re . 
+	fb:en.denver government.governmental_jurisdiction post
+	fb:en.re_italy location.location displeas re
+----sentence result:According to the supervisor I spoke to , the Post was reacting to public complaints regarding the running of assult weapon ads . 
+	fb:en.denver government.governmental_jurisdiction post
+	fb:en.weapon business.product_line weapon
+----sentence result:I strongly encourage Denver Post readers to call and make their feelings own . 
+	fb:en.denver government.governmental_jurisdiction denver post
+----sentence result:Eric E. Snyder Department of MCD Biology . 
+	fb:en.bovine_spongiform_encephalopathy medicine.infectious_disease mcd
+----sentence result:making feet for childrens sho University of Colorado , Boulder Boulder , Colorado Will do ! 
+	fb:en.university_of_colorado_at_boulder organization.organization university of colorado
+	fb:en.boulder_colorado sports.sports_team_location boulder boulder
+		fb:en.university_of_colorado_at_boulder	fb:organization.organization.headquarters^fb:location.mailing_address.citytown	fb:en.boulder_colorado	level=1
+----sentence result:I appreciate the thoughtfullness of the Post to not be an intermediary for such sales . 
+	fb:en.denver sports.sports_team_location post
+----sentence result:The Right to bear arms is one of the most misapplied rights in our Constitution , and assault weapons go way beyond what is , or rather should be imho , a natural right in America . 
+	fb:en.president_of_the_united_states government.government_office_or_title america
+----sentence result:Just ask the family of that boy shot back in September the papers are full of stories about a child with an assult weapon with a angelic face Post who committed the murder without ever thinking . 
+	fb:en.denver sports.sports_team_location post
+	fb:en.weapon business.product_line weapon
+doc:54269 ||| talk.politics.guns
+----sentence result:You know , I was reading 18 U.S.C. 922 and something just did not make sence and I was wondering if someone could help me out . 
+	fb:en.united_states_code organization.organization u.s.c.
+----sentence result:Say U.S.C. 922 : Except as provided in paragraph , it shall be unlawful for any person to transfer or possess a machinegun . 
+	fb:en.united_states_code organization.organization u.s.c.
+----sentence result:Well I got to looking in my law dictionary and I found that a person might also be an artificial entity that is created by government and has no rights under the federal constitution . 
+	fb:en.federal_argentina location.location federal constitution
+----sentence result:Norton vs . 
+	fb:en.kansas government.governmental_jurisdiction norton
+----sentence result:Shelby County , 118 US 425 p. 442 The general rule is that an unconstitutional statute , though having the form and name of law , is in reality no law , but is wholly void , and ineffective for any purpose ; since unconstitutionality dates from the time of it 's enactment , and not merely from the date of the decision so branding it . 
+	fb:en.tennesee government.political_district shelby county
+	fb:en.in_reality biology.organism reality
+----sentence result:16 Am Jur 2d , Sec 177 late 2d , Sec 256 So , has it ever gone to court , not just your run of the mill Ok I had it I am guilty , put me in jail Has anyone ever claimed that they had a right to possess and was told by the Supreme Court that they did n't have that right ? 
+	fb:en.supreme_court_of_the_united_states business.employer supreme court
+	fb:en.united_states_securities_and_exchange_commission business.employer sec
+----sentence result:The Supreme Court has never heard such a case . 
+	fb:en.supreme_court_of_the_united_states business.employer supreme court
+doc:104496 ||| rec.sport.baseball
+----sentence result:The Dodgers have been shopping Harris to other teams in their quest for more left-handed pitching . 
+	fb:en.texas government.governmental_jurisdiction harris
+	fb:en.los_angeles_dodgers baseball.baseball_team dodgers
+	fb:en.medical_teams_international organization.organization teams
+----sentence result:Personally , I think Harris is a defensive liability , and he has also led the team in past years for hitting into double plays , or at least been among the leaders . 
+	fb:en.texas government.governmental_jurisdiction harris
+	fb:en.defensive_end sports.sports_position defensive
+	fb:en.young_leaders business.board_member_title leaders
+----sentence result:Sharperson showed last year that if given a chance to play every day , he can get the job done . 
+	fb:en.mike_sharperson baseball.baseball_player sharperson
+----sentence result:Wallach has helped tremendously on defense , as has Reed . 
+	fb:en.reed_college business.employer reed
+	fb:en.eli_wallach military.military_person wallach
+----sentence result:Both Astacio AND Martinez were bailed out in recent starts by great defensive plays . 
+	fb:en.defensive_end sports.sports_position defensive
+	fb:en.pedro_astacio baseball.baseball_player astacio
+	fb:en.california_pennsylvania location.statistical_region martinez
+----sentence result:Martinez pitched into the ninth in a game that might have seen him lifted in the third in past years . 
+	fb:en.california_pennsylvania location.statistical_region martinez
+	fb:en.lower_ninth_ward location.location ninth
+----sentence result:Astacio lasted 7 innings the other day under similar circumstances . 
+	fb:en.pedro_astacio baseball.baseball_player astacio
+----sentence result:The Dodgers are turning double plays , and keeping more balls in the infield than last year . 
+	fb:en.los_angeles_dodgers baseball.baseball_team dodgers
+----sentence result:And Piazza has also been great on defense . 
+	fb:en.mike_piazza baseball.baseball_player piazza
+----sentence result:Wallach , clearly , has contributed to the over all improvement on defense . 
+	fb:en.eli_wallach military.military_person wallach
+----sentence result:But his offense is awful and he has cost the Dodgers some runs . 
+	fb:en.los_angeles_dodgers baseball.baseball_team dodgers
+----sentence result:I suspect he will come out of this slump much as Davis and Straw seem to have come out of theirs . 
+	fb:en.california government.governmental_jurisdiction davis
+	fb:en.jack_straw government.politician straw
+doc:105022 ||| rec.sport.baseball
+----sentence result:In article Gary Built Henderson 's stat 's are probably closer to DiMaggio 's than you think . 
+	fb:en.joe_dimaggio sports.pro_athlete dimaggio
+	fb:en.henderson location.statistical_region gary built henderson
+----sentence result:Then give me NUMBERS MAN ! 
+	fb:en.d_mannose chemistry.chemical_compound man
+----sentence result:Winfield could WHIP henderson 's butt . 
+	fb:en.kentucky government.governmental_jurisdiction henderson
+	fb:en.dave_winfield baseball.baseball_player winfield
+----sentence result:As soon as I get to my office , I 'll be happy to post Rickey and Dave 's career lines . 
+	fb:en.branch_rickey baseball.baseball_player rickey
+	fb:en.dave_meggett sports.pro_athlete dave
+----sentence result:Both are very fine players , but Henderson has consistently been better . 
+	fb:en.kentucky government.governmental_jurisdiction henderson
+----sentence result:As for Rickey slacking due to his contract problems this year any comments ? 
+	fb:en.branch_rickey baseball.baseball_player rickey
+----sentence result:Considering he 's basically picked up the entire team and put them on his back , I think he deserves a little slack , and I think he deserves a 4-year extension at $ 6 per year . 
+	fb:en.slack_river location.location slack
+----sentence result:I was upset at people dissing winfield . 
+	fb:en.dave_winfield baseball.baseball_player winfield
+----sentence result:Henderson is the better player . 
+	fb:en.kentucky government.governmental_jurisdiction henderson
+----sentence result:WINFIELD can come close though . 
+	fb:en.dave_winfield sports.pro_athlete winfield
+----sentence result:Lets see what rickey does for the rest of his career . 
+	fb:en.branch_rickey baseball.baseball_player rickey
+----sentence result:People forget how good winny was in the 80 's , and also how great rickey was . 
+	fb:en.branch_rickey baseball.baseball_player rickey
+doc:104928 ||| rec.sport.baseball
+----sentence result:I believe that Rusty Staub was also a jewish ball-player Also , Mordaci Brown back in the early 20th century . 
+	fb:en.jewish_renewal religion.religion jewish
+	fb:en.rusty_staub baseball.baseball_player rusty staub
+	fb:en.brown-brown medicine.drug mordaci brown
+----sentence result:He was a pitcher whose nickname was 3 fingers Brown . 
+	fb:en.brown_university business.employer brown
+doc:104847 ||| rec.sport.baseball
+----sentence result:Braves fans are nothing but a bunch of bandwagoners . 
+	fb:en.atlanta_braves baseball.baseball_team braves
+----sentence result:Correct me if I am wrong , but 4 or 5 years ago you couldnt give away a ticket to see the Braves play.I would bet my next paycheck that 80 of the so-called Braves fans living outside of Georgia at the present time can not name more than 3 players from their 1988 season . 
+	fb:en.atlanta sports.sports_team_location braves
+	fb:en.georgia sports.sports_team_owner georgia
+		fb:en.atlanta	fb:sports.sports_team_location.teams^fb:sports.professional_sports_team.owner_s	fb:en.georgia	level=2
+----sentence result:On the other hand , ask any Cubs fan living anywhere in the United States to name 3 players from any given year and 80 of them probably could . 
+	fb:en.chicago_cubs baseball.baseball_team cubs
+	fb:en.president_of_the_united_states government.government_office_or_title united states
+----sentence result:I 'd wager most of the Braves fans on the net could name more than 3 players from their 1988 season . 
+	fb:en.atlanta_braves baseball.baseball_team braves
+----sentence result:You could give away tickets to Braves games . 
+	fb:en.atlanta_braves baseball.baseball_team braves
+----sentence result:Granted , the fact that a team wins brings people to the ball park , but that does not mean they diserve the title America 's Team The only reason they are considered America 's team is because of Ted Turner and his little TV station which broadcasts across the nation . 
+	fb:en.television business.industry tv
+	fb:en.ted_turner organization.organization_founder ted turner
+	fb:en.president_of_the_united_states government.government_office_or_title america
+	fb:en.park_rapids location.statistical_region park
+----sentence result:This is precisely why they were considered America 's team . 
+	fb:en.president_of_the_united_states government.government_office_or_title america
+----sentence result:when they were bad , you could see most of the Braves games on cable . 
+	fb:en.atlanta_braves baseball.baseball_team braves
+	fb:en.cable_television business.industry cable
+----sentence result:You could do that for the Cubs as well , but the Braves had better camerawork , better announcers what would you rather listen to Harry discuss the game , or Skip and Pete discuss motoball ? 
+	fb:en.chicago_cubs baseball.baseball_team cubs
+	fb:en.atlanta_braves baseball.baseball_team braves
+	fb:en.pete_maravich sports.pro_athlete pete
+----sentence result:and teams that were n't too much worse . 
+	fb:en.medical_teams_international organization.organization teams
+----sentence result:Because of TBS , the Braves had a lot of fans outside of Georgia . 
+	fb:en.atlanta_braves sports.sports_team braves
+	fb:en.major_league_baseball sports.sports_league tbs
+	fb:en.georgia sports.sports_team_owner georgia
+		fb:en.major_league_baseball	fb:sports.sports_league.teams^fb:sports.sports_league_participation.team	fb:en.atlanta_braves	level=2
+----sentence result:At home in Kentucky , even though we were much closer to Cincinnati there was as many Braves fans as Reds fans , even in 1990 . 
+	fb:en.cincinnati_reds sports.sports_team cincinnati
+	fb:en.kentucky government.governmental_jurisdiction kentucky
+	fb:en.atlanta_braves sports.sports_team braves
+----sentence result:You could actually watch the Braves play you had to go to Cincinnati to watch the Reds . 
+	fb:en.cincinnati_reds sports.sports_team cincinnati
+	fb:en.atlanta_braves baseball.baseball_team braves
+----sentence result:I can go anywhere in America and watch the Braves . 
+	fb:en.atlanta_braves baseball.baseball_team braves
+	fb:en.president_of_the_united_states government.government_office_or_title america
+----sentence result:I 'll consider Toronto AMerica 's team before the Braves Why ? 
+	fb:en.atlanta_braves baseball.baseball_team braves
+	fb:en.toronto sports.sports_team_location toronto america
+----sentence result:I 'd guess that Braves fans are more widely distributed than Toronto fans . 
+	fb:en.atlanta_braves baseball.baseball_team braves
+	fb:en.toronto sports.sports_team_location toronto
+doc:104324 ||| rec.sport.baseball
+----sentence result:Today 4/14 Cubs activated Mike Harkey from DL , whom did they move to make room for Harkey ? 
+	fb:en.chicago_cubs sports.professional_sports_team cubs
+	fb:en.mike_harkey sports.drafted_athlete mike harkey
+		fb:en.chicago_cubs	fb:sports.professional_sports_team.draft_picks^fb:sports.sports_league_draft_pick.player	fb:en.mike_harkey	level=2
+----sentence result:Also , are Delino Deshields John Wetteland of the Expos on the DL ? 
+	fb:en.montreal_expos baseball.baseball_team expos
+	fb:en.delino_deshields baseball.baseball_player delino deshields john wetteland
+		fb:en.delino_deshields	fb:baseball.baseball_player.batting_stats^fb:baseball.batting_statistics.team	fb:en.montreal_expos	level=1
+----sentence result:Ken Cal Poly , Pomona 
+	fb:en.pomona_california location.statistical_region pomona
+	fb:m.02rt_q computer.software ken cal poly
+doc:59411 ||| sci.med
+doc:59531 ||| sci.med
+----sentence result:Sounds to me like someone was pulling your leg . 
+	fb:en.nashville_sounds sports.sports_team sounds
+----sentence result:It is possible for pregnancy to occur if semen is deposited just outside of the vagina i.e. coitus interruptus , but that 's about at far as you can get . 
+	fb:en.vagina medicine.anatomical_structure vagina
+	fb:en.devario_interruptus biology.organism_classification interruptus
+----sentence result:Kenneth Gilbert University of Pittsburgh Well , now , Doc , I sure would not want to bet my life on those little critters not being able to get thru one layer of sweat-soaked cotton on their way to do their programmed task . 
+	fb:en.university_of_pittsburgh business.employer kenneth gilbert university of pittsburgh well
+	fb:en.united_states_department_of_commerce business.employer doc
+doc:59380 ||| sci.med
+----sentence result:it might not please a medical researcher but it pleased my own personal physician enough for him to give me allergy medicine Allergy medicine , huh ? 
+	fb:en.food_industry business.industry allergy
+	fb:en.registered_medical_practitioner medicine.physician physician
+	fb:en.huh_jung_moo sports.pro_athlete huh
+	fb:en.chief_researcher business.job_title researcher
+----sentence result:i.e. like an antihistamine does ? 
+	fb:en.antihistamines medicine.medical_treatment antihistamine
+----sentence result:One doctor did prescribe me imigran costs the NHS 48 for 6 tablets after having to rehydrate me because I 'd been throwing up for four solid days and could n't even drink water but I got taken off it again when I moved and had to change doctors . 
+	fb:en.national_health_service organization.organization nhs
+----sentence result:The only alternatives I have is to get it prescribed privately , which I can not afford , or to pay a private allergy specialist to test me and tell me what to avoid . 
+	fb:en.food_industry business.industry allergy
+----sentence result:I 'm not saying I NEVER consume ANYTHING with MSG . 
+	fb:en.msg_network organization.organization msg
+----sentence result:I 've noticed that I have a certain tolerance level like a small bag of bbq chips once a month or so it not a problem but that same bag of chips will bother me if I also had chicken bouillon yesterday and lunch at one of the Chinese restaurants the day before . 
+	fb:m.02p1pl6 medicine.risk_factor chinese
+doc:58890 ||| sci.med
+----sentence result:My nearly-13 year old Pomeranian had a nasty reaction to this vaccination . 
+	fb:en.pomeranian_voivodeship location.location pomeranian
+	fb:en.nasty_united_kingdom location.statistical_region nasty
+----sentence result:Suffice it to say , we will not vaccinate her for Lyme disease again . 
+	fb:en.lyme_disease medicine.disease lyme
+----sentence result:She 's been camping through some 6 states and has backpacked with us as well and we are used to watching for ticks and dealing with them and we simply wo n't take her to really active Lyme disease areas . 
+	fb:en.lyme_disease medicine.disease lyme
+----sentence result:Many veterinarians feel that Lyme Disease in dogs is so easy to treat that in an endemic area , they often just give the appropriate antibiotics to dogs presenting with lameness , swollen joints , fever . 
+	fb:en.lyme_disease medicine.disease lyme
+	fb:en.endemic_pemphigus medicine.disease endemic
+----sentence result:A recent paper March has finally established that Lyme disease in dogs can be reproduced in a controlled experimentaly setting . 
+	fb:en.lyme_disease medicine.disease lyme
+	fb:en.march_united_kingdom location.location march
+----sentence result:So these are proven , clinically sick Lyme patients showing spontaneous recovery without the benefit of drug treatment . 
+	fb:en.lyme_disease medicine.disease lyme
+doc:58936 ||| sci.med
+----sentence result:Experimental Lyme Disease in Dogs Produces Arthritis and Persistant Infection , The Journal of Infectious Diseases , March 1993 , 
+	fb:en.arthritis medicine.disease dogs produces arthritis
+	fb:en.lyme_disease medicine.disease lyme
+	fb:en.linux_journal business.employer journal
+doc:104496 ||| rec.motorcycles
+doc:105022 ||| rec.motorcycles
+doc:104847 ||| rec.motorcycles
+----sentence result:analysis and hints deleted Aw , c'mon . 
+	fb:en.hints location.uk_civil_parish hints
+----sentence result:The serious overreaction ought to be worth a couple of points , not to mention the bit condemning everthing the flamee might ever say . 
+	fb:en.bit_international_college organization.organization bit
+----sentence result:I personally am of the opinion that there are two types of good flames . 
+	fb:en.public_opinion business.industry opinion
+	fb:en.uic_flames sports.sports_team flames
+----sentence result:Blaine , as an Elder , has seen the Superflamers at their peaks or depths , if you prefer . 
+	fb:en.washington government.governmental_jurisdiction blaine
+----sentence result:With that sort of incendiary backdrop , awarding your faltering Bic a 0.5 was the purest act of charity . 
+	fb:en.bic_national_park protected_sites.protected_site bic
+----sentence result:Unless , of course , your audience has only seen several thousand similarly uninspiring attempts in this arena . 
+	fb:en.td_waterhouse_centre sports.sports_facility arena
+----sentence result:The other type of flame , which you seem to be glorifying above , blah , blah , blah . 
+	fb:en.moses_blah government.politician blah
+----sentence result:In summary , Blaine , your score for that flame is incorrect . 
+	fb:en.washington government.governmental_jurisdiction blaine
+----sentence result:Until you can yank the flame out of Blaine 's Internet Port before he can io_close it , you are in no position to lecture him , grasshopper . 
+	fb:en.internet_explorer computer.software internet
+	fb:en.washington government.governmental_jurisdiction blaine
+	fb:en.grasshopper biology.organism_classification grasshopper
+----sentence result:You also probably could n't outrun a tennis ball with a flatulent dog stapled to your posterior , and I 'll bet you and your motorcycle lean to the outside while turning . 
+	fb:m.07bs0 sports.sport tennis
+----sentence result:Say , you 're not from Waco , are you ? 
+	fb:en.waco location.statistical_region waco
+doc:105558 ||| rec.motorcycles
+----sentence result:Quick question : What are the advantages of slip-on 's versus your stock exhaust versus aftermarket exhaust systems ? 
+	fb:en.exhaust_system business.consumer_product exhaust
+----sentence result:Dave Cost is lower than OEM replacements and they weigh less . 
+	fb:en.replacements_ltd organization.organization replacements
+----sentence result:I replaced my OEM canister with an Ontario systems slip on . 
+	fb:en.ontario government.governmental_jurisdiction ontario
+----sentence result:After talking to Kaz Yoshima , the developer and manufacturer of the slip on , he thinks I might need larger pilot , idle , jets . 
+	fb:en.slip business.product_category slip
+----sentence result:Anyway , besides that minor glitch , I like the slip on performance and the sound , which is louder than stock , but not loud enough to annoy folks . 
+	fb:en.slip business.product_category slip
+----sentence result:The Ontario slip on use some sort of sound baffling technique to reduce the sound at full throttle . 
+	fb:en.ontario government.governmental_jurisdiction ontario
+----sentence result:When you change the intake or exhaust characteristics beyond the allowable delta of the manufacturer , you may have to change other areas to compensate . 
+	fb:en.exhaust_system business.consumer_product exhaust
+----sentence result:Like a complete change of the exhaust system , header and muffler , changes the exhaust characteristic to the point which re-jetting is required to compensate for the new engine profile . 
+	fb:en.game_engine computer.software_genre engine
+	fb:en.exhaust_system business.consumer_product exhaust
+----sentence result:Talk with the folks who make the slip on you intend to use and ask them if they have used it on your particular bike . 
+	fb:en.slip business.product_category slip
+----sentence result:Check with people who have the system also to see what they think about there slip on . 
+	fb:en.slip business.product_category slip
+----sentence result:Also , as a last data point , in Sport Rider 's first issue , did a review on a group of header and exhaust systems for the CBR600F2 . 
+	fb:en.exhaust_system business.consumer_product exhaust
+----sentence result:They also included , as a side bar , the Ontario slip on , the Dyno showed an increase from stock of 5bhp at the rear wheel , 85 verses 91 . 
+	fb:en.ontario government.governmental_jurisdiction ontario
+	fb:en.nicholson_georgia location.statistical_region dyno
+doc:105257 ||| rec.motorcycles
+doc:54196 ||| alt.atheism
+----sentence result:Andy I do n't accept atoms or gravity as fact either . 
+	fb:en.andrew_murray sports.pro_athlete andy
+----sentence result:Gravity , too , is very much a theory ; no gravity waves have even been detected , but we have a very useful model that describes much of the behavior on objects by this thing we call gravity . 
+	fb:en.gravity_co_ltd organization.organization gravity
+----sentence result:Gravity , however , is not a fact . 
+	fb:en.gravity_co_ltd organization.organization gravity
+----sentence result:Newton thought gravity was a simple vector force ; Einstein a wave . 
+	fb:en.albert_einstein organization.organization_founder einstein
+	fb:en.sir_newton_isaac business.board_member newton
+	fb:en.gravity_co_ltd organization.organization gravity
+----sentence result:That takes a great leap of faith , which , of course , is what religion takes . 
+	fb:en.law_enforcement_against_prohibition organization.organization leap
+----sentence result:jim halat bear-stearns whatever does n't kill you will only serve to annoy you nyc i speak only for myself What do you accept as a fact the roundness of the earth after all , the ancient Greeks thought it was a sphere , and then Newton said it was a spheroid , and now people say it 's a geoid ? 
+	fb:en.greece military.military_combatant greeks
+	fb:en.earth organization.organization_scope earth
+	fb:en.bear_stearns organization.organization jim halat bear-stearns
+	fb:en.sir_newton_isaac business.board_member newton
+----sentence result:Gravity is not a fact : is that a fact ? 
+	fb:en.gravity_co_ltd organization.organization gravity
+----sentence result:How about Newton 's and Einstein 's thoughts about gravity is it a fact that they had those thoughts ? 
+	fb:en.albert_einstein organization.organization_founder einstein
+	fb:en.sir_newton_isaac business.board_member newton
+	fb:en.gravity_co_ltd organization.organization gravity
+----sentence result:I do n't see how any of the things that you are asserting are any more factual than things like gravity , atoms or evolution . 
+	fb:en.gravity_co_ltd organization.organization gravity
+doc:53321 ||| alt.atheism
+----sentence result:Okay , how about Scott Can anybody hear me ? 
+	fb:en.scott_spiezio baseball.baseball_player scott
+doc:53224 ||| alt.atheism
+----sentence result:Mimicry is not necessarily the same as the action being imitated . 
+	fb:en.molecular_mimicry medicine.disease_cause mimicry
+----sentence result:A Parrot saying Pretty Polly is n't necessarily commenting on the pulchritude of Polly . 
+	fb:en.dunbar location.location polly
+----sentence result:How about a gorilla ? 
+	fb:en.gorilla biology.organism_classification gorilla
+----sentence result:A dolphin ? 
+	fb:en.dolphin biology.informal_biological_grouping dolphin
+doc:53485 ||| alt.atheism
+----sentence result:Andy I do n't accept atoms or gravity as fact either . 
+	fb:en.andy_benes baseball.baseball_player andy
+----sentence result:Gravity , too , is very much a theory ; no gravity waves have even been detected , but we have a very useful model that describes much of the behavior on objects by this thing we call gravity . 
+	fb:en.gravity_co_ltd organization.organization gravity
+----sentence result:Gravity , however , is not a fact . 
+	fb:en.gravity_co_ltd organization.organization gravity
+----sentence result:Newton thought gravity was a simple vector force ; Einstein a wave . 
+	fb:en.general military.rank einstein
+	fb:en.sir_newton_isaac business.board_member newton
+	fb:en.gravity_co_ltd organization.organization gravity
+----sentence result:That takes a great leap of faith , which , of course , is what religion takes . 
+	fb:en.law_enforcement_against_prohibition organization.organization leap
+----sentence result:jim halat bear-stearns whatever does n't kill you will only serve to annoy you nyc i speak only for myself Perhaps the major difference here is that we notice something , which we call gravity , and then do some modelling around it . 
+	fb:en.bear_stearns organization.organization jim halat bear-stearns
+	fb:en.gravity_co_ltd organization.organization gravity
+----sentence result:Besides , we can always change the model of gravity if the one we have does n't work too well . 
+	fb:en.gravity_co_ltd organization.organization gravity
+----sentence result:Can you imagine this with the bible ? 
+	fb:en.bible religion.religious_text bible
+doc:53405 ||| alt.atheism
+----sentence result:who : Kevin Marshall what : KM Yeah , hilarious . 
+	fb:en.marshall location.location kevin marshall
+----sentence result:Satanists believe Satan is a god , but not KM the only god . 
+	fb:en.satan religion.deity satan
+	fb:en.god religion.deity god
+----sentence result:Satan is a part of Christian mythology . 
+	fb:en.christianity religion.religion christian
+	fb:en.satan religion.deity satan
+----sentence result:KM Therefore , one can not reasonably worship Satan without KM acknowledging the existence of a Christian god . 
+	fb:en.christianity religion.religion christian
+	fb:en.satan religion.deity satan
+----sentence result:Satanists KM see Satan as their master , and they see God and Satan as KM adversaries of similar power . 
+	fb:en.satan religion.deity satan
+	fb:en.god religion.deity god
+----sentence result:Satanists believe in the KM eventual overthrow of God and a transfer of all power to KM their master . 
+	fb:en.god religion.deity god
+----sentence result:Kevin Marshall A great many Satanists DO NOT believe in Satan . 
+	fb:en.satan religion.deity satan
+	fb:en.marshall location.location kevin marshall
+----sentence result:I 'd go so far as to assert that most orthodox Satanists do not worship Satan Church of Satan , etc . 
+	fb:en.satan religion.deity satan
+----sentence result:To hear LaVey say it , only idiots and fools believe in Satan and or Allah . 
+	fb:en.church_of_satan organization.organization satan
+	fb:en.anton_lavey organization.organization_founder lavey
+	fb:en.allah religion.deity allah
+		fb:en.church_of_satan	fb:organization.organization.founders	fb:en.anton_lavey	level=1
+----sentence result:Maximus 2.01 wb Anton LaVey 's interpretation of Satanism has always puzzled me . 
+	fb:en.anton_lavey religion.founding_figure anton lavey
+	fb:en.satanism religion.religion satanism
+		fb:en.anton_lavey	fb:religion.founding_figure.religion_founded	fb:en.satanism	level=1
+----sentence result:I read his Satanic Bible a few years ago for a social studies project , as well as a book by Arthur Lyons called The Cult of Devil Worship in America . 
+	fb:en.bible religion.religious_text bible
+	fb:en.americas organization.organization_scope america
+	fb:en.arthur_iowa location.statistical_region arthur lyons
+----sentence result:The latter included a very interesting interview with the Black Pope in which he did indeed say that Satan was merely an instrument for one to realize the self . 
+	fb:en.satan religion.deity satan
+----sentence result:When I refer to Satanism , I am referring to the mishmash of rural Satanic ritualism and witchcraft which existed before the Church of Satan . 
+	fb:en.satan religion.deity church of satan
+	fb:en.satanism religion.religion satanism
+		fb:en.satan	fb:religion.deity.deity_of	fb:en.satanism	level=1
+----sentence result:I do n't consider LaVey 's church to be at all orthodox , nor do I consider its followers satanists . 
+	fb:en.anton_lavey organization.organization_founder lavey
+	fb:en.church_of_satan organization.organization church
+		fb:en.church_of_satan	fb:organization.organization.founders	fb:en.anton_lavey	level=1
+----sentence result:LaVey combined the philosophies of Nietzsche , Crowley , and Reich , slapped in some religious doctrine , added a little touch of P.T. Barnum , and christened his creation the Church of Satan . 
+	fb:en.anton_lavey organization.organization_founder lavey
+	fb:en.church_of_satan organization.organization church of satan
+	fb:en.aleister_crowley organization.organization_founder crowley
+	fb:en.p_t_barnum_apartments location.location p.t. barnum
+		fb:en.church_of_satan	fb:organization.organization.founders	fb:en.anton_lavey	level=1
+----sentence result:No doubt the title was a calculated attempt to attract attention . 
+	fb:en.no_doubt business.employer doubt
+----sentence result:In its heyday , the Church had a huge following , including such Hollywood celebrities as Sammy Davis , Jr . 
+	fb:en.satan religion.deity church
+	fb:en.hollywood_florida location.statistical_region hollywood
+	fb:en.jeremy_roenick ice_hockey.hockey_player jr
+	fb:en.sammy_davis_jr military.military_person sammy davis
+	fb:en.big_huge_games organization.organization huge
+----sentence result:and Jayne Mansfield . 
+	fb:en.mansfield_ohio location.statistical_region jayne mansfield
+----sentence result:I have a picture of LaVey with Sammy , by the way . 
+	fb:en.anton_lavey organization.organization_founder lavey
+	fb:en.sammy_davis_jr military.military_person sammy
+----sentence result:I find the idea of a Satanist not believing in Satan about as credible as a Christian not believing in Christ . 
+	fb:en.christianity religion.religion christian
+	fb:en.jesus religion.deity christ
+	fb:en.satan religion.deity satan
+	fb:en.satanism religion.religion satanist
+		fb:en.jesus	fb:religion.deity.deity_of	fb:en.christianity	level=1
+		fb:en.satan	fb:religion.deity.deity_of	fb:en.satanism	level=1
+----sentence result:But if you include the Church of Satan , then I suppose I need to alter my definition . 
+	fb:en.satan religion.deity church of satan
+----sentence result:Webster 's Dictionary and The American Heritage Dictionary will have to do the same . 
+	fb:en.daniel_webster government.politician webster
+	fb:en.americas location.location american
+doc:83665 ||| talk.religion.misc
+----sentence result:Some species of bees see nothing wrong with kicking out a large number of male bees because they are being a burden on the food supplies of the colony . 
+	fb:en.st_bees location.location bees
+----sentence result:The bees die of course , but it was for the good of the colony as a whole , so was it immoral ? 
+	fb:en.st_bees location.location bees
+----sentence result:Our society at least our western one is one of abundance when it comes to the basics ; food , water and shelter . 
+	fb:en.society organization.organization_sector society
+	fb:en.food_basics_canada organization.organization basics
+----sentence result:What I am saying is that , yes , you CAN still murder my sibling , but do n't expect your peers to be impressed by it in our society . 
+	fb:en.society organization.organization_sector society
+----sentence result:After the act , you could say what you liked , but you must make a conscious decision on whether or not your society will condone your act , so as to evaluate the consequences to yourself , including how you will feel about it remember your feelings have been socially imbued . 
+	fb:en.society organization.organization_sector society
+----sentence result:Jeff . 
+	fb:en.jeff_kent baseball.baseball_player jeff
+doc:83816 ||| talk.religion.misc
+----sentence result:In article , Paul Harvey In article Ignorance is not bliss ! 
+	fb:en.article_19 organization.organization article
+	fb:en.paul_harvey military.military_person paul harvey
+----sentence result:Huh , if ignorance is strength , then I wo n't distribute this piece of information if I want to follow your advice contradiction above . 
+	fb:en.huh_jung_moo sports.pro_athlete huh
+----sentence result:Cheers , Kent . 
+	fb:en.ohio government.governmental_jurisdiction kent
+doc:82781 ||| talk.religion.misc
+----sentence result:hudson If someone inflicts pain on themselves , whether they enjoy it or not , they are hurting themselves . 
+	fb:en.hudson_river_sloop_clearwater organization.organization hudson
+----sentence result:Some people may also reason that by reading the bible and being a Xtian you are permanently damaging your brain . 
+	fb:en.bible religion.religious_text bible
+----sentence result:By your logic , it would be OK for them to come into your home , take away your bible , and send you off to re-education camps to save your mind from ruin . 
+	fb:en.bible religion.religious_text bible
+----sentence result:hudson And why is there nothing wrong with it ? 
+	fb:en.hudson_river_sloop_clearwater business.business_operation hudson
+----sentence result:Because : Simply because you do n't like what other people are doing does n't give you the right to stop it , Hudson . 
+	fb:en.hudson_river_sloop_clearwater business.business_operation hudson
+----sentence result:However , it is obnoxious , arrogant thinking like yours , the I-know-I 'm - morally-right-so-I-can-force-it-on-you bullshit that has brought us religious wars , pogroms against Jews , gay-bashing , and other atrocities by other people who , like you , knew they were morally right . 
+	fb:en.ashkenazi_jews medicine.risk_factor jews
+	fb:en.wars_of_the_roses military.military_conflict wars
+----sentence result:me What is it with you , Hudson ? 
+	fb:en.hudson_river_sloop_clearwater business.business_operation hudson
+----sentence result:Who died and made you God ? 
+	fb:en.bible religion.religious_text god
+----sentence result:hudson Are n't you ? 
+	fb:en.hudson_river location.location hudson
+----sentence result:It is not a moral standard that I am presenting you with , Hudson . 
+	fb:en.hudson_river_sloop_clearwater business.business_operation hudson
+----sentence result:However , other people will say that you have misinterpreted the Word of God and that they are the actual true believers , and that you are acting on your own authority . 
+	fb:en.bible religion.religious_text word of god
+----sentence result:hudson Who gave you the authority to set such a moral standard for me to tell me that I can not set a moral standard for others ? 
+	fb:en.hudson_river_sloop_clearwater business.business_operation hudson
+----sentence result:But do n't be surprised if people do n't follow you like rats after the Pied Piper . 
+	fb:en.hamelin location.location pied piper
+doc:83638 ||| talk.religion.misc
+----sentence result:Note to readers outside t.a . 
+	fb:en.t_a_mccann organization.organization_founder t.a
+----sentence result:taite has been advocating violent civil disobedience in the U.S. in order to promote his view that abortion should be illegal . 
+	fb:en.united_states_of_america government.governmental_jurisdiction u.s.
+	fb:en.medical_abortion medicine.medical_treatment abortion
+	fb:en.taite location.location taite
+----sentence result:My opinion is that our actions would be moral , and it would be immoral not to act if action would be both necessary and effective . 
+	fb:en.public_opinion organization.organization_sector opinion
+----sentence result:Note , my usage of my opinion is an admission that I do n't have a lock on morals , not that there is no truth about morality to have a lock on . 
+	fb:en.public_opinion organization.organization_sector opinion
+doc:83792 ||| talk.religion.misc
+----sentence result:In Bruce Salem In article Mike Theory of Creationism : MY theistic view of the theory of creationism , there are many others is stated in Genesis 1 . 
+	fb:en.salem_massachusetts location.statistical_region bruce salem
+	fb:en.genesis_plus computer.software genesis
+	fb:en.mike_hungary location.location article mike
+----sentence result:In the beginning God created the heavens and the earth . 
+	fb:en.earth organization.organization_scope earth
+	fb:en.god religion.deity god
+----sentence result:Huh ? 
+	fb:en.huh_jung_moo sports.pro_athlete huh
+----sentence result:MAC 
+	fb:en.mac_os computer.operating_system mac
+doc:101603 ||| rec.autos
+----sentence result:Everything is that much simpler for me . 
+	fb:en.something_simpler organization.organization simpler
+----sentence result:I often hand my driver 's license over to my husband if we 're dressed up to go out somewhere , so I do n't have to be encumbered by a purse . 
+	fb:en.mit_license computer.software_license license
+doc:103094 ||| rec.autos
+----sentence result:Consumer Reports once wrote about the S-10 Blazer that it shook and rattled like a tired taxi cab . 
+	fb:m.09kdq6 computer.software blazer
+	fb:en.chevrolet_s-10 automotive.model s-10
+----sentence result:Arlen Martin AT Microelectronics att ! 
+	fb:en.microelectronics business.industry arlen martin at microelectronics
+doc:101614 ||| rec.autos
+----sentence result:I 'm thinking of buying a new Dodge Intrepid Has anyone had any experiences that they 'd like to share ? 
+	fb:en.dodge organization.organization dodge intrepid
+doc:103280 ||| rec.autos
+----sentence result:You do n't hear about them because the Mobile Air Conditioning Society MACS , that is , the people who stand to rake in that $ 300 to $ 1000 per retrofit per automobile , have mounted an organized campaign to squash those R12 substitutes out of existence if not ban them altogether on very shaky technical grounds , at best , on outright lies at worst . 
+	fb:en.human_rights_campaign organization.organization campaign
+	fb:m.01127 medicine.risk_factor mobile air conditioning society macs
+----sentence result:Now , I 'm not saying you 're wrong because I know that the R-12 substitutes exist , but this sounds a lot like the 200mpg carbs that the oil companies keep us all from getting . 
+	fb:en.dichlorodifluoromethane chemistry.chemical_compound r-12
+----sentence result:Its the future availability that is in doubt . 
+	fb:en.no_doubt business.employer doubt
+----sentence result:I do n't know of any 200mpg carb distributors : 
+	fb:m.0j_cc2w biology.gene carb
+doc:102829 ||| rec.autos
+----sentence result:Anyone have any opinions on fairly recent model Alfa Spiders 86 Reliablilty for what their class I 'm not talking Alfa vs . 
+	fb:en.alfa_romeo organization.organization alfa
+	fb:en.alfa organization.organization alfa spiders
+----sentence result:Toyota corrola which is more relaible As far as I can discern , in recent years , there are 3 levels with all basically the same mechanical aspects . 
+	fb:en.toyota_motor_corporation business.employer toyota
+doc:15224 ||| sci.crypt
+----sentence result:Besides being an infringement on our civil liberties not the subject in this post , the name Clipper Chip seems very confusable with the Clipper chip of Intergraph . 
+	fb:en.intergraph organization.organization intergraph
+	fb:en.clipper_programming_language computer.programming_language chip
+----sentence result:Originally designed by a team at Fairchild Semiconductor , Clipper was a 32-bit RISC microprocessor . 
+	fb:en.fairchild_semiconductor organization.organization fairchild semiconductor
+	fb:en.risc_os computer.operating_system risc
+	fb:en.clipper_programming_language computer.programming_language clipper
+----sentence result:It is still used in some workstations , notably those from Intergraph , the supplier of CAD tools . 
+	fb:en.computer-aided_design computer.software_genre cad
+	fb:en.intergraph computer.computer intergraph
+----sentence result:Intergraph acquired the Clipper product line when Fairchild was sold to National Semiconductor several years back . 
+	fb:en.national_semiconductor business.employer national semiconductor
+	fb:en.intergraph computer.computer intergraph
+	fb:en.clipper_programming_language computer.programming_language clipper
+----sentence result:When I first saw Clipper Chip in the announcement , I immediately thought the article was referring to the Clipper chip I know . 
+	fb:en.clipper_programming_language computer.programming_language chip
+----sentence result:This seems to be grounds for Intergraph to sue , but then I 'm not a lawyer . 
+	fb:en.intergraph organization.organization intergraph
+----sentence result:Tim May 
+	fb:en.tim_couch sports.pro_athlete tim
+doc:15796 ||| sci.crypt
+----sentence result:Some of the messages here seem to reflect the view that the government is listening in on everything and one will have to hide one 's clipper messages somehow if non-escrowed crypto goes away . 
+	fb:en.crypto_ag organization.organization crypto
+----sentence result:Say , if you do something heinous like attend a computer meeting at a mall , the Secret Service decides to go for a warrantless search , and acquires your name . 
+	fb:en.secret_intelligence_service business.employer secret service
+doc:15512 ||| sci.crypt
+----sentence result:Tells us who is going to be in the chip business if this thing goes through NSA , and those with something to hide from NSA . 
+	fb:en.national_security_agency business.employer nsa
+----sentence result:Even DES is starting to look good . 
+	fb:en.des_moines location.location des
+doc:15887 ||| sci.crypt
+----sentence result:Even the Department of Agriculture has successfully kept crop forecasts from leaking prematurely . 
+	fb:en.united_states_department_of_agriculture business.employer department of agriculture
+----sentence result:My choice for the escow house would be the Smithsonian , and someplace on the west coast . 
+	fb:en.smithsonian_institution organization.organization smithsonian
+	fb:m.04y799t government.political_district west coast
+	fb:en.house_new_mexico location.statistical_region escow house
+----sentence result:The keys could be kept under glass , with 24-hour C-SPAN coverage . 
+	fb:m.01t6b computer.programming_language c-span
+----sentence result:Or if you think the C-SPAN satellite has been compromised , take a tour of the Smithsonian yourself , and view the seal on your key . 
+	fb:en.smithsonian_institution organization.organization smithsonian
+	fb:m.01t6b computer.programming_language c-span
+doc:15509 ||| sci.crypt
+----sentence result:ATT 's last product in this area was priced over $ 1000 , as I suspect clipper phones will be ; came to the customer with the key automatically preregistered with government authorities . 
+	fb:en.at_t business.employer att
+	fb:en.local_authorities_of_kenya location.statistical_region authorities
+----sentence result:Yes , technology will eventually drive the cost down and thereby promote more widespread use but at present , the man on the street is not going to purchase a $ 1000 crypto telephone , especially when the guy on the other end probably does n't have one anyway . 
+	fb:en.telephone business.product_category crypto telephone
+----sentence result:The real question is what the gov will do in a year or two when air tight voice privacy on a phone line is as close as your nearest pc . 
+	fb:en.rab3d biology.protein gov
+----sentence result:That has got to a problematic scenario for them , even if the extent of usage never surpasses the underground stature of PGP . 
+	fb:en.pretty_good_privacy computer.software pgp
+doc:9499 ||| comp.os.ms-windows.misc
+----sentence result:We have heard many bad things about the ATI Ultra Plus card mainly having to do with its buggy Windows drivers . 
+	fb:en.microsoft_corporation computer.software_developer windows
+	fb:en.ati_technologies computer.software_developer ati
+----sentence result:I would like to replace by ATI Graphics Ultra with a true-colour accelerated card . 
+	fb:en.ati_technologies computer.software_developer ati
+----sentence result:I was about to buy the ATI Ultra Plus EISA but it has had so much bad press that I am reconsidering . 
+	fb:en.ati_technologies computer.software_developer ati
+----sentence result:I have the ATI GRAPHICS ULTRA PRO EISA version . 
+	fb:en.ati_technologies computer.software_developer ati
+----sentence result:Now the drivers that are available for the EISA version are the same ones as the ISA and Local Bus v1 .5 Build . 
+	fb:m.03nfmq business.industry isa
+	fb:en.bus automotive.automotive_class bus
+----sentence result:Some people complained about problems they had with the Build 59 drivers , fortunately I could n't duplicate them on my machine , but I did have one problem with Harvard Graphics that nobody else seemed to have . 
+	fb:en.harvard_graphics computer.software harvard graphics
+----sentence result:I would like an accelerated card a card that does 24bit true colour at 800x600 at least a card that does 1024x758 at 256 colours or more a card that has fast polygon fills a card that has fast bit blits a card that has a robust windows driver a card that has high speed non-interlaced refresh Any suggestions ? 
+	fb:en.microsoft_corporation computer.software_developer windows
+	fb:en.bit_international_college organization.organization bit
+----sentence result:I would n't recommed the ATI for 24bit colour at 800x600 , at this resolution the display will be interlaced . 
+	fb:en.ati_technologies organization.organization ati
+----sentence result:But at 16bit it is n't , I thought it was my monitor but it is n't , its the card that is the only time you will get interlaced . 
+	fb:en.ngo_monitor organization.organization monitor
+doc:10147 ||| comp.os.ms-windows.misc
+----sentence result:peace , Micke 
+	fb:en.peace religion.belief peace
+	fb:en.micke_naesby sports.pro_athlete micke
+doc:9564 ||| comp.os.ms-windows.misc
+----sentence result:Have you tried re-installing the software ? 
+	fb:en.computer_software business.consumer_product software
+----sentence result:so when is PRODIGY going to open the doors for inetgate to accept internet mail eh ? 
+	fb:en.internet_explorer computer.software internet
+doc:9771 ||| comp.os.ms-windows.misc
+----sentence result:I print my creations out on an HP4 Postcript , at 600 dpi resolution with the Resolution Enhancement Technology and . 
+	fb:en.bizarre_creations organization.organization creations
+----sentence result:Is it worth it to run ATM at all ? 
+	fb:en.automated_teller_machine business.product_category atm
+----sentence result:Especially with these better printer technologies . 
+	fb:en.printer_driver computer.software_genre printer
+----sentence result:and TT ? 
+	fb:en.audi_tt automotive.model tt
+----sentence result:ATM will do nothing for your TrueType fonts . 
+	fb:en.truetype computer.file_format truetype
+	fb:en.automated_teller_machine business.product_category atm
+----sentence result:If your TrueType fonts are sufficient for your needs , do n't run ATM . 
+	fb:en.truetype computer.file_format truetype
+	fb:en.automated_teller_machine business.product_category atm
+----sentence result:I have a lot of fonts that I can install either as Type-1 PostScript under ATM or as TrueType . 
+	fb:en.postscript computer.programming_language postscript
+	fb:en.truetype computer.file_format truetype
+	fb:en.automated_teller_machine business.product_category atm
+----sentence result:I have noticed that : TrueType font files are at least 1/3 larger than their Type-1 equivalents . 
+	fb:en.truetype computer.file_format truetype
+----sentence result:If you are using a disk compressor , though , be aware that TrueType fonts will compress , whereas Type-1 fonts will not they are encrypted . 
+	fb:en.truetype computer.file_format truetype
+----sentence result:With a 300 dpi laser printer , the artificial bold version of a TrueType font is indistingishable from the original , forcing me to install the actual bold and bold-italic , etc . 
+	fb:en.printer organization.role printer
+	fb:en.truetype computer.file_format truetype
+----sentence result:Type-1 PostScript fonts under ATM generate a visually distinct bold variant from the base font . 
+	fb:en.postscript computer.programming_language postscript
+	fb:en.automated_teller_machine business.product_category atm
+----sentence result:I realize that the artificial bold font that ATM generates is aesthetically inferior to the hand-generated bold TrueType variant , but it is sufficient for my needs , and not having to install bold variants saves me 50 on disk space uncompressed . 
+	fb:en.truetype computer.file_format truetype
+	fb:en.automated_teller_machine business.product_category atm
+doc:9689 ||| comp.os.ms-windows.misc
+----sentence result:Get Norton Desktop . 
+	fb:en.norton_desktop computer.software norton desktop
+doc:61315 ||| sci.space
+----sentence result:Another factor against bringing the HST back to Earth is risk of contamination . 
+	fb:en.hubble_space_telescope spaceflight.satellite hst
+	fb:en.earth astronomy.orbital_relationship earth
+doc:61366 ||| sci.space
+----sentence result:I remember seeing an old Nova or The Nature of Things where this idea was touched upon it might have been some other TV show . 
+	fb:en.television computer.software_genre tv
+	fb:en.nova_scotia location.location nova
+----sentence result:They showed a large glass full of this liquid , and put a white mouse rat ? 
+	fb:en.mouse computer.computer_peripheral_class mouse
+----sentence result:Since the liquid was not dense , the mouse would float , so it was held down by tongs clutching its tail . 
+	fb:en.mouse computer.computer_peripheral_class mouse
+----sentence result:The thing struggled quite a bit , but it was certainly held down long enough so that it was breathing the liquid . 
+	fb:en.bit_international_college organization.organization bit
+----sentence result:Isaac Kuo Twinkle , twinkle , little . 
+	fb:en.isaac religion.religious_leader isaac kuo twinkle
+doc:61177 ||| sci.space
+----sentence result:What evidence indicates that Gamma Ray bursters are very far away ? 
+	fb:en.compton_gamma_ray_observatory spaceflight.spacecraft gamma ray
+----sentence result:Given the enormous power , i was just wondering , what if they are quantum black holes or something like that fairly close by ? 
+	fb:en.dove_holes location.location holes
+----sentence result:my own pet theory is that it 's Flying saucers entering hyperspace : but the reason i am asking is that most everyone assumes that they are colliding nuetron stars or spinning black holes , i just wondered if any mechanism could exist and place them closer in . 
+	fb:en.dove_holes location.location holes
+doc:60210 ||| sci.space
+----sentence result:They could have beaten us if either : Their rocket had n't blown up on the pad thus setting them back , A Saturn went boom . 
+	fb:en.saturn astronomy.orbital_relationship saturn
+----sentence result:The Apollo fire was harsh , A Saturn explosion would have been hurtful but The Soviets winning would have been crushing . 
+	fb:en.saturn astronomy.orbital_relationship saturn
+	fb:en.apollo religion.deity apollo
+	fb:en.harsh_kaul military.military_person harsh
+----sentence result:That could have been the technological turning point for the US turning us from Today 's We can do anything , we 're the Super Power to a much more reserved attitude like the Soviet Program today . 
+	fb:en.united_states_of_america government.governmental_jurisdiction us
+	fb:en.soviet_space_program spaceflight.space_program soviet
+----sentence result:Kennedy was gone by , the war was still on is the east , I think the program would have stalled badly and the goal of the moon by 70 would have been dead with Nasa trying to figure were they went wrong . 
+	fb:en.nasa organization.organization nasa
+	fb:en.john_f_kennedy organization.organization_founder kennedy
+	fb:en.east_kilbride location.location east
+	fb:en.behaving_badly biology.organism badly
+		fb:en.nasa	fb:organization.organization.founders	fb:en.john_f_kennedy	level=1
+----sentence result:If they had beaten us , I speculate that the US would have gone head and done some landings , but we also would have been more determined to set up a base both in Earth Orbit and on the Moon . 
+	fb:en.earth astronomy.orbital_relationship earth
+	fb:en.moon_pennsylvania sports.sports_team_location moon
+----sentence result:Whether or not we would be on Mars by now would depend upon whether the Soviets tried to go . 
+	fb:en.mars astronomy.orbital_relationship mars
+----sentence result:Setting up a lunar base would have stretched the budgets of both nations and I think that the military value of a lunar base would outweigh the value of going to Mars at least in the short run . 
+	fb:en.mars astronomy.celestial_object mars
+	fb:m.0mzj_ organization.organization_sector military
+----sentence result:Thus we would have concentrated on the moon . 
+	fb:en.moon_pennsylvania location.location moon
+----sentence result:I speulate that : The Saturn program would have been pushed into the 70s with cost over runs that would just be too evil . 
+	fb:en.saturn astronomy.orbital_relationship saturn
+----sentence result:Nixon still wins . 
+	fb:en.richard_nixon government.political_appointer nixon
+----sentence result:The Shuttle was never proposed and Skylab never built . 
+	fb:en.saturn astronomy.orbital_relationship shuttle
+----sentence result:By 76 the goal of a US man on the moon is dead and the US space program drifts till the present day . 
+	fb:en.united_states_of_america government.governmental_jurisdiction us
+	fb:en.moon_pennsylvania location.location moon
+----sentence result:James T. Green : I believe that this nation should commit itself to achieving the goal , before this decade is out , of landing a man on the Moon and returning him safely to the Earth . 
+	fb:en.earth astronomy.orbital_relationship earth
+	fb:en.moon_pennsylvania sports.sports_team_location moon
+----sentence result:John F. Kennedy ; May 25 , 1961 
+	fb:en.john_f_kennedy government.political_appointer john f. kennedy
+doc:61365 ||| sci.space
+----sentence result:Much of Cook 's later exploration was privately funded , by Joseph Banks among others eg in Resolution the earlier Endeavour . 
+	fb:en.james_cook_university organization.organization cook
+	fb:en.joseph_banks organization.organization_founder joseph banks
+	fb:en.endeavour_saskatchewan location.location endeavour
+----sentence result:Colnett 's voyage to the Galapagos was substantially privately funded by the owners of British whaling vessels . 
+	fb:en.england government.governmental_jurisdiction british
+	fb:en.galapagos_islands protected_sites.listed_site galapagos
+	fb:en.james_colnett military.military_person colnett
+----sentence result:Chancellor and Willoughby were privately funded by London merchant companies in their voyages to Muscovy . 
+	fb:en.new_south_wales government.governmental_jurisdiction willoughby
+	fb:en.london organization.organization_scope london
+	fb:m.07xl34 organization.role chancellor
+----sentence result:Dan Newman Aeronautical Engineering University of Sydney Sydney NSW 2050 AUSTRALIA From : Daniel M. Newman Path : dan Newsgroups : sci.space Subject : Expires : References : Sender : Reply-To : Daniel M. Newman Followup-To : Distribution : world Organization : Aeronautical Engineering , Sydney University Keywords : 
+	fb:en.australia government.governmental_jurisdiction australia
+	fb:en.engineering business.industry aeronautical engineering
+	fb:en.sydney sports.sports_team_location sydney
+	fb:en.world_health_organization_who organization.organization world organization
+doc:39640 ||| comp.graphics
+----sentence result:I 'm looking for on parametric drafting . 
+	fb:en.parametric_technology_corporation organization.organization parametric
+----sentence result:Im not looking for commercial software rather info on implementation and theory of the subject . 
+	fb:en.computer_software business.industry software
+	fb:en.infectious_mononucleosis medicine.disease im
+----sentence result:Im planning to make a parametric generator for autocad and i would need some referance . 
+	fb:en.infectious_mononucleosis medicine.disease im
+	fb:en.parametric_technology_corporation organization.organization parametric
+----sentence result:Lasse 
+	fb:en.lasse_vibe sports.pro_athlete lasse
+doc:38908 ||| comp.graphics
+----sentence result:bin file from a unix machine which is supposed to be converted to a MAC format . 
+	fb:en.unix computer.operating_system unix
+	fb:en.mid-america_center location.location mac
+----sentence result:Does anyone know what I need to do to this file to get it into any Dos , Mac or Unix readable format . 
+	fb:en.unix computer.software unix
+	fb:en.ms_dos computer.software dos
+	fb:en.mid-america_center sports.sports_facility mac
+----sentence result:Someone mentioned fetch on the unix machine is this correct ? 
+	fb:en.unix computer.software unix
+----sentence result:This is almost certainly a MacBinary file which is an encoded version of a mac file so the Resource fork and Data fork get preserved . 
+	fb:en.debt_aids_trade_in_africa organization.organization data
+	fb:en.mid-america_center sports.sports_facility mac
+----sentence result:If this is a macbinary file , you may have downloaded it in Text mode and is probably corrupt if you did . 
+	fb:en.text_editor computer.software_genre text
+----sentence result:If you 're using FTP to transfer it at any point make sure you type binary first . 
+	fb:en.file_transfer_protocol computer.software_genre ftp
+----sentence result:If you can open the file with a text editor and find This file must be converted with Bin . 
+	fb:en.text_editor computer.software_genre text
+----sentence result:at the top , it is a BinHex file and can be decoded with BinHex 4.0 among other programs . 
+	fb:en.binhex computer.file_format binhex
+----sentence result:I opened the file with a text editor and it looks like : Vnetwork storyboardpictPICT8BIM E . 
+	fb:en.text_editor computer.software_genre text
+----sentence result:I have already tried BinHex which does not seem to work . 
+	fb:en.binhex computer.file_format binhex
+----sentence result:Niko Schuessler Project Vincent Systems Manager email : Iowa State University Computation Center voice : 515 Ames IA 50011 snail : 291 Durham 
+	fb:en.iowa_state_university organization.organization iowa state university computation center
+	fb:en.iowa government.political_district ia
+	fb:en.county_durham location.location durham
+		fb:en.iowa_state_university	fb:organization.organization.headquarters^fb:location.mailing_address.state_province_region	fb:en.iowa	level=1
+doc:39056 ||| comp.graphics
+----sentence result:Chad 
+	fb:en.chad organization.organization_scope chad
+doc:38566 ||| comp.graphics
+----sentence result:I thought that finally my 1-meg oak board would be able to show 680x1024 256 colors . 
+	fb:en.oak biology.organism_classification oak
+----sentence result:univesa a free driver available over the net that makes many boards vesa compatible . 
+	fb:en.national_school_board_association organization.organization boards
+----sentence result:Asking a lot of your hardware ? 
+	fb:en.computer_hardware business.industry hardware
+doc:39641 ||| comp.graphics
+----sentence result:I 'm looking for a 3D shark for use in a ray tracing rountine I 'm doing . 
+	fb:m.0by6g biology.organism_classification shark
+	fb:en.raymond_kurzweil organization.organization_founder ray
+----sentence result:I 'll be using Vivid or POV , but it can be in any format . 
+	fb:en.pov-ray computer.software pov
+----sentence result:Are there any FTP sites with 3D objects or does anyone have a good 3D shark ? 
+	fb:en.file_transfer_protocol computer.software_genre ftp
+	fb:m.0by6g biology.organism_classification shark
+----sentence result:Chad 
+	fb:en.chad organization.organization_scope chad
+doc:52762 ||| sci.electronics
+----sentence result:6 A 600 mA . 
+	fb:en.massachusetts government.governmental_jurisdiction ma
+doc:54196 ||| sci.electronics
+----sentence result:Hi folks , I borrowed a VHS tape from a friend and it has a warning in the begining sayi that attempts to copy the tape will result in destroying the copy and the original . 
+	fb:en.vhs business.consumer_product vhs
+----sentence result:There are 3 types of warnings on US tapes : A hologram is glued across the seam of the 2 halves of the tape . 
+	fb:en.jboss_seam computer.software seam
+	fb:en.tapes location.location tapes
+----sentence result:The message usually reads , If seal is broken , you must buy this tape The standard MacroVision warning , Copies of this tape will be unviewable your case Extended message for the Average Consumer tm which states that even attempting to copy the tape will destroy the original . 
+	fb:en.corporation business.company_type macrovision
+doc:54315 ||| sci.electronics
+doc:53769 ||| sci.electronics
+----sentence result:Situation : I have a phone jack mounted on a wall . 
+	fb:en.jack_magazine business.employer jack
+----sentence result:Al There is a number you can call which will return a synthesized voice telling you the number of the line . 
+	fb:en.alabama government.governmental_jurisdiction al
+doc:54269 ||| sci.electronics
+----sentence result:I recently took apart my color Sony TV to clean the volume pushbuttons and when I put the beast back together , the flyback whine got much louder . 
+	fb:en.television business.industry sony
+----sentence result:I have heard rumors of a spray that will fix the noise . 
+	fb:en.nasal_spray medicine.medical_treatment spray
+----sentence result:Is this a simple thing for a TV repairman to fix ? 
+	fb:en.television business.industry tv
+----sentence result:Thanks , Scott Ah-ha ! 
+	fb:en.montgomery location.statistical_region scott
+----sentence result:Which Sony do you have ? 
+	fb:en.television computer.software_genre sony
+----sentence result:I have a 27 SXR pre-XBR series , circa . 
+	fb:en.c1rca organization.organization circa
+----sentence result:I guess that there was enough of a potential in that assembly to leak , so I sprayed it with a dielectric insulation spray I think it was urethane or acyrilic . 
+	fb:en.nasal_spray medicine.medical_treatment spray
+----sentence result:If I leave the cover off , the TV will be quiet . 
+	fb:en.television business.industry tv
+----sentence result:If I put the cover back on , and let it heat up , it 'll start to whine kinda hard to solve with the cover on ! 
+	fb:en.geza_kinda business.sponsored_recipient kinda
+----sentence result:A friend of mine who used to fix TV 's says there might be a pin-hole leak somewhere on the flyback . 
+	fb:en.television organization.organization_sector tv
+doc:76199 ||| misc.forsale
+----sentence result:ITEM : Klipsch Forte 2 Speakers CONDITION : Mint AGE : 6 months old PRICE : $ 1000 pair retail : $ 1400 pair These speakers are in perfect condition and used only in audiophile system . 
+	fb:en.middle_aged_dog medicine.risk_factor age
+	fb:en.sterling_price government.politician price
+doc:76855 ||| misc.forsale
+----sentence result:I need 3 tickets to the cleveland showing of phantom of the opera . 
+	fb:en.cleveland_indians baseball.baseball_team cleveland
+doc:76186 ||| misc.forsale
+----sentence result:Hey , I have some Star Trek Christmas Ornaments for sale . 
+	fb:en.star_trek business.brand trek
+----sentence result:They are the the Hallmark Shuttle Craft Galileo . 
+	fb:en.hallmark_channel organization.organization hallmark
+	fb:en.craft_unionism organization.organization craft
+----sentence result:They went for $ 24.00 during christmas . 
+	fb:en.christmas_michigan location.location christmas
+doc:76918 ||| misc.forsale
+----sentence result:All are near mint to mint condition ! 
+	fb:en.linux_mint computer.software mint
+----sentence result:TITLE Alpha Flight 51 Jim Lee 's first work at Marvel 5.00 Aliens 1 1st app Aliens in comics , 1st prnt , May $ 20.00 KrisM . 
+	fb:en.marvel_comics organization.organization marvel
+	fb:en.jim_lee organization.organization_founder jim lee
+----sentence result:SOLD Amazing Spider-Man 136 Intro new Green Goblin $ 20.00 Amazing Spider-Man 238 1st appearance Hobgoblin $ 50.00 Archer and Armstrong 1 Frank Miller Smith Layton 7.50 Avengers 263 1st appearance X-factor 3.50 Bloodshot 1 Chromium cover , BWSmith Cover Poster CyberRad 1 Reintro CyberRad , Prestige silver edition $ 15.00 Daredevil 158 Frank Miller art begins $ 35.00 Dark Horse Presents 1 1st app Concrete , 1st printing 7.50 Detective 657 Azrael appears , Intro Cypher 5.00 Detective 658 Azrael appears 4.00 Harbinger 10 1st appearance H.A.R.D. Corps H.A.R.D. Corps 1 5.00 Incredible Hulk 324 1st app Grey Hulk since 1 7.00 Incredible Hulk 330 1st McFarlane issue $ 15.00 Incredible Hulk 331 Grey Hulk series begins $ 11.00 Incredible Hulk 367 1st Dale Keown art in Hulk $ 15.00 Incredible Hulk 377 1st all new hulk , 1st prnt , Keown $ 15.00 Marvel Comics Presents 1 Wolverine , Silver Surfer 7.50 Marvel Presents Charleston Chew giveaway , Sam Keith 5.00 Maxx Limited Ashcan 4000 copies exist , blue cover $ 30.00 Mr T. 1 Signed Advance copy , 10,000 exist $ 10.00 New Mutants 86 McFarlane cover , 1st app Cable cameo $ 10.00 New Mutants 100 1st app X-Force 5.00 New Mutants Annual 5 1st Liefeld art on New Mutants $ 10.00 Omega Men 3 1st appearance Lobo 7.50 Omega Men 10 1st full Lobo story 7.50 Power Man Iron Fist 78 3rd appearance Sabretooth $ 20.00 Power Man Iron Fist 84 4th appearance Sabretooth $ 15.00 Simpsons Comics and Stories 1 Polybagged special ed . 
+	fb:en.chromium chemistry.chemical_element chromium
+	fb:en.marvel_comics organization.organization marvel comics presents
+	fb:en.charleston location.location charleston chew
+	fb:en.neil_armstrong spaceflight.astronaut armstrong
+	fb:en.game_boy_advance computer.computer advance
+	fb:en.wolverine biology.organism_classification wolverine
+	fb:en.todd_mcfarlane organization.organization_founder mcfarlane
+	fb:en.archer_city location.statistical_region archer
+	fb:en.rebecca_lobo sports.pro_athlete lobo
+	fb:en.martin_kentucky location.statistical_region keown
+	fb:en.green_kansas location.statistical_region green goblin
+	fb:en.at_t_park business.sponsored_recipient t.
+	fb:en.los_angeles_avengers sports.sports_team avengers
+	fb:en.the_order_of_omega organization.organization omega
+	fb:en.balbo_sabretooth biology.organism_classification sabretooth
+	fb:en.frank_miller_1927 government.politician frank miller
+	fb:en.simpsons organization.organization simpsons
+	fb:en.annual_reviews organization.organization annual
+	fb:en.keith location.location sam keith
+	fb:en.1st_2nd_and_3rd_street_area_colonia location.location 1st liefeld
+----sentence result:7.50 Spectacular Spider-Man 147 1st app New Hobgoblin $ 12.50 Spider-Man Special UNICEF giveaway , vs Venom $ 10.00 Star Trek the Next Generation 1 Feb 1988 , DC mini 7.50 Star Trek the Next Generation 1 Oct 1989 , DC comics 7.50 Trianglehead 1 Special limited edition , autographed 5.00 Web of Spider-Man 29 Hobgoblin , Wolverine appear $ 10.00 Web of Spider-Man 30 Origin Rose , Hobgoblin appears 7.50 Wolverine 10 Before claws , 1st battle with Sabretooth $ 15.00 Wolverine 41 Sabretooth claims to be Wolverine 's dad 5.00 Wolverine 42 Sabretooth proven not to be his dad 3.50 Wolverine 43 Sabretooth Wolverine saga concludes 3.00 Wolverine 1 1982 mini-series , Miller art $ 20.00 Wonder Woman 267 Return of Animal Man $ 12.50 X-Force 1 Signed by Liefeld , Bagged , X-Force card $ 20.00 X-Force 1 Signed by Liefeld , Bagged , Shatterstar card $ 10.00 X-Force 1 Signed by Liefeld , Bagged , Deadpool card $ 10.00 X-Force 1 Signed by Liefeld , Bagged , Sunspot Gideon $ 10.00 All comics are in near mint to mint condition , are bagged in shiny polypropylene bags , and backed with white acid free boards . 
+	fb:en.united_nations_childrens_fund organization.organization unicef
+	fb:en.star_trek business.brand trek
+	fb:en.dc_comics business.employer dc
+	fb:en.linux_mint computer.software mint
+	fb:en.spider-man business.product_category spectacular spider-man
+	fb:en.wolverine biology.organism_classification wolverine
+	fb:en.rob_liefeld organization.organization_founder liefeld
+	fb:en.saga_prefecture location.location saga
+	fb:en.gideon_missouri location.statistical_region sunspot gideon
+	fb:en.balbo_sabretooth biology.organism_classification sabretooth
+	fb:en.frank_miller_1927 government.politician miller
+	fb:en.diabetes_mellitus_and_deafness medicine.disease dad
+doc:76474 ||| misc.forsale
+----sentence result:sale item : A brand new Stealth VRAM Hi-Color card w 1meg display price : $ 135 It comes with : install disk Turbo windows 3.x drivers w 24bit color Halo Desktop Imager 24bit for windows 3.x Advanced AutoCAD accelerator includes Big Picture a complete manual 
+	fb:en.windows_xp computer.operating_system windows
+	fb:en.autocad computer.software autocad
+	fb:en.picture_it computer.software picture
+	fb:en.x_windows computer.software windows 3.x
+doc:76199 ||| talk.politics.mideast
+----sentence result:I have no partisan interests I would just like to know what conversations between TerPetrosyan and Demirel sound like . 
+	fb:en.suleyman_demirel government.politician demirel
+----sentence result:You must be a new Armenian clown . 
+	fb:en.armenian_genocide military.military_conflict armenian
+----sentence result:No wonder you are in such a mess . 
+	fb:en.m_e_s_s computer.software mess
+----sentence result:That criminal idiot and its junk has already been trashed out by Mutlu , Cosar , Akgun , Uludamar , Akman , Oflazer and hundreds of people . 
+	fb:en.ayhan_akman sports.pro_athlete akman
+	fb:en.halil_mutlu sports.pro_athlete mutlu
+	fb:m.0kf6k2b sports.pro_athlete cosar
+----sentence result:Moreover , criminals are responsible for the massacre of the Turkish people that also prevent them from entering Turkiye and TRNC . 
+	fb:en.turkey organization.organization_scope turkiye
+	fb:en.cyprus organization.organization_scope trnc
+	fb:en.historical_society organization.organization_type turkish
+----sentence result:SDPA has yet to renounce its charter which specifically calls for the second genocide of the Turkish people . 
+	fb:en.historical_society organization.organization_type turkish
+	fb:m.0rpkb3k biology.gene sdpa
+----sentence result:From : Parlakbilek Ahmet Subject : YALANCI , LIAR : DAVIDIAN Keywords : Davidian , the biggest liar Message-ID : Following is the article that Davidian claims that Hasan Mutlu is a liar : From : David Davidian Message-ID : In article . 
+	fb:en.levon_davidian government.politician davidian
+----sentence result:edu Ahmet Parlakbilek asked a simple question : AP I am asking you to show me one example in which mutlu , coras or any other AP Turk was proven to lie.I can show tens of lies and fabrications of AP Davidian , like changing quote , even changing name of a book , Anna . 
+	fb:en.associated_press business.employer ap
+	fb:en.halil_mutlu sports.pro_athlete mutlu
+	fb:m.05p9qkq biology.organism_classification coras
+	fb:en.saint_anne_sandy_point_parish location.location anna
+	fb:en.ap religion.deity ap turk
+----sentence result:The obvious ridiculous Armenians murdered 3 million Moslems is the most outragious and unsubstantiated charge of all . 
+	fb:en.armenian_genocide military.military_conflict armenians
+----sentence result:start yalanci.txt some parts are deleted In article the usenet scribe for the Turkish Historical Society , continues to revise the history of the Armenian people . 
+	fb:en.historical_society organization.organization_type turkish historical society
+	fb:en.armenian_genocide military.military_conflict armenian
+----sentence result:Let 's witness the operational definition of a revisionist yalanci or liar , in Turkish : Yalanci According to Leo : 1 Yalanci Yalanci The situation is clear . 
+	fb:en.historical_society organization.organization_type turkish
+	fb:en.louisville_eccentric_observer business.employer leo
+----sentence result:On one side , we have peace-loving Turks Yalanci and on the other side , peace-loving Armenians , both sides minding Yalanci their own affairs . 
+	fb:en.political_affairs_magazine business.employer affairs
+	fb:en.armenian_genocide military.military_conflict armenians
+----sentence result:Indeed , Yalanci the war was actually being waged between the Committee of Yalanci Dashnaktsutiun and the Society of Ittihad and Terakki a cruel and Yalanci savage war in defense of party political interests . 
+	fb:en.society organization.organization_sector society of ittihad
+----sentence result:The Dashnaks Yalanci incited revolts which relied on Russian bayonets for their success . 
+	fb:en.russian_empire military.military_combatant russian
+	fb:en.federation government.form_of_government dashnaks
+----sentence result:Yalanci Yalanci 1 L. Kuper , Genocide : Its Political Use in the Twentieth Century , Yalanci New York 1981 , 157 . 
+	fb:en.20th_century_fox organization.organization twentieth century
+	fb:en.new_york_united_kingdom location.statistical_region yalanci new york
+----sentence result:The topic on this page concerns itself with submissions to the Sub Commission on Prevention of Discrimination of Minorities of the Commission on Human Rights of the United Nations with respect to the massacres in Cambodia . 
+	fb:en.cambodia government.governmental_jurisdiction cambodia
+----sentence result:There is no mention of Turks nor Armenians as claimed above . 
+	fb:en.armenian_genocide military.military_conflict armenians
+----sentence result:Vay Turk milletinin yuz karasi Mutlu vay ! 
+	fb:en.halil_mutlu sports.pro_athlete mutlu
+----sentence result:The depth of foolishness the Turkish Historical Society engages in , while covering up the Turkish genocide of the Armenians , is only surpassed by the ridiculous historical material publicly displayed ! 
+	fb:en.historical_society organization.organization_type turkish historical society
+	fb:en.armenian_genocide military.military_conflict armenians
+----sentence result:David Davidian The life of a people is a sea , and Receiving this message , I checked the reference , L.Kuper , Genocide . 
+	fb:en.david_kentucky location.location david davidian
+----sentence result:and what I have found was totally consistent with what Davidian said.The book was like voice of Armenian revolutionists and although I read the whole book , I could not find the original quota . 
+	fb:en.levon_davidian government.politician davidian
+	fb:en.armenian_genocide military.military_conflict armenian
+----sentence result:But there was one more thing to check : The original posting of Mutlu.I found the original article of Mutlu.It is as follows : According to Leo : 1 The situation is clear . 
+	fb:en.louisville_eccentric_observer business.employer leo
+----sentence result:On one side , we have peace-loving Turks and on the other side , peace-loving Armenians , both sides minding their own affairs . 
+	fb:en.political_affairs_magazine business.employer affairs
+	fb:en.armenian_genocide military.military_conflict armenians
+----sentence result:Indeed , the war was actually being waged between the Committee of Dashnaktsutiun and the Society of Ittihad and Terakki a cruel and savage war in defense of party political interests . 
+	fb:en.society organization.organization_sector society of ittihad
+----sentence result:The Dashnaks incited revolts which relied on Russian bayonets for their success . 
+	fb:en.russian_empire military.military_combatant russian
+	fb:en.federation government.form_of_government dashnaks
+----sentence result:1 B. A. Leo . 
+	fb:en.leo astronomy.constellation a. leo
+----sentence result:The Ideology of the Armenian Revolution in Turkey , vol II , 157 . 
+	fb:en.turkey government.governmental_jurisdiction turkey
+----sentence result:DAVIDIAN LIED AGAIN , AND THIS TIME HE CHANGED THE ORIGINAL POSTING OF MUTLU JUST TO ACCUSE HIM TO BE A LIAR . 
+	fb:en.time business.employer time
+	fb:en.levon_davidian government.politician davidian
+	fb:en.halil_mutlu sports.pro_athlete mutlu
+----sentence result:Davidian , thank you for writing the page number correctly . 
+	fb:en.levon_davidian government.politician davidian
+----sentence result:You are the biggest liar I have ever seen.This example showed me that tomorrow you can lie again , and you may try to make me a liar this time.So I decided not to read your articles and not to write answers to you.I also advise all the netters to do the same.We can not prevent your lies , but at least we may save time by not dealing with your lies . 
+	fb:en.time business.employer time
+----sentence result:Vay Turk milletinin yuz karasi Mutlu vay ! 
+	fb:en.halil_mutlu sports.pro_athlete mutlu
+----sentence result:I also return all the insults you wrote about Mutlu to you . 
+	fb:en.halil_mutlu sports.pro_athlete mutlu
+----sentence result:Source : Adventures in the Near East , by A. Rawlinson , Jonathan Cape , 30 Bedford Square , London , 1934 First published 287 pages . 
+	fb:en.london organization.organization_scope london
+	fb:en.square medicine.drug_form_shape bedford square
+	fb:en.mesopotamia location.location near east
+	fb:en.lightning_source business.business_operation source
+	fb:en.jonathan_cape organization.organization jonathan cape
+	fb:en.a_r_rawlinson military.military_person a. rawlinson
+----sentence result:DD Such a pile of garbage ! 
+	fb:en.dd computer.software dd
+----sentence result:First off , the above reference was first published DD in 1924 NOT 1923 , and has 353 pages NOT 287 ! 
+	fb:en.dd computer.software dd
+----sentence result:Second , upon checking page DD 178 , we are asked to believe : VD No , Mr.Davidian . 
+	fb:en.sexually_transmitted_disease medicine.risk_factor vd
+	fb:en.dd computer.software dd
+----sentence result:VD It was first published IN 1923 I have the book on my desk , now ! 
+	fb:en.sexually_transmitted_disease medicine.disease vd
+	fb:en.help_desk business.product_line desk
+----sentence result:VD VD and furthermore , the book I have does not have 353 pages either , as you VD claimed , Mr.Davidian . 
+	fb:en.sexually_transmitted_disease medicine.disease vd
+----sentence result:As I said in my previous posting , those quotes exactly exist in the source given by Serdar Argic . 
+	fb:en.lightning_source business.business_operation source
+	fb:en.kyzyl-arvat location.location serdar argic
+----sentence result:in the given quotes by Serdar Argic , and your denial of these quotes . 
+	fb:en.kyzyl-arvat location.location serdar argic
+----sentence result:DD I can provide . 
+	fb:en.dd computer.software dd
+----sentence result:VD what is new ? 
+	fb:en.sexually_transmitted_disease medicine.risk_factor vd
+----sentence result:gif file , but I am not going go through the effort to show there is some Turkish modified re-publication of the book , like last time ! 
+	fb:en.time business.employer time
+	fb:en.historical_society organization.organization_type turkish
+----sentence result:I claim I have a book in my hand published in 1923 first publication and it exactly has the same quoted info as the book published in 1934 Serdar Argic 's Reference has . 
+	fb:en.kyzyl-arvat location.location serdar argic
+----sentence result:You called Serdar Argic a liar ! 
+	fb:en.kyzyl-arvat location.location serdar argic
+----sentence result:Serdar Argic 's was in 1934 . 
+	fb:en.kyzyl-arvat location.location serdar argic
+----sentence result:No need to use the same book size and the same letter charachter in both publications , etc , etc . 
+	fb:en.advance_publications organization.organization publications
+----sentence result:the point is that both books have the exactly the same quotes about how moslems are killed , tortured , etc by Armenians . 
+	fb:en.armenian_genocide military.military_conflict armenians
+----sentence result:and those quotes given by Serdar Argic exist ! 
+	fb:en.kyzyl-arvat location.location serdar argic
+----sentence result:You name all these tortures and murders by Armenians as a crap . 
+	fb:en.armenian_genocide military.military_conflict armenians
+----sentence result:Well , apparently we have another son of Dro the Butcher to contend with . 
+	fb:en.terry_butcher sports.pro_athlete butcher
+----sentence result:You should indeed be happy to know that you rekindled a huge discussion on distortions propagated by several of your contemporaries . 
+	fb:en.big_huge_games organization.organization huge
+----sentence result:If you feel that you can simply act as an Armenian governmental crony in this forum you will be sadly mistaken and duly embarrassed . 
+	fb:en.armenian_genocide military.military_conflict armenian
+----sentence result:I will dissect article-by-article , paragraph-by-paragraph , line-by-line , lie-by-lie , revision-by-revision , written by those on this net , who plan to prove that the Armenian genocide of 2.5 million Turks and Kurds is nothing less than a classic un-redressed genocide . 
+	fb:en.armenian_genocide military.military_conflict armenian
+----sentence result:We are neither in x-Soviet Union , nor in some similar ultra-nationalist fascist dictatorship , that employs the dictates of Hitler to quell domestic unrest . 
+	fb:en.adolf_hitler government.politician hitler
+----sentence result:Also , feel free to distribute all responses to your nearest terrorists , the Armenian pseudo-scholars , or to those affiliated with the Armenian criminal organizations . 
+	fb:en.armenian_genocide military.military_conflict armenian
+----sentence result:Armenian government got away with the genocide of 2.5 million Turkish men , women and children and is enjoying the fruits of that genocide . 
+	fb:en.historical_society organization.organization_type turkish
+	fb:en.fruits_magazine business.employer fruits
+	fb:en.armenian_genocide military.military_conflict armenian
+----sentence result:Serdar Argic We closed the roads and mountain passes that might serve as ways of escape for the Turks and then proceeded in the work of extermination . 
+	fb:en.kyzyl-arvat location.location serdar argic
+----sentence result:Ohanus Appressian In Soviet Armenia today there no longer exists a single Turkish soul . 
+	fb:en.armenia organization.organization_scope armenia
+	fb:en.historical_society organization.organization_type turkish
+doc:76186 ||| talk.politics.mideast
+----sentence result:Source : Men Are Like That by Leonard Ramsden Hartill . 
+	fb:en.lightning_source business.employer source
+----sentence result:The Bobbs-Merrill Company , Indianapolis 1926 . 
+	fb:en.indianapolis_colts sports.sports_team indianapolis
+	fb:en.bobbs-merrill_company organization.organization bobbs-merrill company
+----sentence result:Memoirs of an Armenian officer who participated in the genocide of 2.5 million Muslim people 133 first paragraph In this movement we took with us three thousand Turkish soldiers who had been captured by the Russians and left on our hands when the Russians abandoned the struggle . 
+	fb:en.soviet_union military.military_combatant russians
+	fb:en.armenia organization.organization_scope armenian
+	fb:en.muslim religion.religion muslim
+	fb:en.in_struggle organization.organization struggle
+----sentence result:During our retreat to Karaklis two thousand of these poor devils were cruelly put to death . 
+	fb:en.vanadzor location.location karaklis
+----sentence result:The method employed was to put a quantity of straw into a hut , and then after crowding the hut with Turks , set fire to the straw . 
+	fb:en.jack_straw government.politician straw
+----sentence result:Serdar Argic We closed the roads and mountain passes that might serve as ways of escape for the Turks and then proceeded in the work of extermination . 
+	fb:en.kyzyl-arvat location.location serdar argic
+----sentence result:Ohanus Appressian In Soviet Armenia today there no longer exists a single Turkish soul . 
+	fb:en.armenia organization.organization_scope armenia
+doc:76474 ||| talk.politics.mideast
+----sentence result:The UN has tried many times to condemn Israel for its gross violation of human rights . 
+	fb:en.israel organization.organization_member israel
+	fb:en.united_nations organization.membership_organization un
+		fb:en.united_nations	fb:organization.membership_organization.members^fb:organization.organization_membership.member	fb:en.israel	level=1
+----sentence result:The UN has also failed to condemn gross violations of human rights in many other places around the globe and in the middle east , thus leading many people to conclude that the UN is biased in whom in chooses to condemn . 
+	fb:en.united_nations_security_council organization.organization un
+	fb:en.middle_east organization.organization_scope middle east
+	fb:en.globe business.consumer_product globe
+----sentence result:A short , incomplete list of things the UN did n't even consider condemning : Incident Security Council Response 1 . 
+	fb:en.united_nations organization.organization un
+----sentence result:Hindu-Moslem clash in INdia , over 2,000 killed , 1990 NONE 2 . 
+	fb:m.020n26 organization.organization india
+	fb:en.hindu religion.adherents hindu-moslem
+----sentence result:Gassing to death of over 8,000 Kurds by NONE Iraqi Air Force , 3 . 
+	fb:en.air_force organization.organization_type none iraqi air force
+----sentence result:Saudi security forces slaughter NONE 400 pilgrims in Mecca , 1987 4 . 
+	fb:en.saudi_arabia military.military_combatant saudi
+	fb:en.mecca religion.place_of_worship mecca
+----sentence result:Killing by Algerian army of 500 demonstrators , 1988 NONE 5 . 
+	fb:en.algeria organization.organization_member algerian
+----sentence result:Intrafada Arabs killing Arabs over 300 killed NONE 6 . 
+	fb:en.arab_league organization.organization arabs
+----sentence result:30,000 civilians slaughtered by government NONE troops in Hama , Syria , 1982 7 . 
+	fb:en.syria military.military_combatant syria
+	fb:en.hama location.location hama
+----sentence result:Killing of 5,000 Palestinians by Jordanian troops , NONE thousands expelled , Sept. , 1970 8 . 
+	fb:en.jordan government.governmental_jurisdiction jordanian
+	fb:m.0jt7v76 military.military_combatant palestinians
+	fb:en.sept_iles location.location sept.
+----sentence result:87 Moslems killed in Egypt , 1981 NONE 9 . 
+	fb:en.egypt government.governmental_jurisdiction egypt
+----sentence result:30 border and rocket attacks against Israel by NONE the PLO in 1989 alone 11 . 
+	fb:en.israel military.military_combatant israel
+	fb:en.palestine_liberation_organization military.military_combatant plo
+----sentence result:Munich , 1972 : 11 Israeli athletes slaughtered NONE 12 . 
+	fb:en.israel organization.organization_scope israeli
+	fb:en.munich location.location munich
+----sentence result:Ma'alot , 1974 : children killed in PLO attack NONE 13 . 
+	fb:en.palestine_liberation_organization military.military_combatant plo
+	fb:en.maalot_tarshiha location.location ma'alot
+----sentence result:Israel Coastal bus attack : 34 dead , 82 wounded NONE 14 . 
+	fb:en.bus business.product_category bus
+----sentence result:Syria kills 23,000 Palestinians , 1976 NONE 15 . 
+	fb:en.syria organization.organization_member syria
+	fb:m.0jt7v76 military.military_combatant palestinians
+----sentence result:Lebanon : over 150,000 dead since 1975 NONE 16 . 
+	fb:en.lebanon organization.organization_scope lebanon
+----sentence result:Yemen : 13,000 killed in two weeks , 1986 NONE 17 . 
+	fb:en.yemen organization.organization_member yemen
+----sentence result:Sudan : Tens of thousands of Black slaves , NONE Civil War toll , 1 million killed , 3 million refugees 18 . 
+	fb:en.sudan military.military_combatant sudan
+----sentence result:Tienenman Square massacre 1989 NONE 19 . 
+	fb:en.square medicine.drug_form_shape tienenman square
+----sentence result:Rumania , 3,000 killed , 1989 NONE 20 . 
+	fb:en.world_war_i military.military_conflict rumania
+----sentence result:Pan Am 103 disaster carried out by the P.L.O NONE 21 . 
+	fb:en.partido_accion_nacional government.political_party pan
+----sentence result:Northern Ireland NONE 22 . 
+	fb:en.northern_ireland location.location northern ireland
+----sentence result:Cambodia NONE 23 . 
+	fb:en.cambodia organization.organization_scope cambodia
+----sentence result:Soviet Occupation of Afghanistan NONE 24 . 
+	fb:en.soviet_union military.military_combatant soviet
+	fb:en.afghanistan military.military_combatant afghanistan
+	fb:en.occupied_japan military.military_post occupation
+----sentence result:American riots at Attica , Watts , Newark , Kent State NONE 25 . 
+	fb:en.new_jersey government.governmental_jurisdiction newark
+	fb:en.americas location.location american
+	fb:en.kent_state_university business.employer kent state
+	fb:en.attica location.location attica
+	fb:en.watts location.statistical_region watts
+----sentence result:1981 : Israel destroys Iraqi reractor , Israel CONDEMNED 26 . 
+	fb:en.israel military.military_combatant israel
+	fb:en.iraq military.military_combatant iraqi
+----sentence result:1990 : Israeli police protect Israeli worshipers CONDEMNED against Arab mob , 18 anti-Jewish rioters killed 27 . 
+	fb:en.israel military.military_combatant israeli
+	fb:en.arab_league organization.membership_organization arab
+----sentence result:Syrian soldiers slaughter Christian soldiers NONE after they surrender , 1990 Wow , if you were the only source of news around the world it would seem that Israel is being treated unfairly . 
+	fb:en.israel military.military_combatant israel
+	fb:en.syria military.military_combatant syrian
+	fb:en.arab_alabama location.statistical_region christian
+----sentence result:Would you care to demonstrate how the above list , or any expanded version of it you chose to post , demonstrates fairness in the actions of the UN wrt Israel ? 
+	fb:en.israel organization.organization_member israel
+	fb:en.united_nations organization.membership_organization un
+		fb:en.united_nations	fb:organization.membership_organization.members^fb:organization.organization_membership.member	fb:en.israel	level=1
+----sentence result:I suggest reading european papers rather than Israeli propaganda Arab papers would n't hurt either to see the propaganda of the other side . 
+	fb:en.israel military.military_combatant israeli
+	fb:en.european_union organization.organization european
+	fb:en.arab_league organization.organization arab
+----sentence result:You make the odd assumption that I read Israeli papers , not European ones . 
+	fb:en.israel government.governmental_jurisdiction israeli
+	fb:en.european_union organization.organization european
+----sentence result:My main source of news is the Economist , a London based magazine . 
+	fb:en.london organization.organization_scope london
+	fb:en.the_economist business.brand economist
+----sentence result:Also , I do on rare occaisons , read Arab papers , but its hard to find English language papers from Arab countries here . 
+	fb:m.04gb7 organization.organization_sector english
+	fb:en.arab_league organization.membership_organization arab
+----sentence result:I pointed out , with a 27 item list , that Israel is condemned for actions that other nations are not condemned for . 
+	fb:en.israel organization.organization_scope israel
+----sentence result:You go off and attack me for reading only Israeli newspapers . 
+	fb:en.israel organization.organization_scope israeli
+doc:77396 ||| talk.politics.mideast
+----sentence result:I find it interesting that Mr. Major finds the genocide of two million Muslims in Bosnia acceptable . 
+	fb:en.john_major government.politician major
+	fb:en.bosnian_war military.military_conflict bosnia
+----sentence result:What if we remove one zeron and make it the genocide of two hundred thousands Muslims in Bosnia . 
+	fb:en.bosnian_war military.military_conflict bosnia
+----sentence result:The us delegation which visited them reported yesterday on CNN that the serbs are giving the muslims detainees 4 biscuits and a cup of water a day . 
+	fb:en.cnn business.employer cnn
+----sentence result:Nick 
+	fb:en.nick_griffin government.politician nick
+doc:75404 ||| talk.politics.mideast
+----sentence result:In article 1 why do jews who do n't even believe in God as is the case with many of the founders of secular zionism have a right in Palestine more than the inhabitants of Palestine , just because God gave you the land ? 
+	fb:en.ashkenazi_jews medicine.risk_factor jews
+	fb:en.god religion.deity god
+	fb:m.0jt7v76 military.military_combatant palestine
+	fb:en.oddworld_inhabitants organization.organization inhabitants
+----sentence result:G-d has nothing to do with it . 
+	fb:en.g_d_searle_company business.employer g-d
+----sentence result:Some of the land was in fact given to the Jews by the United Nations , quite a bit of it was purchased from Arab absentee landlords . 
+	fb:en.united_nations organization.organization united nations
+	fb:en.ashkenazi_jews medicine.risk_factor jews
+	fb:en.bit_international_college organization.organization bit
+----sentence result:Present claims are based on prior ownership purchase from aforementioned absentee landlords award by the United Nations in the partition of the Palestine mandate territory , and as the result of defensive wars fought against the Egyptians , Syrians , Jordanians , et al . 
+	fb:en.egypt government.governmental_jurisdiction egyptians
+	fb:en.united_nations organization.membership_organization united nations
+	fb:en.syria military.military_combatant syrians
+	fb:en.defensive_end sports.sports_position defensive
+	fb:en.ownership business.job_title ownership
+	fb:m.0jt7v76 military.military_combatant palestine
+----sentence result:2 Why do most of them speak of the west bank as theirs while most of the inhabitants are not Jews and do not want to be part of Israel ? 
+	fb:en.israel military.military_combatant israel
+	fb:en.ashkenazi_jews medicine.risk_factor jews
+	fb:en.west_bank location.location west bank
+	fb:en.oddworld_inhabitants organization.organization inhabitants
+----sentence result:First , I should point out that many Jews do not in fact agree with the idea that the West Bank is theirs . 
+	fb:en.west_bank location.location west bank
+	fb:en.ashkenazi_jews medicine.risk_factor jews
+----sentence result:Since , however , I agree with those who claim the West Bank , I think I can answer your question thusly : the West bank was what is called the spoils of war . 
+	fb:en.west_bank location.location west bank
+----sentence result:Hussein ordered the Arab Legion This is very funny . 
+	fb:en.saddam_hussein government.politician hussein
+----sentence result:Anyway , suppose that in fact israel didnot ATTACK jordan till jordan attacked israel . 
+	fb:en.israel military.military_combatant israel
+	fb:en.jordan government.governmental_jurisdiction jordan
+----sentence result:Now , how do you explain the attack on Syria in 1967 , Syria didnot enter the war with israel till the 4th day . 
+	fb:en.israel military.military_combatant israel
+	fb:en.syria military.military_combatant syria
+----sentence result:Syria had been bombing Israeli settlements from the Golan and sending terrorist squads into Israel for years . 
+	fb:en.israel organization.organization_scope israeli
+	fb:en.syria military.military_combatant syria
+	fb:en.golan_heights government.governmental_jurisdiction golan
+----sentence result:Why do n't you give it up , Hasan ? 
+	fb:en.ali religion.religious_leader hasan
+----sentence result:Take an example from someone like Brendan McKay , with whom I do n't agree , but who uses logic and documentation to argue his position . 
+	fb:en.brendan_mckay computer.computer_scientist brendan mckay

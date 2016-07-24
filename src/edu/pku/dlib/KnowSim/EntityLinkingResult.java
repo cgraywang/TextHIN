@@ -1,20 +1,17 @@
-package edu.stanford.nlp.sempre;
+package edu.pku.dlib.KnowSim;
 
 import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
 import java.util.Map;
-import java.util.Set;
-
-import com.google.common.collect.Lists;
 
 import edu.stanford.nlp.io.IOUtils;
-import edu.stanford.nlp.sempre.Master.Options;
 import edu.stanford.nlp.sempre.freebase.lexicons.TokenLevelMatchFeatures;
 import fig.basic.LogInfo;
 import fig.basic.Option;
 
+
 /**
+ * class for keeping AIDA's entity Linking result,
+ * also do disambiguation for entities' names.
  * @author Haoran Li
  */
 

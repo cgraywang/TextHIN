@@ -1,4 +1,4 @@
-package edu.stanford.nlp.sempre;
+package edu.pku.dlib.KnowSim;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -7,10 +7,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-import edu.stanford.nlp.sempre.cache.PopularityCache;
-import edu.stanford.nlp.sempre.cache.PopularityCache.Options;
-import edu.stanford.nlp.sempre.freebase.EntityLexicon;
-import edu.stanford.nlp.sempre.freebase.lexicons.LexicalEntry;
+
 import fig.basic.Option;
 
 /**
@@ -23,8 +20,6 @@ public class EntityParsingResult {
     	// for 20NG and GCAT
     	@Option(gloss = "whether to adjust location score")
     	boolean localtionAdjust = true;
-    	@Option(gloss = "wheher to adjust commmon.topic score")
-    	boolean commonTopicAdjust = false;
     	// for 20NG
     	@Option(gloss = "whether to adjust computer score")
     	boolean computerAdjust = true;
@@ -32,8 +27,7 @@ public class EntityParsingResult {
     	boolean locationRelationAdjust = true;
     	// for GCAT
     	@Option(gloss = "whether to adjust sports.location score")
-    	boolean sportsLocationAdjust = false;
-    	
+    	boolean sportsLocationAdjust = false;	
 	}
 	public static Options opts = new Options();
 	public int st;
@@ -101,9 +95,6 @@ public class EntityParsingResult {
 				if (lowerSportsDomain.contains(domain)&& (type.contains("country") || type.contains("location")))
 					popScore = 0.01;
 			}
-			if (opts.commonTopicAdjust && this.type.equals("common.topic")) {
-				popScore = 0;
-			}
 			adjusted = true;
 		}
 		score = popScore + alignmentScore + typeRelation * 1.5 + Double.min(2.0, hideRelation);
@@ -163,10 +154,6 @@ public class EntityParsingResult {
 	    		return -1;
 	    	if (arg0.weakRelation < arg1.weakRelation)
 	    		return 1;
-//	    	if (arg0.hideRelation > arg1.hideRelation)
-//	    		return -1;
-//	    	if (arg0.hideRelation < arg1.hideRelation)
-//	    		return 1;
 	    	if (arg0.typeRelation > arg1.typeRelation)
 	    		return -1;
 	    	if (arg0.typeRelation < arg1.typeRelation)
@@ -176,20 +163,6 @@ public class EntityParsingResult {
 	    	if (arg0.score < arg1.score)
 	    		return 1;
 	    	return 0;
-//	    	if (arg0.popScore > arg1.popScore)
-//	    		return -1;
-//	    	if (arg0.popScore < arg1.popScore)
-//	    		return 1;
-//	    	if (arg0.alignmentScore > arg1.alignmentScore)
-//	    		return -1;
-//	    	if (arg0.alignmentScore < arg1.alignmentScore)
-//	    		return 1;
-//	    	return 0;
 	    }
-	  }
-
-
-	
-	
-	
+	  }	
 }

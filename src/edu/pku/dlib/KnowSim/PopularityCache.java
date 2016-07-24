@@ -1,4 +1,4 @@
-package edu.stanford.nlp.sempre.cache;
+package edu.pku.dlib.KnowSim;
 
 import java.io.IOException;
 import java.io.StringReader;
@@ -11,19 +11,17 @@ import javax.xml.parsers.ParserConfigurationException;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
-import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
 
-import edu.stanford.nlp.sempre.freebase.EntityLexicon;
 import edu.stanford.nlp.sempre.freebase.FreebaseInfo;
 import edu.stanford.nlp.sempre.freebase.SparqlExecutor;
-import edu.stanford.nlp.sempre.freebase.FreebaseInfo.Options;
 import fig.basic.IOUtils;
 import fig.basic.Option;
 
 /**
+ * store type popularity of entities
  * @author Haoran Li
  */
 
@@ -38,20 +36,16 @@ public class PopularityCache {
 	
     public static class Options {
 	    @Option(gloss = "which corpus to process")
-	    public String corpus = "GCAT";
-//	    public String corpus = "20NG";
+//	    public String corpus = "GCAT";
+	    public String corpus = "20NG";
 	    
-	    @Option(gloss = "sports domain to adjust")
+	    @Option(gloss = "sports domains to adjust")
 	    public String[] sportsDomains = {"baseball", "ice_hockey"};
 	    @Option(gloss = "GCAT sports domain to ajust")
 	    public String[] GCATSportsDomains = {"skiing","cricket","basketball","baseball","ice_hockey","olympics","soccer","american_football","boxing","tennis"};
     }
 
 
-
-
-
-	
 	public static Options opts = new Options();
 	
 	public void adjustPopularity(Map<String, Integer> map) {

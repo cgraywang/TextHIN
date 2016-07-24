@@ -1,13 +1,12 @@
-package edu.stanford.nlp.sempre;
+package edu.pku.dlib.KnowSim;
 
-import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
-import java.util.Set;
 
 import com.google.common.base.Joiner;
 
 /**
+ * class for keeping basic entities' info 
  * @author Haoran Li
  */
 

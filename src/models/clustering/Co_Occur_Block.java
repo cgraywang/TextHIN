@@ -15,6 +15,7 @@ import models.datastructure.ColtSparseVector;
 import cern.colt.matrix.DoubleMatrix1D;
 
 /**
+ * store the co-occur nodes of a docuemnt.
  * @author Haoran Li
  */
 
@@ -33,13 +34,8 @@ class Entity implements Serializable
 
 public class Co_Occur_Block implements Serializable
 {
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = -2579799138682841222L;
-	/**
-	 * 
-	 */
+
 
 //	private static final long serialVersionUID = 1L;
 	public List<Entity> entities;

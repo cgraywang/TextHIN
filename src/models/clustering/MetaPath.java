@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 /**
+ * class for the metapath
  * @author Haoran Li
  */
 

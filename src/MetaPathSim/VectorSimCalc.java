@@ -17,6 +17,7 @@ import cern.colt.matrix.DoubleMatrix1D;
 import cern.colt.matrix.impl.SparseDoubleMatrix1D;
 
 /**
+ * feature based similarity computation
  * @author Haoran Li
  */
 

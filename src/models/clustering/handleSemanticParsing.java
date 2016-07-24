@@ -23,6 +23,7 @@ import java.util.regex.Pattern;
 import cern.colt.matrix.DoubleMatrix1D;
 
 /**
+ * process the semantic parsing result
  * @author Haoran Li
  */
 

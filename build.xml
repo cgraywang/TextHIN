@@ -10,7 +10,6 @@
   <property name="libfig" location="fig"/>
   <property name="libknowsim" location="libknowsim"/>
   <path id="lib.path">
-    <fileset dir="${libfig}" includes="*.jar"/>
     <fileset dir="${lib}" includes="*.jar"/>
   </path>
 
@@ -30,12 +29,9 @@
   <target name="compile" depends="init">
     <echo message="Compiling ${ant.project.name}"/>
     <javac srcdir="${src}" destdir="${classes}" classpathref="lib.path" debug="true" includeantruntime="false" source="${source}" target="${target}">
-      <include name="edu/stanford/nlp/sempre/*.java"/>
-      <include name="edu/stanford/nlp/sempre/freebase/*.java"/>
-      <include name="models/clustering/handleSemanticParsing.java"/>
-      <include name="MetaPathSim/MetaPathSim.java"/>
+      
     </javac>
-    <jar destfile="${libknowsim}/knowsim.jar" basedir="${classes}" includes="**">
+    <jar destfile="${libknowsim}/knowsim.jar" basedir="${classes}">
       <manifest>
         <attribute name="Class-Path" value="${jar.classpath}"/>
       </manifest>

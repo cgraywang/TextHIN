@@ -7,6 +7,12 @@ import java.util.Map;
 import java.util.Queue;
 import java.util.Set;
 
+/**
+ * class for running Personal PageRank Nibble
+ * ps: multi start_vertexes version
+ * @author Haoran Li
+ */
+
 
 
 

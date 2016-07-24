@@ -25,6 +25,7 @@ import models.clustering.MetaPath;
 import models.clustering.ObjectWriter;
 
 /**
+ * calc the similarity of documents  according to metapath instances between docs.
  * @author Haoran Li
  */
 

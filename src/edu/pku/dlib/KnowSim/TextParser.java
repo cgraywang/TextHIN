@@ -549,8 +549,8 @@ public class TextParser {
 		List<List<EntityParsingResult>> res = new ArrayList<>();
 		Map<String, String> entity_map = this.linking_result
 				.getEntityMap(docid);
-		List<String> sentences = sentenceSplitter(text);
-//		List<String> sentences = tokenLimitedSentenceSplitter(text);
+		// List<String> sentences = sentenceSplitter(text);
+		List<String> sentences = tokenLimitedSentenceSplitter(text);
 		PopularityCache popCache = new PopularityCache();
 		RelationCache relationCache = new RelationCache(this.builder.executor);
 		for (String sentence : sentences) {

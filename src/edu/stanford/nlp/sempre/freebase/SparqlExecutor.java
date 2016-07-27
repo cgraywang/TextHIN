@@ -49,7 +49,7 @@ public class SparqlExecutor extends Executor {
     public String cachePath;
 
     @Option(gloss = "URL where the SPARQL server lives")
-    public String endpointUrl = "http://162.105.146.246:3093/sparql" ;
+    public String endpointUrl;
 
     @Option(gloss = "Whether to return a table of results rather than a list of entities (needed to support 'capital of each state')")
     public boolean returnTable = false;

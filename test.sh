@@ -1,4 +1,4 @@
-doc="test/testdoc.txt"
+doc="test/testdocs.txt"
 doc_label="test/testdoc.label.txt"
 token="test/test.token.txt"
 sp="test/testdoc.sp.txt"

@@ -10,10 +10,8 @@ sim_mode="2"
 metapth="test/selected_metapath.txt"
 sim_outfile="${out_dir}/sim.txt"
 
-
 jvm_args="-ea "\
 "-Dmodules=parser,core,freebase"
-
 
 args="-Grammar.inPaths lib/models/15.exec/grammar "\
 "-FeatureExtractor.featureDomains entityAlignmentFeature "\
@@ -22,7 +20,7 @@ args="-Grammar.inPaths lib/models/15.exec/grammar "\
 "-EntityLinkingResultPath test/testdoc.linking.txt "
 io_args="-inFile $doc "\
 "-outFile $sp "\
-"-tokenOutFile $token "\
+"-tokenOutFile $token "
 if [ $1 == "parse" ]; then
 	class="edu.pku.dlib.KnowSim.Main"
 	java -cp libknowsim/knowsim.jar $jvm_args $class $args $io_args

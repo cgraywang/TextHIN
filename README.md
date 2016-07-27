@@ -46,7 +46,10 @@ We provide a small dataset at `test` directory to help you get through the workf
 At Text Sematic Parsing step, KnowSim analyzes documents and parses entities and relations on documents.
 To anaylyze documents:
 
-        java -cp libknowsim/knowsim.jar -ea -Dmodules=parser,core,freebase edu.pku.dlib.KnowSim.Main -Grammar.inPaths lib/models/15.exec/grammar -FeatureExtractor.featureDomains entityAlignmentFeature -EntityLexicon.freebaseDomainPath test/validDomains.txt -inFile test/testdocs.txt -outFile test/testdoc.sp.txt -tokenOutFile test/test.token.txt -EntityLinkingResultPath test/testdoc.linking.txt
+        java -cp libknowsim/knowsim.jar -ea -Dmodules=parser,core,freebase edu.pku.dlib.KnowSim.Main 
+        -Grammar.inPaths lib/models/15.exec/grammar -FeatureExtractor.featureDomains entityAlignmentFeature -EntityLexicon.freebaseDomainPath test/validDomains.txt 
+        -inFile test/testdocs.txt -outFile test/testdoc.sp.txt -tokenOutFile test/test.token.txt 
+        -EntityLinkingResultPath test/testdoc.linking.txt
         
 where `testdocs.txt` is the file of documents to analyze, `testdoc.sp.txt` is the output file of Text Semantic Parsing, `test.token.txt` is the output file of tokens of documents, `testdoc.linking.txt` is the result of AIDA apply to documents. `url` is the of url of freebase's query server.
   

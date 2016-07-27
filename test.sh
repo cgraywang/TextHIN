@@ -21,18 +21,19 @@ args="-Grammar.inPaths lib/models/15.exec/grammar "\
 io_args="-inFile $doc "\
 "-outFile $sp "\
 "-tokenOutFile $token "
-if [ $1 == "parse" ]; then
+
+if [ "$1" == "parse" ]; then
 	class="edu.pku.dlib.KnowSim.Main"
 	java -cp libknowsim/knowsim.jar $jvm_args $class $args $io_args
 fi
-if [ $1 == "pathcnt" ]; then
+if [ "$1" == "pathcnt" ]; then
 	if [ ! -d $out_dir ]; then
 		mkdir $out_dir
 	fi
 	class="models.clustering.handleSemanticParsing"
 	java -cp libknowsim/knowsim.jar $class $token $sp $out_dir $matrix_out_dir $max_length $stopwords
 fi
-if [ $1 == "calcsim" ]; then
+if [ "$1" == "calcsim" ]; then
 	class="MetaPathSim.MetaPathSim"
 	java -cp libknowsim/knowsim.jar $class $sim_mode $metapth $matrix_out_dir $doc_label $out_dir $sim_outfile
 fi

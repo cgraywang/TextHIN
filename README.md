@@ -39,7 +39,7 @@ We use [Accurate Online Disambiguation of Entities(AIDA)](https://github.com/yag
 ## non-definite Kernel SVM
 
 # USAGE
-We provide a small dataset at `test` directory which help you get through the workflow fo KnowSim.
+We provide a small dataset at `test` directory to help you get through the workflow fo KnowSim.
 
 ## Text Semantic Parsing
 
@@ -48,16 +48,14 @@ To anaylyze documents:
 
         java -cp libknowsim/knowsim.jar -ea -Dmodules=parser,core,freebase edu.pku.dlib.KnowSim.Main -Grammar.inPaths lib/models/15.exec/grammar -FeatureExtractor.featureDomains entityAlignmentFeature -EntityLexicon.freebaseDomainPath test/validDomains.txt -inFile test/testdocs.txt -outFile test/testdoc.sp.txt -tokenOutFile test/test.token.txt -EntityLinkingResultPath test/testdoc.linking.txt
         
-  where `testdocs.txt` is the file of documents to analyze, `testdoc.sp.txt` is the output file of Text Semantic Parsing, `test.token.txt` is the output file of tokens of documents, `testdoc.linking.txt` is the result of AIDA apply to documents.
-  `url` is the of url of freebase's query server.
+where `testdocs.txt` is the file of documents to analyze, `testdoc.sp.txt` is the output file of Text Semantic Parsing, `test.token.txt` is the output file of tokens of documents, `testdoc.linking.txt` is the result of AIDA apply to documents. `url` is the of url of freebase's query server.
   
+# IO Format
   
-  # IO Format
+## Documents Format
+Each document occupies two line. The first line is the ID of the document. The second line is the content of the document.
   
-  ## Documents Format
-  Each document occupies two line. The first line is the ID of the document. The second line is the content of the document.
-  
-  ## AIDA's entity linking file 
+## AIDA's entity linking file 
   
   
 

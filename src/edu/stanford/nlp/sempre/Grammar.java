@@ -13,7 +13,6 @@ import java.util.*;
 /**
  * The grammar is a set of rules of the form:
  *   (rule lhsCat (rhs ... rhs) semanticFn (key value) ... (key value))
-
  * Some programming-language-esque features are supported to make life easier.
  * All grammar-file variables should start with '@' (both loop variables and global definitions).
  * Includes (reads in commands from the given file):

@@ -41,7 +41,7 @@ KnowSim使用[Accurate Online Disambiguation of Entities(AIDA)](https://github.c
 ## non-definite Kernel SVM
 KnowSim使用了[non-definite Kernel SVM](http://empslocal.ex.ac.uk/people/staff/yy267/indefinitesvm_nips2009.zip)进行分类，其依赖于[IndefiniteSVM](http://www.di.ens.fr/~aspremon/ZIP/IndefiniteSVM.zip)。
 
-[IndefiniteSVM]中的一些c文件不与64位系统兼容，所以我们修改了它的mexFunctions目录下的一些文件来使其能在64为系统下编译。修改后的文件在本项目的`IndefiniteSVM`目录下
+[IndefiniteSVM]中的一些c文件不与64位系统兼容，所以我们修改了它的mexFunctions目录下的一些文件来使其能在64 位系统下编译。修改后的文件在本项目的`IndefiniteSVM`目录下
 
 # USAGE
 我们提供了一个小数据供测试使用，数据放在`test`目录下。`test.sh`脚本预设了了一些参数，并提供了一个简单的方法来运行程序。但是你需要修改其中的-SparqlExecutor.endpointUrl参数才能成功运行。

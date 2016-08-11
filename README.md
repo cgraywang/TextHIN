@@ -33,7 +33,7 @@ Other dependencies will be downloaded from Peking University Dlib Laboratory.
 
 KnowSim 使用Freebase做为外部知识来源，你需要启动你自己的[Virtuoso database] (https://github.com/openlink/virtuoso-opensource)来提供查询服务（除非有人已经为你做了）
 
-KnowSim所使用的[Freebase副本] (net.pku.edu.cn/dlib/resources/vdb.tar.bz2)（已经加载了Freebase的Virtuoso database数据库）。
+KnowSim所使用的[Freebase副本] (http://net.pku.edu.cn/dlib/resources/vdb.tar.bz2)（已经加载了Freebase的Virtuoso database数据库）。
 
 ## AIDA
 KnowSim使用[Accurate Online Disambiguation of Entities(AIDA)](https://github.com/yago-naga/aida)来帮助识别文本中的实体。AIDA的使用是可选择的。 
@@ -86,14 +86,47 @@ KnowSim使用了[non-definite Kernel SVM](http://empslocal.ex.ac.uk/people/staff
 其中`$token`语义分析阶段的token输出文件，`$sp`是语义分析阶段的结果输出文件, `$out_dir`是一个数据的输出目录，`$matrix_out_dir`是邻接矩阵的输出目录, `$max_length`是元路径的最大长度,`$stopwords`是停用词文本，默认为`lib/data/stopwords_lemmatized.txt`。
 
 ## Similarity 
+运行test.sh来生成测试文档间的相似度
+
+        bash test.sh calcsim
+
+也可以直接运行
+
+        java -cp libknowsim/knowsim.jar edu.pku.dlib.MetaPathSim.MetaPathSim
+        $sim_mode $metapth $matrix_out_dir $doc_label $out_dir $sim_outfile
+        
+其中`$sim_mode`可以是0,1,2，表示选择元路径和计算元路径权重的方式：
+- 0表示cosine MI
+- 1表示laplacian score
+- 2表示自定义元路径权重
+
+`$metapath`是自定义元路径文件（当mode=2时），当mode=0或1时可以是任意值。
+
+`$matrix_out_dir`是存储邻接矩阵的目录。
+
+`$doc_label`存储了文档对应的类别。
+
+`$out_dir`是第二阶段的数据输出路径。
+
+`#sim_outfile`相似度的输出文件。
 
   
 # IO Format
   
 ## Documents Format
-Each document occupies two line. The first line is the ID of the document. The second line is the content of the document.
+每个文档都占了量行，第一行是文档的ID，第二行是文档的内容。
   
-## AIDA's entity linking file 
+## AIDA's entity linking file
+每个文档的结果都占了多行，第一行是文档的ID，接下来是若干以'\t'为开头的行。每行包含四个以'\t'分隔的值:1.在文档中的字符串，2.实体的ID，3.实体的名字，4.实体的链接
+
+## Semantic Parsing Result
+每个文档的结果都占多行，第一行是文档的ID，接下来是若干行表示从文档中解析的实体与实体间关系。
+
+若某一行以'\t'开头，则这一行表示了一个实体，包含3以'\t'分隔的值:1实体ID，2.实体的类型， 3.在文档中的字符串
+
+若某一行一'\t\t'开头，包含四个以'\t'分隔的值：1.主语，2.谓语，3.宾语，4.level。level=1表示谓语在文档中出现了，level=2表示谓语在文档中不存在但在知识图谱中存在。
+
+
   
   
 

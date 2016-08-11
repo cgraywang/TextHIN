@@ -30,10 +30,10 @@ if [ "$1" == "pathcnt" ]; then
 	if [ ! -d $out_dir ]; then
 		mkdir $out_dir
 	fi
-	class="models.clustering.handleSemanticParsing"
+	class="edu.pku.dlib.models.clustering.handleSemanticParsing"
 	java -cp libknowsim/knowsim.jar $class $token $sp $out_dir $matrix_out_dir $max_length $stopwords
 fi
 if [ "$1" == "calcsim" ]; then
-	class="MetaPathSim.MetaPathSim"
+	class="edu.pku.dlib.MetaPathSim.MetaPathSim"
 	java -cp libknowsim/knowsim.jar $class $sim_mode $metapth $matrix_out_dir $doc_label $out_dir $sim_outfile
 fi

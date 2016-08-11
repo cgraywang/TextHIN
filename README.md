@@ -31,12 +31,13 @@ Other dependencies will be downloaded from Peking University Dlib Laboratory.
 
 ## Virtuoso graph database
 
-KnowSim use Freebase as extenal Knowledge source. You need to setup your own [Virtuoso database] (https://github.com/openlink/virtuoso-opensource) (unless someone already has done this for you):
+KnowSim 使用Freebase做为外部知识来源，你需要将Freebase载入到你自己的[Virtuoso database] (https://github.com/openlink/virtuoso-opensource)来提供查询服务（除非有人已经加载并提供服务）
+我们所使用的[Freebase] (net.pku.edu.cn/dlib/resources/vdb.tar.bz2)
 
 ## AIDA
 We use [Accurate Online Disambiguation of Entities(AIDA)](https://github.com/yago-naga/aida) to help recognize entities. It's optional for you to use AIDA. 
 
-## non-definite Kernel SVM
+## non-definite Kernel SVM·
 
 # USAGE
 We provide a small dataset at `test` directory to help you get through the workflow fo KnowSim.

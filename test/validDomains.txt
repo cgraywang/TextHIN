@@ -18,8 +18,4 @@ bicycles
 business
 biology
 spaceflight
-#aviation
-#cvg
 user.tsegaran.computer
-#!common.topic
-#!book.book

@@ -48,11 +48,12 @@ KnowSim使用了[non-definite Kernel SVM](http://empslocal.ex.ac.uk/people/staff
 
 ## Text Semantic Parsing
 在文本语义分析阶段，KnowSim识别和解析文档中的实体与关系。
-你可以使用运行test.sh来解析测试文档
+
+你直接使用运行test.sh来解析测试文档
 
         bash test.sh parse
         
-也可以直接运行：
+也可以运行：
 
         java -cp libknowsim/knowsim.jar -ea -Dmodules=parser,core,freebase edu.pku.dlib.KnowSim.Main 
         -Grammar.inPaths lib/models/15.exec/grammar 

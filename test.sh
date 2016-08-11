@@ -15,7 +15,7 @@ jvm_args="-ea "\
 
 args="-Grammar.inPaths lib/models/15.exec/grammar "\
 "-FeatureExtractor.featureDomains entityAlignmentFeature "\
-"SparqlExecutor.endpointUrl http://162.105.146.246:3093/sparql "\
+"-SparqlExecutor.endpointUrl http://162.105.146.246:3093/sparql "\
 "-EntityLexicon.freebaseDomainPath test/validDomains.txt "\
 "-EntityLinkingResultPath test/testdoc.linking.txt "
 io_args="-inFile $doc "\

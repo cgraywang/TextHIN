@@ -1,14 +1,18 @@
-doc="test/testdocs.txt"
-doc_label="test/testdoc.label.txt"
-token="test/test.token.txt"
-sp="test/testdoc.sp.txt"
-out_dir="test/out"
+dir="20NG"
+doc="${dir}/testdocs.txt"
+freebase_domain="${dir}/validDomains.txt"
+aida_result="${dir}/testdoc.linking.txt"
+doc_label="${dir}/testdoc.label.txt"
+token="${dir}/test.token.txt"
+sp="${dir}/testdoc.sp.txt"
+out_dir="${dir}/out"
 matrix_out_dir="${out_dir}/matrix"
 max_length="4"
 stopwords="lib/data/stopwords_lemmatized.txt"
 sim_mode="2"
-metapth="test/selected_metapath.txt"
+metapth="${dir}/selected_metapath.txt"
 sim_outfile="${out_dir}/sim.txt"
+
 
 jvm_args="-ea "\
 "-Dmodules=parser,core,freebase"
@@ -16,8 +20,8 @@ jvm_args="-ea "\
 args="-Grammar.inPaths lib/models/15.exec/grammar "\
 "-FeatureExtractor.featureDomains entityAlignmentFeature "\
 "-SparqlExecutor.endpointUrl http://162.105.146.246:3093/sparql "\
-"-EntityLexicon.freebaseDomainPath test/validDomains.txt "\
-"-EntityLinkingResultPath test/testdoc.linking.txt "
+"-EntityLexicon.freebaseDomainPath $freebase_domain "\
+"-EntityLinkingResultPath $aida_result "
 io_args="-inFile $doc "\
 "-outFile $sp "\
 "-tokenOutFile $token "

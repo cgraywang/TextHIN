@@ -134,7 +134,7 @@ public class handleSemanticParsing {
 		loadStopWords();
 		loadDocWords();
 		loadSPResult();
-//		eliminateUnvalidDoc();
+		eliminateUnvalidDoc();
 	}
 	
 	public static String getDomain(String type) {
@@ -208,8 +208,8 @@ public class handleSemanticParsing {
 		for (String docid: doc_word_cnt.keySet()) {
 			if (doc_word_cnt.get(docid).size() == 0)
 				continue;
-//			if (!doc_e_cnt.containsKey(docid) || doc_e_cnt.get(docid).size() == 0)
-//				continue;
+			if (!doc_e_cnt.containsKey(docid) || doc_e_cnt.get(docid).size() == 0)
+				continue;
 			goodDocs.add(docid);
 		}
 		doc_word_cnt = extract(doc_word_cnt, goodDocs);

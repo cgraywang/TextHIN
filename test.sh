@@ -1,4 +1,4 @@
-dir="20NG"
+dir="test"
 doc="${dir}/testdocs.txt"
 freebase_domain="${dir}/validDomains.txt"
 aida_result="${dir}/testdoc.linking.txt"

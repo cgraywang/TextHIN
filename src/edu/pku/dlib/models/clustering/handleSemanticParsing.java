@@ -134,7 +134,7 @@ public class handleSemanticParsing {
 		loadStopWords();
 		loadDocWords();
 		loadSPResult();
-		eliminateUnvalidDoc();
+		// eliminateUnvalidDoc();
 	}
 	
 	public static String getDomain(String type) {

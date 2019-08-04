@@ -19,6 +19,9 @@
         $ bash test.sh calcsim
         $ java -cp libknowsim/knowsim.jar edu.pku.dlib.MetaPathSim.MetaPathSim
                 $sim_mode $metapth $matrix_out_dir $doc_label $out_dir $sim_outfile
+                
+## Where is Text based Heterogeneous Information Network Datasets:
+        [data](https://github.com/cgraywang/TextHINData)
 
 ## References:
 

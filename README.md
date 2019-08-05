@@ -25,6 +25,37 @@ We released the network datasets for [20 newsgroups text dataset](http://qwone.c
 
 ## References:
 
+        @article{wang2018unsupervised,
+        title={Unsupervised meta-path selection for text similarity measure based on heterogeneous information networks},
+        author={Wang, Chenguang and Song, Yangqiu and Li, Haoran and Zhang, Ming and Han, Jiawei},
+        journal={Data Mining and Knowledge Discovery},
+        volume={32},
+        number={6},
+        pages={1735--1767},
+        year={2018},
+        publisher={Springer}
+        }
+        
+        @inproceedings{wang2017distant,
+        title={Distant meta-path similarities for text-based heterogeneous information networks},
+        author={Wang, Chenguang and Song, Yangqiu and Li, Haoran and Sun, Yizhou and Zhang, Ming and Han, Jiawei},
+        booktitle={Proceedings of the 2017 ACM on Conference on Information and Knowledge Management},
+        pages={1629--1638},
+        year={2017},
+        organization={ACM}
+        }
+        
+        @article{wang2016world,
+        title={World knowledge as indirect supervision for document clustering},
+        author={Wang, Chenguang and Song, Yangqiu and Roth, Dan and Zhang, Ming and Han, Jiawei},
+        journal={ACM Transactions on Knowledge Discovery from Data (TKDD)},
+        volume={11},
+        number={2},
+        pages={13},
+        year={2016},
+        publisher={ACM}
+        }
+        
         @inproceedings{wang2016text,
         title={Text Classification with Heterogeneous Information Network Kernels},
         author={Wang, Chenguang and Song, Yangqiu and Li, Haoran and Zhang, Ming and Han, Jiawei},

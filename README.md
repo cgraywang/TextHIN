@@ -21,7 +21,7 @@
                 $sim_mode $metapth $matrix_out_dir $doc_label $out_dir $sim_outfile
                 
 ## Where is Text based Heterogeneous Information Network Datasets:
-We released the network datasets for [20 newsgroups text dataset](http://qwone.com/~jason/20Newsgroups/) and [RCV1 GCAT category text dataset](http://www.daviddlewis.com/resources/testcollections/rcv1/) [[data]](https://github.com/cgraywang/TextHINData).
+We released the network datasets [[data]](https://github.com/cgraywang/TextHINData) for 20 newsgroups text dataset and RCV1 GCAT category text dataset.
 
 ## References:
 

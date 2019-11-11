@@ -1,6 +1,6 @@
-# Text-based Heterogeneous Information Network Mining
+# A text-to-network representation and semantic parsing toolkit
 
-## How to Use Unsupervised Semantic Parsing:
+## How to use:
         $ git clone https://github.com/cgraywang/TextHIN.git
         $ ruby pull-dependencies.rb
         $ ant compile
@@ -20,7 +20,7 @@
         $ java -cp libknowsim/knowsim.jar edu.pku.dlib.MetaPathSim.MetaPathSim
                 $sim_mode $metapth $matrix_out_dir $doc_label $out_dir $sim_outfile
                 
-## Where is Text based Heterogeneous Information Network Datasets:
+## Pre-constructed text-to-networks:
 We released the network datasets [[data]](https://github.com/cgraywang/TextHINData) for 20 newsgroups text dataset and RCV1 GCAT category text dataset.
 
 ## References:
